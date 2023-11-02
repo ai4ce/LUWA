@@ -1,3 +1,5 @@
+import cv2
+from sklearn.manifold import TSNE
 import torch
 import numpy as np
 import matplotlib.pyplot as plt
@@ -58,6 +60,23 @@ def plot_confusion_matrix(fig_name, labels, pred_labels, classes):
     cm = confusion_matrix(labels, pred_labels);
     cm = ConfusionMatrixDisplay(cm, display_labels=classes);
     cm.plot(values_format='d', cmap='Blues', ax=ax)
+    fig.delaxes(fig.axes[1])  # delete colorbar
+    plt.xticks(rotation=90, fontsize=50)
+    plt.yticks(fontsize=50)
+    plt.rcParams.update({'font.size': 50})
+    plt.xlabel('Predicted Label', fontsize=50)
+    plt.ylabel('True Label', fontsize=50)
+    plt.savefig(fig_name)
+
+def plot_confusion_matrix_SVM(fig_name, true_labels, predicted_labels, classes):
+    fig = plt.figure(figsize=(100, 100))
+    ax = fig.add_subplot(1, 1, 1)
+    
+    cm = confusion_matrix(true_labels, predicted_labels)
+    cm_display = ConfusionMatrixDisplay(cm, display_labels=classes)
+    
+    cm_display.plot(values_format='d', cmap='Blues', ax=ax)
+    
     fig.delaxes(fig.axes[1])  # delete colorbar
     plt.xticks(rotation=90, fontsize=50)
     plt.yticks(fontsize=50)
@@ -180,3 +199,52 @@ def plot_filters(fig_name, filters, normalize=True):
 
     fig.subplots_adjust(wspace=-0.9)
     plt.savefig(fig_name)
+
+def plot_tsne(fig_name, all_features, all_labels):
+    tsne = TSNE(n_components=2, random_state=42)
+    tsne_results = tsne.fit_transform(all_features)
+    plt.figure(figsize=(10, 7))
+    scatter = plt.scatter(tsne_results[:, 0], tsne_results[:, 1], c=all_labels, cmap='viridis', s=5)
+    plt.colorbar(scatter)
+    plt.title('t-SNE Visualization')
+    plt.show()
+    plt.savefig(fig_name)
+
+
+def plot_grad_cam(images, cams, predicted_labels, true_labels, classes, path):
+    fig, axs = plt.subplots(nrows=2, ncols=len(images), figsize=(20, 10))
+    
+    for i, (img, cam, pred_label, true_label) in enumerate(zip(images, cams, predicted_labels, true_labels)):
+        # Display the original image on the top row
+        axs[0, i].imshow(img.permute(1,2,0).cpu().numpy())
+        pred_class_name = classes[pred_label]
+        true_class_name = classes[true_label]
+        axs[0, i].set_title(f"Predicted: {pred_class_name}\nTrue: {true_class_name}", fontsize=12)
+        axs[0, i].axis('off')
+
+        # Add label to the leftmost plot
+        if i == 0:
+            axs[0, i].set_ylabel("Original Image", fontsize=14, rotation=90, labelpad=10)
+        
+        # Convert the original image to grayscale
+        grayscale_img = cv2.cvtColor(img.permute(1,2,0).cpu().numpy(), cv2.COLOR_RGB2GRAY)
+        grayscale_img = cv2.cvtColor(grayscale_img, cv2.COLOR_GRAY2RGB)
+
+        # Overlay the Grad-CAM heatmap on the grayscale image
+        heatmap = cv2.applyColorMap(np.uint8(255 * cam), cv2.COLORMAP_JET)
+        heatmap = np.float32(heatmap) / 255
+        cam_img = heatmap + np.float32(grayscale_img)
+        cam_img = cam_img / np.max(cam_img)
+
+        # Display the Grad-CAM image on the bottom row
+        axs[1, i].imshow(cam_img)
+        axs[1, i].axis('off')
+
+        # Add label to the leftmost plot
+        if i == 0:
+            axs[1, i].set_ylabel("Grad-CAM", fontsize=14, rotation=90, labelpad=10)
+    
+    plt.tight_layout()
+    plt.savefig(path)
+    plt.close()
+
