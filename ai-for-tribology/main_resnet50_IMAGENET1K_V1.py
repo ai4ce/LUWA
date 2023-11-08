@@ -17,7 +17,7 @@ import torchvision.models as models
 from torchvision.models import resnet50
 
 
-from sklearn import manifold
+
 
 
 import numpy as np
@@ -28,7 +28,6 @@ import os
 import random
 import shutil
 import time
-from sklearn.model_selection import KFold
 from datasets import TribologyDataset
 from models import Bottleneck, ResNet
 from utils import calculate_topk_accuracy, epoch_time, plot_lr_finder, plot_confusion_matrix, plot_most_incorrect, get_pca, plot_representations, plot_filters, plot_filtered_images
@@ -261,20 +260,35 @@ if __name__ == '__main__':
     torch.backends.cudnn.deterministic = True
 
     # train/test split
-    input_path = '/scratch/hw3245/Ai-for-Tribology/cropped_images/Dataset'
+
+    train_csv_path = "/mnt/c/0_DATASET/AI_for_Tribology/LUA_Dataset_Nov/CSV/256_50x_6w_train_eval.csv"
+    test_csv_path = "/mnt/c/0_DATASET/AI_for_Tribology/LUA_Dataset_Nov/CSV/256_50x_6w_test.csv"
+    img_path = "/mnt/c/0_DATASET/AI_for_Tribology/LUA_Dataset_Nov/256/50x/texture"
+
     results_acc_1 = {}
     results_acc_3 = {}
     classes_num = 6
     BATCHSIZE = 100
-    train_dataset = TribologyDataset(input_path, split='train')
-    test_dataset = TribologyDataset(input_path, split='test')
+    train_dataset = TribologyDataset(csv_path = train_csv_path, img_path = img_path)
+    test_dataset = TribologyDataset(csv_path=test_csv_path, img_path=img_path)
 
-    classes = ['0.ANTLER',
-     '1.BEECHWOOD',
-     '2.BONE',
-     '3.IVORY',
-     '4.SPRUCEWOOD',
-     '5.BU']
+    # self.labels_maps = {"antler": 0, "beechwood": 1, "beforeuse": 2, "bone": 3,
+    #                     "ivory": 4, "sprucewood": 5, "barley": 6, "fern": 7, "horsetail": 8}
+    classes = ['0.antler',
+               '1.beechwood',
+               '2.beforeuse',
+               '3.bone',
+               '4.ivory',
+               '5.sprucewood']
+    # classes = ['0.antler',
+    #  '1.beechwood',
+    #  '2.beforeuse',
+    #  '3.bone',
+    #  '4.ivory',
+    #  '5.sprucewood',
+    # '6.barley',
+    # '7.fern',
+    # '8.horsetail']
 
     # Start print
     print('--------------------------------')
