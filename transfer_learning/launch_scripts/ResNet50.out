@@ -1,0 +1,1140 @@
+Traceback (most recent call last):
+  File "dl_supervised_pipeline.py", line 20, in <module>
+    from utils.experiment_utils import get_model, get_name, get_logger, train, evaluate, evaluate_vote
+  File "/scratch/zf540/LUWA/workspace/utils/experiment_utils.py", line 7, in <module>
+    from utils.MAE import mae_vit_large_patch16_dec512d8b as MAE_large 
+  File "/scratch/zf540/LUWA/workspace/utils/MAE.py", line 19, in <module>
+    from model_utils import get_2d_sincos_pos_embed
+ModuleNotFoundError: No module named 'model_utils'
+Traceback (most recent call last):
+  File "dl_supervised_pipeline.py", line 20, in <module>
+    from utils.experiment_utils import get_model, get_name, get_logger, train, evaluate, evaluate_vote
+  File "/scratch/zf540/LUWA/workspace/utils/experiment_utils.py", line 7, in <module>
+    from utils.MAE import mae_vit_large_patch16_dec512d8b as MAE_large 
+  File "/scratch/zf540/LUWA/workspace/utils/MAE.py", line 19, in <module>
+    from model_utils import get_2d_sincos_pos_embed
+ModuleNotFoundError: No module named 'model_utils'
+Traceback (most recent call last):
+  File "dl_supervised_pipeline.py", line 20, in <module>
+    from utils.experiment_utils import get_model, get_name, get_logger, train, evaluate, evaluate_vote
+  File "/scratch/zf540/LUWA/workspace/utils/experiment_utils.py", line 7, in <module>
+    from utils.MAE import mae_vit_large_patch16_dec512d8b as MAE_large 
+  File "/scratch/zf540/LUWA/workspace/utils/MAE.py", line 19, in <module>
+    from model_utils import get_2d_sincos_pos_embed
+ModuleNotFoundError: No module named 'model_utils'
+Traceback (most recent call last):
+  File "dl_supervised_pipeline.py", line 20, in <module>
+    from utils.experiment_utils import get_model, get_name, get_logger, train, evaluate, evaluate_vote
+  File "/scratch/zf540/LUWA/workspace/utils/experiment_utils.py", line 7, in <module>
+    from utils.MAE import mae_vit_large_patch16_dec512d8b as MAE_large 
+  File "/scratch/zf540/LUWA/workspace/utils/MAE.py", line 19, in <module>
+    from model_utils import get_2d_sincos_pos_embed
+ModuleNotFoundError: No module named 'model_utils'
+Traceback (most recent call last):
+  File "dl_supervised_pipeline.py", line 20, in <module>
+    from utils.experiment_utils import get_model, get_name, get_logger, train, evaluate, evaluate_vote
+  File "/scratch/zf540/LUWA/workspace/utils/experiment_utils.py", line 7, in <module>
+    from utils.MAE import mae_vit_large_patch16_dec512d8b as MAE_large 
+  File "/scratch/zf540/LUWA/workspace/utils/MAE.py", line 19, in <module>
+    from model_utils import get_2d_sincos_pos_embed
+ModuleNotFoundError: No module named 'model_utils'
+Traceback (most recent call last):
+  File "dl_supervised_pipeline.py", line 20, in <module>
+    from utils.experiment_utils import get_model, get_name, get_logger, train, evaluate, evaluate_vote
+  File "/scratch/zf540/LUWA/workspace/utils/experiment_utils.py", line 7, in <module>
+    from utils.MAE import mae_vit_large_patch16_dec512d8b as MAE_large 
+  File "/scratch/zf540/LUWA/workspace/utils/MAE.py", line 19, in <module>
+    from model_utils import get_2d_sincos_pos_embed
+ModuleNotFoundError: No module named 'model_utils'
+Traceback (most recent call last):
+  File "dl_supervised_pipeline.py", line 20, in <module>
+    from utils.experiment_utils import get_model, get_name, get_logger, train, evaluate, evaluate_vote
+  File "/scratch/zf540/LUWA/workspace/utils/experiment_utils.py", line 7, in <module>
+    from utils.MAE import mae_vit_large_patch16_dec512d8b as MAE_large 
+  File "/scratch/zf540/LUWA/workspace/utils/MAE.py", line 19, in <module>
+    from model_utils import get_2d_sincos_pos_embed
+ModuleNotFoundError: No module named 'model_utils'
+Traceback (most recent call last):
+  File "dl_supervised_pipeline.py", line 20, in <module>
+    from utils.experiment_utils import get_model, get_name, get_logger, train, evaluate, evaluate_vote
+  File "/scratch/zf540/LUWA/workspace/utils/experiment_utils.py", line 7, in <module>
+    from utils.MAE import mae_vit_large_patch16_dec512d8b as MAE_large 
+  File "/scratch/zf540/LUWA/workspace/utils/MAE.py", line 19, in <module>
+    from model_utils import get_2d_sincos_pos_embed
+ModuleNotFoundError: No module named 'model_utils'
+Traceback (most recent call last):
+  File "dl_supervised_pipeline.py", line 20, in <module>
+    from utils.experiment_utils import get_model, get_name, get_logger, train, evaluate, evaluate_vote
+  File "/scratch/zf540/LUWA/workspace/utils/experiment_utils.py", line 7, in <module>
+    from utils.MAE import mae_vit_large_patch16_dec512d8b as MAE_large 
+  File "/scratch/zf540/LUWA/workspace/utils/MAE.py", line 19, in <module>
+    from model_utils import get_2d_sincos_pos_embed
+ModuleNotFoundError: No module named 'model_utils'
+Traceback (most recent call last):
+  File "dl_supervised_pipeline.py", line 20, in <module>
+    from utils.experiment_utils import get_model, get_name, get_logger, train, evaluate, evaluate_vote
+  File "/scratch/zf540/LUWA/workspace/utils/experiment_utils.py", line 7, in <module>
+    from utils.MAE import mae_vit_large_patch16_dec512d8b as MAE_large 
+  File "/scratch/zf540/LUWA/workspace/utils/MAE.py", line 19, in <module>
+    from model_utils import get_2d_sincos_pos_embed
+ModuleNotFoundError: No module named 'model_utils'
+Traceback (most recent call last):
+  File "dl_supervised_pipeline.py", line 20, in <module>
+    from utils.experiment_utils import get_model, get_name, get_logger, train, evaluate, evaluate_vote
+  File "/scratch/zf540/LUWA/workspace/utils/experiment_utils.py", line 7, in <module>
+    from utils.MAE import mae_vit_large_patch16_dec512d8b as MAE_large 
+  File "/scratch/zf540/LUWA/workspace/utils/MAE.py", line 19, in <module>
+    from model_utils import get_2d_sincos_pos_embed
+ModuleNotFoundError: No module named 'model_utils'
+Traceback (most recent call last):
+  File "dl_supervised_pipeline.py", line 20, in <module>
+    from utils.experiment_utils import get_model, get_name, get_logger, train, evaluate, evaluate_vote
+  File "/scratch/zf540/LUWA/workspace/utils/experiment_utils.py", line 7, in <module>
+    from utils.MAE import mae_vit_large_patch16_dec512d8b as MAE_large 
+  File "/scratch/zf540/LUWA/workspace/utils/MAE.py", line 19, in <module>
+    from model_utils import get_2d_sincos_pos_embed
+ModuleNotFoundError: No module named 'model_utils'
+ResNet50_256_20x_heightmap_scratch_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_20x_heightmap_scratch_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_20x_heightmap_scratch_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_20x_heightmap_scratch_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_50x_texture_pretrained_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_50x_texture_pretrained_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_50x_texture_pretrained_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_50x_texture_pretrained_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_50x_texture_scratch_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_50x_texture_scratch_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_50x_texture_scratch_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_50x_texture_scratch_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_50x_heightmap_pretrained_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_50x_heightmap_pretrained_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_50x_heightmap_pretrained_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_50x_heightmap_pretrained_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_50x_heightmap_scratch_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_50x_heightmap_scratch_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_50x_heightmap_scratch_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_50x_heightmap_scratch_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_20x+50x_texture_pretrained_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_20x+50x_texture_pretrained_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_20x+50x_texture_pretrained_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_20x+50x_texture_pretrained_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_20x+50x_texture_scratch_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_20x+50x_texture_scratch_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_20x+50x_texture_scratch_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_20x+50x_texture_scratch_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_20x+50x_heightmap_pretrained_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_20x+50x_heightmap_pretrained_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_20x+50x_heightmap_pretrained_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_20x+50x_heightmap_pretrained_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_20x+50x_heightmap_scratch_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_20x+50x_heightmap_scratch_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_20x+50x_heightmap_scratch_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_256_20x+50x_heightmap_scratch_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_512_20x_texture_pretrained_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_512_20x_texture_pretrained_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_512_20x_texture_pretrained_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_512_20x_texture_pretrained_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_512_20x_texture_scratch_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_512_20x_texture_scratch_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_512_20x_texture_scratch_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_512_20x_texture_scratch_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_512_20x_heightmap_pretrained_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_512_20x_heightmap_pretrained_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_512_20x_heightmap_pretrained_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_512_20x_heightmap_pretrained_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_512_20x_heightmap_scratch_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_512_20x_heightmap_scratch_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_512_20x_heightmap_scratch_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_512_20x_heightmap_scratch_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_512_50x_texture_pretrained_frozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:08<01:20,  8.96s/it] 20%|██        | 2/10 [00:11<00:41,  5.15s/it] 30%|███       | 3/10 [00:13<00:27,  3.94s/it] 40%|████      | 4/10 [00:16<00:20,  3.42s/it] 50%|█████     | 5/10 [00:19<00:15,  3.10s/it] 60%|██████    | 6/10 [00:21<00:11,  2.89s/it] 70%|███████   | 7/10 [00:24<00:08,  2.78s/it] 80%|████████  | 8/10 [00:26<00:05,  2.69s/it] 90%|█████████ | 9/10 [00:29<00:02,  2.63s/it]100%|██████████| 10/10 [00:31<00:00,  2.58s/it]100%|██████████| 10/10 [00:31<00:00,  3.16s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:36,  4.11s/it] 20%|██        | 2/10 [00:05<00:18,  2.36s/it] 30%|███       | 3/10 [00:06<00:12,  1.81s/it] 40%|████      | 4/10 [00:07<00:09,  1.57s/it] 50%|█████     | 5/10 [00:08<00:07,  1.43s/it] 60%|██████    | 6/10 [00:09<00:05,  1.33s/it] 70%|███████   | 7/10 [00:11<00:03,  1.27s/it] 80%|████████  | 8/10 [00:12<00:02,  1.22s/it] 90%|█████████ | 9/10 [00:13<00:01,  1.20s/it]100%|██████████| 10/10 [00:14<00:00,  1.18s/it]100%|██████████| 10/10 [00:14<00:00,  1.45s/it]
+TESTING DONE
+ResNet50_512_50x_texture_pretrained_frozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:08<01:16,  8.51s/it] 20%|██        | 2/10 [00:11<00:39,  4.99s/it] 30%|███       | 3/10 [00:13<00:27,  3.90s/it] 40%|████      | 4/10 [00:16<00:20,  3.37s/it] 50%|█████     | 5/10 [00:18<00:15,  3.08s/it] 60%|██████    | 6/10 [00:21<00:11,  2.90s/it] 70%|███████   | 7/10 [00:23<00:08,  2.81s/it] 80%|████████  | 8/10 [00:26<00:05,  2.72s/it] 90%|█████████ | 9/10 [00:28<00:02,  2.66s/it]100%|██████████| 10/10 [00:31<00:00,  2.62s/it]100%|██████████| 10/10 [00:31<00:00,  3.15s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:03<00:31,  3.44s/it] 20%|██        | 2/10 [00:04<00:16,  2.09s/it] 30%|███       | 3/10 [00:05<00:11,  1.67s/it] 40%|████      | 4/10 [00:06<00:08,  1.48s/it] 50%|█████     | 5/10 [00:08<00:06,  1.35s/it] 60%|██████    | 6/10 [00:09<00:05,  1.29s/it] 70%|███████   | 7/10 [00:10<00:03,  1.25s/it] 80%|████████  | 8/10 [00:11<00:02,  1.23s/it] 90%|█████████ | 9/10 [00:12<00:01,  1.21s/it]100%|██████████| 10/10 [00:13<00:00,  1.19s/it]100%|██████████| 10/10 [00:13<00:00,  1.39s/it]
+TESTING DONE
+ResNet50_512_50x_texture_pretrained_unfrozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:08<01:15,  8.39s/it] 20%|██        | 2/10 [00:13<00:50,  6.27s/it] 30%|███       | 3/10 [00:17<00:39,  5.61s/it] 40%|████      | 4/10 [00:22<00:31,  5.26s/it] 50%|█████     | 5/10 [00:27<00:25,  5.08s/it] 60%|██████    | 6/10 [00:32<00:19,  4.98s/it] 70%|███████   | 7/10 [00:37<00:14,  4.91s/it] 80%|████████  | 8/10 [00:41<00:09,  4.89s/it] 90%|█████████ | 9/10 [00:46<00:04,  4.86s/it]100%|██████████| 10/10 [00:51<00:00,  4.85s/it]100%|██████████| 10/10 [00:51<00:00,  5.15s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:02<00:18,  2.03s/it] 20%|██        | 2/10 [00:03<00:12,  1.54s/it] 30%|███       | 3/10 [00:04<00:09,  1.37s/it] 40%|████      | 4/10 [00:05<00:07,  1.30s/it] 50%|█████     | 5/10 [00:06<00:06,  1.25s/it] 60%|██████    | 6/10 [00:07<00:04,  1.22s/it] 70%|███████   | 7/10 [00:09<00:03,  1.21s/it] 80%|████████  | 8/10 [00:10<00:02,  1.20s/it] 90%|█████████ | 9/10 [00:11<00:01,  1.19s/it]100%|██████████| 10/10 [00:12<00:00,  1.18s/it]100%|██████████| 10/10 [00:12<00:00,  1.26s/it]
+TESTING DONE
+ResNet50_512_50x_texture_pretrained_unfrozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:09<01:22,  9.16s/it] 20%|██        | 2/10 [00:13<00:52,  6.58s/it] 30%|███       | 3/10 [00:18<00:40,  5.80s/it] 40%|████      | 4/10 [00:23<00:32,  5.39s/it] 50%|█████     | 5/10 [00:28<00:25,  5.18s/it] 60%|██████    | 6/10 [00:33<00:20,  5.04s/it] 70%|███████   | 7/10 [00:37<00:14,  4.95s/it] 80%|████████  | 8/10 [00:42<00:09,  4.89s/it] 90%|█████████ | 9/10 [00:47<00:04,  4.86s/it]100%|██████████| 10/10 [00:52<00:00,  4.83s/it]100%|██████████| 10/10 [00:52<00:00,  5.22s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:03<00:27,  3.06s/it] 20%|██        | 2/10 [00:04<00:15,  1.95s/it] 30%|███       | 3/10 [00:05<00:11,  1.64s/it] 40%|████      | 4/10 [00:06<00:08,  1.46s/it] 50%|█████     | 5/10 [00:07<00:06,  1.35s/it] 60%|██████    | 6/10 [00:09<00:05,  1.29s/it] 70%|███████   | 7/10 [00:10<00:03,  1.25s/it] 80%|████████  | 8/10 [00:11<00:02,  1.23s/it] 90%|█████████ | 9/10 [00:12<00:01,  1.21s/it]100%|██████████| 10/10 [00:13<00:00,  1.21s/it]100%|██████████| 10/10 [00:13<00:00,  1.38s/it]
+TESTING DONE
+ResNet50_512_50x_texture_scratch_frozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:08<02:32,  8.05s/it] 10%|█         | 2/20 [00:10<01:27,  4.86s/it] 15%|█▌        | 3/20 [00:13<01:04,  3.81s/it] 20%|██        | 4/20 [00:15<00:53,  3.32s/it] 25%|██▌       | 5/20 [00:18<00:45,  3.05s/it] 30%|███       | 6/20 [00:20<00:40,  2.87s/it] 35%|███▌      | 7/20 [00:23<00:36,  2.78s/it] 40%|████      | 8/20 [00:26<00:32,  2.71s/it] 45%|████▌     | 9/20 [00:28<00:29,  2.68s/it] 50%|█████     | 10/20 [00:31<00:26,  2.65s/it] 55%|█████▌    | 11/20 [00:33<00:23,  2.61s/it] 60%|██████    | 12/20 [00:36<00:20,  2.60s/it] 65%|██████▌   | 13/20 [00:38<00:18,  2.59s/it] 70%|███████   | 14/20 [00:41<00:15,  2.58s/it] 75%|███████▌  | 15/20 [00:44<00:12,  2.57s/it] 80%|████████  | 16/20 [00:46<00:10,  2.56s/it] 85%|████████▌ | 17/20 [00:49<00:07,  2.56s/it] 90%|█████████ | 18/20 [00:51<00:05,  2.57s/it] 95%|█████████▌| 19/20 [00:54<00:02,  2.57s/it]100%|██████████| 20/20 [00:56<00:00,  2.57s/it]100%|██████████| 20/20 [00:56<00:00,  2.84s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:03<01:07,  3.53s/it] 10%|█         | 2/20 [00:04<00:40,  2.22s/it] 15%|█▌        | 3/20 [00:06<00:30,  1.77s/it] 20%|██        | 4/20 [00:07<00:24,  1.55s/it] 25%|██▌       | 5/20 [00:08<00:22,  1.50s/it] 30%|███       | 6/20 [00:09<00:19,  1.42s/it] 35%|███▌      | 7/20 [00:11<00:17,  1.33s/it] 40%|████      | 8/20 [00:12<00:16,  1.35s/it] 45%|████▌     | 9/20 [00:13<00:14,  1.32s/it] 50%|█████     | 10/20 [00:14<00:12,  1.29s/it] 55%|█████▌    | 11/20 [00:16<00:11,  1.24s/it] 60%|██████    | 12/20 [00:17<00:09,  1.24s/it] 65%|██████▌   | 13/20 [00:18<00:08,  1.21s/it] 70%|███████   | 14/20 [00:19<00:07,  1.21s/it] 75%|███████▌  | 15/20 [00:20<00:05,  1.19s/it] 80%|████████  | 16/20 [00:22<00:04,  1.19s/it] 85%|████████▌ | 17/20 [00:23<00:03,  1.18s/it] 90%|█████████ | 18/20 [00:24<00:02,  1.20s/it] 95%|█████████▌| 19/20 [00:25<00:01,  1.22s/it]100%|██████████| 20/20 [00:26<00:00,  1.21s/it]100%|██████████| 20/20 [00:26<00:00,  1.34s/it]
+TESTING DONE
+ResNet50_512_50x_texture_scratch_frozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:07<02:30,  7.90s/it] 10%|█         | 2/20 [00:10<01:26,  4.79s/it] 15%|█▌        | 3/20 [00:13<01:03,  3.75s/it] 20%|██        | 4/20 [00:15<00:52,  3.31s/it] 25%|██▌       | 5/20 [00:18<00:45,  3.04s/it] 30%|███       | 6/20 [00:20<00:40,  2.88s/it] 35%|███▌      | 7/20 [00:23<00:36,  2.77s/it] 40%|████      | 8/20 [00:25<00:32,  2.72s/it] 45%|████▌     | 9/20 [00:28<00:29,  2.68s/it] 50%|█████     | 10/20 [00:31<00:26,  2.63s/it] 55%|█████▌    | 11/20 [00:33<00:23,  2.60s/it] 60%|██████    | 12/20 [00:36<00:20,  2.59s/it] 65%|██████▌   | 13/20 [00:38<00:18,  2.59s/it] 70%|███████   | 14/20 [00:41<00:15,  2.58s/it] 75%|███████▌  | 15/20 [00:43<00:12,  2.58s/it] 80%|████████  | 16/20 [00:46<00:10,  2.57s/it] 85%|████████▌ | 17/20 [00:48<00:07,  2.56s/it] 90%|█████████ | 18/20 [00:51<00:05,  2.57s/it] 95%|█████████▌| 19/20 [00:54<00:02,  2.57s/it]100%|██████████| 20/20 [00:56<00:00,  2.57s/it]100%|██████████| 20/20 [00:56<00:00,  2.84s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:03<01:09,  3.68s/it] 10%|█         | 2/20 [00:04<00:40,  2.26s/it] 15%|█▌        | 3/20 [00:06<00:31,  1.84s/it] 20%|██        | 4/20 [00:07<00:25,  1.62s/it] 25%|██▌       | 5/20 [00:08<00:22,  1.48s/it] 30%|███       | 6/20 [00:10<00:19,  1.38s/it] 35%|███▌      | 7/20 [00:11<00:18,  1.41s/it] 40%|████      | 8/20 [00:12<00:16,  1.34s/it] 45%|████▌     | 9/20 [00:14<00:14,  1.35s/it] 50%|█████     | 10/20 [00:15<00:12,  1.30s/it] 55%|█████▌    | 11/20 [00:16<00:11,  1.27s/it] 60%|██████    | 12/20 [00:17<00:10,  1.27s/it] 65%|██████▌   | 13/20 [00:18<00:08,  1.23s/it] 70%|███████   | 14/20 [00:19<00:07,  1.21s/it] 75%|███████▌  | 15/20 [00:21<00:05,  1.20s/it] 80%|████████  | 16/20 [00:22<00:04,  1.19s/it] 85%|████████▌ | 17/20 [00:23<00:03,  1.18s/it] 90%|█████████ | 18/20 [00:24<00:02,  1.18s/it] 95%|█████████▌| 19/20 [00:25<00:01,  1.17s/it]100%|██████████| 20/20 [00:27<00:00,  1.18s/it]100%|██████████| 20/20 [00:27<00:00,  1.35s/it]
+TESTING DONE
+ResNet50_512_50x_texture_scratch_unfrozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:10<03:27, 10.91s/it] 10%|█         | 2/20 [00:15<02:13,  7.40s/it] 15%|█▌        | 3/20 [00:20<01:45,  6.20s/it] 20%|██        | 4/20 [00:25<01:30,  5.63s/it] 25%|██▌       | 5/20 [00:30<01:20,  5.34s/it] 30%|███       | 6/20 [00:35<01:12,  5.17s/it] 35%|███▌      | 7/20 [00:39<01:05,  5.05s/it] 40%|████      | 8/20 [00:44<00:59,  4.98s/it] 45%|████▌     | 9/20 [00:49<00:54,  4.92s/it] 50%|█████     | 10/20 [00:54<00:48,  4.87s/it] 55%|█████▌    | 11/20 [00:59<00:43,  4.85s/it] 60%|██████    | 12/20 [01:03<00:38,  4.83s/it] 65%|██████▌   | 13/20 [01:08<00:33,  4.82s/it] 70%|███████   | 14/20 [01:13<00:28,  4.82s/it] 75%|███████▌  | 15/20 [01:18<00:24,  4.81s/it] 80%|████████  | 16/20 [01:23<00:19,  4.82s/it] 85%|████████▌ | 17/20 [01:27<00:14,  4.83s/it] 90%|█████████ | 18/20 [01:32<00:09,  4.84s/it] 95%|█████████▌| 19/20 [01:37<00:04,  4.84s/it]100%|██████████| 20/20 [01:42<00:00,  4.82s/it]100%|██████████| 20/20 [01:42<00:00,  5.12s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:01<00:31,  1.63s/it] 10%|█         | 2/20 [00:03<00:28,  1.56s/it] 15%|█▌        | 3/20 [00:04<00:25,  1.52s/it] 20%|██        | 4/20 [00:05<00:23,  1.46s/it] 25%|██▌       | 5/20 [00:07<00:21,  1.47s/it] 30%|███       | 6/20 [00:08<00:20,  1.45s/it] 35%|███▌      | 7/20 [00:10<00:18,  1.40s/it] 40%|████      | 8/20 [00:11<00:16,  1.36s/it] 45%|████▌     | 9/20 [00:12<00:14,  1.35s/it] 50%|█████     | 10/20 [00:14<00:13,  1.32s/it] 55%|█████▌    | 11/20 [00:15<00:11,  1.30s/it] 60%|██████    | 12/20 [00:16<00:10,  1.30s/it] 65%|██████▌   | 13/20 [00:17<00:08,  1.29s/it] 70%|███████   | 14/20 [00:19<00:07,  1.25s/it] 75%|███████▌  | 15/20 [00:20<00:06,  1.25s/it] 80%|████████  | 16/20 [00:21<00:04,  1.23s/it] 85%|████████▌ | 17/20 [00:22<00:03,  1.22s/it] 90%|█████████ | 18/20 [00:23<00:02,  1.21s/it] 95%|█████████▌| 19/20 [00:25<00:01,  1.21s/it]100%|██████████| 20/20 [00:26<00:00,  1.21s/it]100%|██████████| 20/20 [00:26<00:00,  1.31s/it]
+TESTING DONE
+ResNet50_512_50x_texture_scratch_unfrozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:10<03:13, 10.18s/it] 10%|█         | 2/20 [00:15<02:06,  7.04s/it] 15%|█▌        | 3/20 [00:19<01:41,  5.99s/it] 20%|██        | 4/20 [00:24<01:28,  5.51s/it] 25%|██▌       | 5/20 [00:29<01:18,  5.25s/it] 30%|███       | 6/20 [00:34<01:11,  5.10s/it] 35%|███▌      | 7/20 [00:38<01:04,  5.00s/it] 40%|████      | 8/20 [00:43<00:59,  4.95s/it] 45%|████▌     | 9/20 [00:48<00:54,  4.91s/it] 50%|█████     | 10/20 [00:53<00:48,  4.88s/it] 55%|█████▌    | 11/20 [00:58<00:43,  4.87s/it] 60%|██████    | 12/20 [01:03<00:38,  4.85s/it] 65%|██████▌   | 13/20 [01:07<00:33,  4.84s/it] 70%|███████   | 14/20 [01:12<00:28,  4.83s/it] 75%|███████▌  | 15/20 [01:17<00:24,  4.84s/it] 80%|████████  | 16/20 [01:22<00:19,  4.84s/it] 85%|████████▌ | 17/20 [01:27<00:14,  4.82s/it] 90%|█████████ | 18/20 [01:32<00:09,  4.83s/it] 95%|█████████▌| 19/20 [01:36<00:04,  4.83s/it]100%|██████████| 20/20 [01:41<00:00,  4.82s/it]100%|██████████| 20/20 [01:41<00:00,  5.08s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:01<00:30,  1.60s/it] 10%|█         | 2/20 [00:02<00:25,  1.43s/it] 15%|█▌        | 3/20 [00:04<00:23,  1.38s/it] 20%|██        | 4/20 [00:05<00:21,  1.36s/it] 25%|██▌       | 5/20 [00:07<00:20,  1.39s/it] 30%|███       | 6/20 [00:08<00:18,  1.35s/it] 35%|███▌      | 7/20 [00:09<00:16,  1.31s/it] 40%|████      | 8/20 [00:10<00:15,  1.33s/it] 45%|████▌     | 9/20 [00:12<00:14,  1.36s/it] 50%|█████     | 10/20 [00:13<00:13,  1.32s/it] 55%|█████▌    | 11/20 [00:14<00:11,  1.30s/it] 60%|██████    | 12/20 [00:16<00:10,  1.27s/it] 65%|██████▌   | 13/20 [00:17<00:08,  1.25s/it] 70%|███████   | 14/20 [00:18<00:07,  1.23s/it] 75%|███████▌  | 15/20 [00:19<00:06,  1.21s/it] 80%|████████  | 16/20 [00:20<00:04,  1.19s/it] 85%|████████▌ | 17/20 [00:22<00:03,  1.22s/it] 90%|█████████ | 18/20 [00:23<00:02,  1.21s/it] 95%|█████████▌| 19/20 [00:24<00:01,  1.20s/it]100%|██████████| 20/20 [00:25<00:00,  1.19s/it]100%|██████████| 20/20 [00:25<00:00,  1.28s/it]
+TESTING DONE
+ResNet50_512_50x_heightmap_pretrained_frozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:06<01:00,  6.72s/it] 20%|██        | 2/10 [00:09<00:34,  4.29s/it] 30%|███       | 3/10 [00:11<00:24,  3.51s/it] 40%|████      | 4/10 [00:14<00:18,  3.13s/it] 50%|█████     | 5/10 [00:17<00:14,  2.93s/it] 60%|██████    | 6/10 [00:19<00:11,  2.81s/it] 70%|███████   | 7/10 [00:22<00:08,  2.71s/it] 80%|████████  | 8/10 [00:24<00:05,  2.67s/it] 90%|█████████ | 9/10 [00:27<00:02,  2.63s/it]100%|██████████| 10/10 [00:29<00:00,  2.61s/it]100%|██████████| 10/10 [00:29<00:00,  2.98s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:37,  4.12s/it] 20%|██        | 2/10 [00:05<00:19,  2.39s/it] 30%|███       | 3/10 [00:06<00:12,  1.84s/it] 40%|████      | 4/10 [00:07<00:09,  1.59s/it] 50%|█████     | 5/10 [00:08<00:07,  1.43s/it] 60%|██████    | 6/10 [00:10<00:05,  1.34s/it] 70%|███████   | 7/10 [00:11<00:03,  1.28s/it] 80%|████████  | 8/10 [00:12<00:02,  1.24s/it] 90%|█████████ | 9/10 [00:13<00:01,  1.22s/it]100%|██████████| 10/10 [00:14<00:00,  1.22s/it]100%|██████████| 10/10 [00:14<00:00,  1.47s/it]
+TESTING DONE
+ResNet50_512_50x_heightmap_pretrained_frozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:09<01:28,  9.82s/it] 20%|██        | 2/10 [00:12<00:44,  5.57s/it] 30%|███       | 3/10 [00:15<00:29,  4.24s/it] 40%|████      | 4/10 [00:17<00:21,  3.61s/it] 50%|█████     | 5/10 [00:20<00:16,  3.25s/it] 60%|██████    | 6/10 [00:22<00:12,  3.02s/it] 70%|███████   | 7/10 [00:25<00:08,  2.88s/it] 80%|████████  | 8/10 [00:28<00:05,  2.79s/it] 90%|█████████ | 9/10 [00:30<00:02,  2.73s/it]100%|██████████| 10/10 [00:33<00:00,  2.69s/it]100%|██████████| 10/10 [00:33<00:00,  3.33s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:03<00:34,  3.88s/it] 20%|██        | 2/10 [00:05<00:18,  2.33s/it] 30%|███       | 3/10 [00:06<00:12,  1.82s/it] 40%|████      | 4/10 [00:07<00:09,  1.58s/it] 50%|█████     | 5/10 [00:08<00:07,  1.45s/it] 60%|██████    | 6/10 [00:10<00:05,  1.37s/it] 70%|███████   | 7/10 [00:11<00:03,  1.32s/it] 80%|████████  | 8/10 [00:12<00:02,  1.29s/it] 90%|█████████ | 9/10 [00:13<00:01,  1.26s/it]100%|██████████| 10/10 [00:14<00:00,  1.24s/it]100%|██████████| 10/10 [00:14<00:00,  1.48s/it]
+TESTING DONE
+ResNet50_512_50x_heightmap_pretrained_unfrozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:10<01:36, 10.75s/it] 20%|██        | 2/10 [00:15<00:57,  7.22s/it] 30%|███       | 3/10 [00:20<00:42,  6.12s/it] 40%|████      | 4/10 [00:25<00:33,  5.60s/it] 50%|█████     | 5/10 [00:30<00:26,  5.36s/it] 60%|██████    | 6/10 [00:34<00:20,  5.17s/it] 70%|███████   | 7/10 [00:39<00:15,  5.04s/it] 80%|████████  | 8/10 [00:44<00:09,  4.98s/it] 90%|█████████ | 9/10 [00:49<00:04,  4.95s/it]100%|██████████| 10/10 [00:54<00:00,  4.91s/it]100%|██████████| 10/10 [00:54<00:00,  5.42s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:01<00:13,  1.45s/it] 20%|██        | 2/10 [00:02<00:10,  1.31s/it] 30%|███       | 3/10 [00:03<00:08,  1.24s/it] 40%|████      | 4/10 [00:04<00:07,  1.21s/it] 50%|█████     | 5/10 [00:06<00:06,  1.20s/it] 60%|██████    | 6/10 [00:07<00:04,  1.19s/it] 70%|███████   | 7/10 [00:08<00:03,  1.19s/it] 80%|████████  | 8/10 [00:09<00:02,  1.19s/it] 90%|█████████ | 9/10 [00:10<00:01,  1.20s/it]100%|██████████| 10/10 [00:12<00:00,  1.19s/it]100%|██████████| 10/10 [00:12<00:00,  1.21s/it]
+TESTING DONE
+ResNet50_512_50x_heightmap_pretrained_unfrozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:10<01:35, 10.66s/it] 20%|██        | 2/10 [00:15<00:57,  7.19s/it] 30%|███       | 3/10 [00:20<00:42,  6.09s/it] 40%|████      | 4/10 [00:25<00:33,  5.59s/it] 50%|█████     | 5/10 [00:29<00:26,  5.31s/it] 60%|██████    | 6/10 [00:34<00:20,  5.14s/it] 70%|███████   | 7/10 [00:39<00:15,  5.01s/it] 80%|████████  | 8/10 [00:44<00:09,  4.95s/it] 90%|█████████ | 9/10 [00:49<00:04,  4.94s/it]100%|██████████| 10/10 [00:53<00:00,  4.90s/it]100%|██████████| 10/10 [00:53<00:00,  5.39s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:01<00:12,  1.35s/it] 20%|██        | 2/10 [00:02<00:09,  1.25s/it] 30%|███       | 3/10 [00:03<00:08,  1.23s/it] 40%|████      | 4/10 [00:04<00:07,  1.23s/it] 50%|█████     | 5/10 [00:06<00:06,  1.21s/it] 60%|██████    | 6/10 [00:07<00:04,  1.21s/it] 70%|███████   | 7/10 [00:08<00:03,  1.21s/it] 80%|████████  | 8/10 [00:09<00:02,  1.20s/it] 90%|█████████ | 9/10 [00:10<00:01,  1.20s/it]100%|██████████| 10/10 [00:12<00:00,  1.19s/it]100%|██████████| 10/10 [00:12<00:00,  1.21s/it]
+TESTING DONE
+ResNet50_512_50x_heightmap_scratch_frozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:07<02:31,  7.96s/it] 10%|█         | 2/20 [00:10<01:27,  4.84s/it] 15%|█▌        | 3/20 [00:13<01:05,  3.86s/it] 20%|██        | 4/20 [00:15<00:54,  3.40s/it] 25%|██▌       | 5/20 [00:18<00:46,  3.10s/it] 30%|███       | 6/20 [00:21<00:41,  2.94s/it] 35%|███▌      | 7/20 [00:23<00:36,  2.82s/it] 40%|████      | 8/20 [00:26<00:32,  2.74s/it] 45%|████▌     | 9/20 [00:28<00:29,  2.70s/it] 50%|█████     | 10/20 [00:31<00:26,  2.66s/it] 55%|█████▌    | 11/20 [00:34<00:23,  2.65s/it] 60%|██████    | 12/20 [00:36<00:21,  2.64s/it] 65%|██████▌   | 13/20 [00:39<00:18,  2.62s/it] 70%|███████   | 14/20 [00:41<00:15,  2.62s/it] 75%|███████▌  | 15/20 [00:44<00:13,  2.60s/it] 80%|████████  | 16/20 [00:47<00:10,  2.61s/it] 85%|████████▌ | 17/20 [00:49<00:07,  2.63s/it] 90%|█████████ | 18/20 [00:52<00:05,  2.64s/it] 95%|█████████▌| 19/20 [00:55<00:02,  2.62s/it]100%|██████████| 20/20 [00:57<00:00,  2.60s/it]100%|██████████| 20/20 [00:57<00:00,  2.88s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:03<01:15,  3.96s/it] 10%|█         | 2/20 [00:05<00:42,  2.35s/it] 15%|█▌        | 3/20 [00:06<00:32,  1.90s/it] 20%|██        | 4/20 [00:07<00:26,  1.63s/it] 25%|██▌       | 5/20 [00:09<00:22,  1.49s/it] 30%|███       | 6/20 [00:10<00:20,  1.43s/it] 35%|███▌      | 7/20 [00:11<00:17,  1.34s/it] 40%|████      | 8/20 [00:12<00:15,  1.32s/it] 45%|████▌     | 9/20 [00:13<00:14,  1.28s/it] 50%|█████     | 10/20 [00:15<00:12,  1.26s/it] 55%|█████▌    | 11/20 [00:16<00:11,  1.23s/it] 60%|██████    | 12/20 [00:17<00:09,  1.20s/it] 65%|██████▌   | 13/20 [00:18<00:08,  1.18s/it] 70%|███████   | 14/20 [00:19<00:07,  1.17s/it] 75%|███████▌  | 15/20 [00:20<00:05,  1.16s/it] 80%|████████  | 16/20 [00:22<00:04,  1.17s/it] 85%|████████▌ | 17/20 [00:23<00:03,  1.18s/it] 90%|█████████ | 18/20 [00:24<00:02,  1.17s/it] 95%|█████████▌| 19/20 [00:25<00:01,  1.16s/it]100%|██████████| 20/20 [00:26<00:00,  1.17s/it]100%|██████████| 20/20 [00:26<00:00,  1.34s/it]
+TESTING DONE
+ResNet50_512_50x_heightmap_scratch_frozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:07<02:31,  7.98s/it] 10%|█         | 2/20 [00:10<01:26,  4.81s/it] 15%|█▌        | 3/20 [00:13<01:04,  3.79s/it] 20%|██        | 4/20 [00:15<00:52,  3.31s/it] 25%|██▌       | 5/20 [00:18<00:45,  3.05s/it] 30%|███       | 6/20 [00:20<00:40,  2.90s/it] 35%|███▌      | 7/20 [00:23<00:36,  2.81s/it] 40%|████      | 8/20 [00:26<00:32,  2.73s/it] 45%|████▌     | 9/20 [00:28<00:29,  2.70s/it] 50%|█████     | 10/20 [00:31<00:26,  2.67s/it] 55%|█████▌    | 11/20 [00:33<00:23,  2.63s/it] 60%|██████    | 12/20 [00:36<00:21,  2.63s/it] 65%|██████▌   | 13/20 [00:39<00:18,  2.62s/it] 70%|███████   | 14/20 [00:41<00:15,  2.60s/it] 75%|███████▌  | 15/20 [00:44<00:12,  2.60s/it] 80%|████████  | 16/20 [00:46<00:10,  2.60s/it] 85%|████████▌ | 17/20 [00:49<00:07,  2.59s/it] 90%|█████████ | 18/20 [00:52<00:05,  2.60s/it] 95%|█████████▌| 19/20 [00:54<00:02,  2.61s/it]100%|██████████| 20/20 [00:57<00:00,  2.60s/it]100%|██████████| 20/20 [00:57<00:00,  2.86s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:03<01:14,  3.90s/it] 10%|█         | 2/20 [00:05<00:43,  2.43s/it] 15%|█▌        | 3/20 [00:06<00:32,  1.92s/it] 20%|██        | 4/20 [00:07<00:27,  1.70s/it] 25%|██▌       | 5/20 [00:09<00:23,  1.57s/it] 30%|███       | 6/20 [00:10<00:20,  1.50s/it] 35%|███▌      | 7/20 [00:11<00:18,  1.40s/it] 40%|████      | 8/20 [00:13<00:15,  1.33s/it] 45%|████▌     | 9/20 [00:14<00:14,  1.36s/it] 50%|█████     | 10/20 [00:15<00:13,  1.32s/it] 55%|█████▌    | 11/20 [00:16<00:11,  1.29s/it] 60%|██████    | 12/20 [00:18<00:10,  1.28s/it] 65%|██████▌   | 13/20 [00:19<00:08,  1.25s/it] 70%|███████   | 14/20 [00:20<00:07,  1.23s/it] 75%|███████▌  | 15/20 [00:21<00:06,  1.23s/it] 80%|████████  | 16/20 [00:22<00:04,  1.22s/it] 85%|████████▌ | 17/20 [00:24<00:03,  1.21s/it] 90%|█████████ | 18/20 [00:25<00:02,  1.22s/it] 95%|█████████▌| 19/20 [00:26<00:01,  1.21s/it]100%|██████████| 20/20 [00:27<00:00,  1.21s/it]100%|██████████| 20/20 [00:27<00:00,  1.39s/it]
+TESTING DONE
+ResNet50_512_50x_heightmap_scratch_unfrozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:10<03:20, 10.55s/it] 10%|█         | 2/20 [00:15<02:08,  7.15s/it] 15%|█▌        | 3/20 [00:20<01:43,  6.08s/it] 20%|██        | 4/20 [00:24<01:29,  5.58s/it] 25%|██▌       | 5/20 [00:29<01:19,  5.28s/it] 30%|███       | 6/20 [00:34<01:11,  5.09s/it] 35%|███▌      | 7/20 [00:39<01:04,  5.00s/it] 40%|████      | 8/20 [00:43<00:59,  4.93s/it] 45%|████▌     | 9/20 [00:48<00:53,  4.89s/it] 50%|█████     | 10/20 [00:53<00:48,  4.86s/it] 55%|█████▌    | 11/20 [00:58<00:43,  4.84s/it] 60%|██████    | 12/20 [01:03<00:38,  4.82s/it] 65%|██████▌   | 13/20 [01:07<00:33,  4.80s/it] 70%|███████   | 14/20 [01:12<00:28,  4.80s/it] 75%|███████▌  | 15/20 [01:17<00:24,  4.80s/it] 80%|████████  | 16/20 [01:22<00:19,  4.80s/it] 85%|████████▌ | 17/20 [01:27<00:14,  4.81s/it] 90%|█████████ | 18/20 [01:31<00:09,  4.78s/it] 95%|█████████▌| 19/20 [01:36<00:04,  4.79s/it]100%|██████████| 20/20 [01:41<00:00,  4.80s/it]100%|██████████| 20/20 [01:41<00:00,  5.07s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:02<00:49,  2.58s/it] 10%|█         | 2/20 [00:03<00:33,  1.84s/it] 15%|█▌        | 3/20 [00:05<00:28,  1.68s/it] 20%|██        | 4/20 [00:06<00:24,  1.52s/it] 25%|██▌       | 5/20 [00:08<00:23,  1.57s/it] 30%|███       | 6/20 [00:09<00:21,  1.53s/it] 35%|███▌      | 7/20 [00:11<00:19,  1.52s/it] 40%|████      | 8/20 [00:12<00:17,  1.50s/it] 45%|████▌     | 9/20 [00:14<00:15,  1.45s/it] 50%|█████     | 10/20 [00:15<00:13,  1.37s/it] 55%|█████▌    | 11/20 [00:16<00:11,  1.33s/it] 60%|██████    | 12/20 [00:17<00:10,  1.30s/it] 65%|██████▌   | 13/20 [00:19<00:09,  1.29s/it] 70%|███████   | 14/20 [00:20<00:07,  1.25s/it] 75%|███████▌  | 15/20 [00:21<00:06,  1.25s/it] 80%|████████  | 16/20 [00:22<00:05,  1.26s/it] 85%|████████▌ | 17/20 [00:24<00:03,  1.31s/it] 90%|█████████ | 18/20 [00:25<00:02,  1.29s/it] 95%|█████████▌| 19/20 [00:26<00:01,  1.27s/it]100%|██████████| 20/20 [00:27<00:00,  1.24s/it]100%|██████████| 20/20 [00:27<00:00,  1.39s/it]
+TESTING DONE
+ResNet50_512_50x_heightmap_scratch_unfrozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:10<03:28, 10.98s/it] 10%|█         | 2/20 [00:15<02:11,  7.32s/it] 15%|█▌        | 3/20 [00:20<01:44,  6.16s/it] 20%|██        | 4/20 [00:25<01:30,  5.65s/it] 25%|██▌       | 5/20 [00:30<01:20,  5.35s/it] 30%|███       | 6/20 [00:34<01:12,  5.15s/it] 35%|███▌      | 7/20 [00:39<01:05,  5.04s/it] 40%|████      | 8/20 [00:44<00:59,  4.96s/it] 45%|████▌     | 9/20 [00:49<00:54,  4.91s/it] 50%|█████     | 10/20 [00:54<00:48,  4.87s/it] 55%|█████▌    | 11/20 [00:59<00:43,  4.88s/it] 60%|██████    | 12/20 [01:03<00:38,  4.87s/it] 65%|██████▌   | 13/20 [01:08<00:34,  4.87s/it] 70%|███████   | 14/20 [01:13<00:29,  4.86s/it] 75%|███████▌  | 15/20 [01:18<00:24,  4.87s/it] 80%|████████  | 16/20 [01:23<00:19,  4.86s/it] 85%|████████▌ | 17/20 [01:28<00:14,  4.89s/it] 90%|█████████ | 18/20 [01:33<00:09,  4.86s/it] 95%|█████████▌| 19/20 [01:37<00:04,  4.85s/it]100%|██████████| 20/20 [01:42<00:00,  4.83s/it]100%|██████████| 20/20 [01:42<00:00,  5.13s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:01<00:28,  1.52s/it] 10%|█         | 2/20 [00:02<00:25,  1.43s/it] 15%|█▌        | 3/20 [00:04<00:24,  1.45s/it] 20%|██        | 4/20 [00:05<00:22,  1.43s/it] 25%|██▌       | 5/20 [00:07<00:20,  1.40s/it] 30%|███       | 6/20 [00:08<00:19,  1.40s/it] 35%|███▌      | 7/20 [00:09<00:17,  1.35s/it] 40%|████      | 8/20 [00:10<00:15,  1.30s/it] 45%|████▌     | 9/20 [00:12<00:14,  1.32s/it] 50%|█████     | 10/20 [00:13<00:13,  1.37s/it] 55%|█████▌    | 11/20 [00:15<00:12,  1.36s/it] 60%|██████    | 12/20 [00:16<00:10,  1.30s/it] 65%|██████▌   | 13/20 [00:17<00:09,  1.29s/it] 70%|███████   | 14/20 [00:18<00:07,  1.27s/it] 75%|███████▌  | 15/20 [00:20<00:06,  1.26s/it] 80%|████████  | 16/20 [00:21<00:04,  1.24s/it] 85%|████████▌ | 17/20 [00:22<00:03,  1.22s/it] 90%|█████████ | 18/20 [00:23<00:02,  1.21s/it] 95%|█████████▌| 19/20 [00:24<00:01,  1.20s/it]100%|██████████| 20/20 [00:25<00:00,  1.19s/it]100%|██████████| 20/20 [00:25<00:00,  1.30s/it]
+TESTING DONE
+ResNet50_512_20x+50x_texture_pretrained_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_512_20x+50x_texture_pretrained_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_512_20x+50x_texture_pretrained_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_512_20x+50x_texture_pretrained_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_512_20x+50x_texture_scratch_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_512_20x+50x_texture_scratch_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_512_20x+50x_texture_scratch_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_512_20x+50x_texture_scratch_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ResNet50_512_20x+50x_heightmap_pretrained_frozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 11
+VALIDATION STEPS: 2
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:10<01:30, 10.02s/it] 20%|██        | 2/10 [00:13<00:48,  6.04s/it] 30%|███       | 3/10 [00:16<00:33,  4.75s/it] 40%|████      | 4/10 [00:19<00:24,  4.15s/it] 50%|█████     | 5/10 [00:23<00:19,  3.84s/it] 60%|██████    | 6/10 [00:26<00:14,  3.64s/it] 70%|███████   | 7/10 [00:29<00:10,  3.49s/it] 80%|████████  | 8/10 [00:32<00:06,  3.39s/it] 90%|█████████ | 9/10 [00:35<00:03,  3.34s/it]100%|██████████| 10/10 [00:39<00:00,  3.30s/it]100%|██████████| 10/10 [00:39<00:00,  3.91s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:37,  4.20s/it] 20%|██        | 2/10 [00:05<00:20,  2.50s/it] 30%|███       | 3/10 [00:06<00:13,  1.98s/it] 40%|████      | 4/10 [00:08<00:10,  1.79s/it] 50%|█████     | 5/10 [00:09<00:08,  1.64s/it] 60%|██████    | 6/10 [00:11<00:06,  1.57s/it] 70%|███████   | 7/10 [00:12<00:04,  1.47s/it] 80%|████████  | 8/10 [00:13<00:02,  1.43s/it] 90%|█████████ | 9/10 [00:15<00:01,  1.41s/it]100%|██████████| 10/10 [00:16<00:00,  1.40s/it]100%|██████████| 10/10 [00:16<00:00,  1.65s/it]
+TESTING DONE
+ResNet50_512_20x+50x_heightmap_pretrained_frozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 11
+VALIDATION STEPS: 2
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:06<00:55,  6.19s/it] 20%|██        | 2/10 [00:09<00:35,  4.47s/it] 30%|███       | 3/10 [00:12<00:27,  3.90s/it] 40%|████      | 4/10 [00:15<00:21,  3.63s/it] 50%|█████     | 5/10 [00:19<00:17,  3.48s/it] 60%|██████    | 6/10 [00:22<00:13,  3.41s/it] 70%|███████   | 7/10 [00:25<00:10,  3.34s/it] 80%|████████  | 8/10 [00:28<00:06,  3.30s/it] 90%|█████████ | 9/10 [00:32<00:03,  3.28s/it]100%|██████████| 10/10 [00:35<00:00,  3.25s/it]100%|██████████| 10/10 [00:35<00:00,  3.52s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:03<00:34,  3.84s/it] 20%|██        | 2/10 [00:05<00:19,  2.41s/it] 30%|███       | 3/10 [00:06<00:13,  1.93s/it] 40%|████      | 4/10 [00:08<00:10,  1.73s/it] 50%|█████     | 5/10 [00:09<00:07,  1.60s/it] 60%|██████    | 6/10 [00:10<00:06,  1.52s/it] 70%|███████   | 7/10 [00:12<00:04,  1.49s/it] 80%|████████  | 8/10 [00:13<00:02,  1.46s/it] 90%|█████████ | 9/10 [00:14<00:01,  1.42s/it]100%|██████████| 10/10 [00:16<00:00,  1.41s/it]100%|██████████| 10/10 [00:16<00:00,  1.63s/it]
+TESTING DONE
+ResNet50_512_20x+50x_heightmap_pretrained_unfrozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 11
+VALIDATION STEPS: 2
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:15<02:20, 15.58s/it] 20%|██        | 2/10 [00:22<01:21, 10.22s/it] 30%|███       | 3/10 [00:28<00:59,  8.47s/it] 40%|████      | 4/10 [00:34<00:45,  7.63s/it] 50%|█████     | 5/10 [00:41<00:35,  7.16s/it] 60%|██████    | 6/10 [00:47<00:27,  6.88s/it] 70%|███████   | 7/10 [00:53<00:20,  6.72s/it] 80%|████████  | 8/10 [01:00<00:13,  6.64s/it] 90%|█████████ | 9/10 [01:06<00:06,  6.55s/it]100%|██████████| 10/10 [01:13<00:00,  6.51s/it]100%|██████████| 10/10 [01:13<00:00,  7.31s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:03<00:34,  3.81s/it] 20%|██        | 2/10 [00:05<00:19,  2.42s/it] 30%|███       | 3/10 [00:06<00:13,  1.93s/it] 40%|████      | 4/10 [00:07<00:10,  1.68s/it] 50%|█████     | 5/10 [00:09<00:07,  1.59s/it] 60%|██████    | 6/10 [00:10<00:06,  1.52s/it] 70%|███████   | 7/10 [00:12<00:04,  1.46s/it] 80%|████████  | 8/10 [00:13<00:02,  1.43s/it] 90%|█████████ | 9/10 [00:14<00:01,  1.39s/it]100%|██████████| 10/10 [00:16<00:00,  1.37s/it]100%|██████████| 10/10 [00:16<00:00,  1.60s/it]
+TESTING DONE
+ResNet50_512_20x+50x_heightmap_pretrained_unfrozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 11
+VALIDATION STEPS: 2
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:12<01:56, 12.98s/it] 20%|██        | 2/10 [00:19<01:13,  9.13s/it] 30%|███       | 3/10 [00:25<00:55,  7.88s/it] 40%|████      | 4/10 [00:32<00:43,  7.29s/it] 50%|█████     | 5/10 [00:38<00:34,  6.98s/it] 60%|██████    | 6/10 [00:45<00:27,  6.81s/it] 70%|███████   | 7/10 [00:51<00:20,  6.69s/it] 80%|████████  | 8/10 [00:57<00:13,  6.59s/it] 90%|█████████ | 9/10 [01:04<00:06,  6.55s/it]100%|██████████| 10/10 [01:10<00:00,  6.52s/it]100%|██████████| 10/10 [01:10<00:00,  7.08s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:36,  4.09s/it] 20%|██        | 2/10 [00:05<00:20,  2.58s/it] 30%|███       | 3/10 [00:07<00:14,  2.08s/it] 40%|████      | 4/10 [00:08<00:10,  1.82s/it] 50%|█████     | 5/10 [00:09<00:08,  1.67s/it] 60%|██████    | 6/10 [00:11<00:06,  1.57s/it] 70%|███████   | 7/10 [00:12<00:04,  1.51s/it] 80%|████████  | 8/10 [00:14<00:02,  1.46s/it] 90%|█████████ | 9/10 [00:15<00:01,  1.44s/it]100%|██████████| 10/10 [00:16<00:00,  1.41s/it]100%|██████████| 10/10 [00:16<00:00,  1.68s/it]
+TESTING DONE
+ResNet50_512_20x+50x_heightmap_scratch_frozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 11
+VALIDATION STEPS: 2
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:05<01:52,  5.90s/it] 10%|█         | 2/20 [00:09<01:17,  4.29s/it] 15%|█▌        | 3/20 [00:12<01:03,  3.75s/it] 20%|██        | 4/20 [00:15<00:56,  3.51s/it] 25%|██▌       | 5/20 [00:18<00:50,  3.38s/it] 30%|███       | 6/20 [00:21<00:46,  3.30s/it] 35%|███▌      | 7/20 [00:24<00:42,  3.24s/it] 40%|████      | 8/20 [00:27<00:38,  3.22s/it] 45%|████▌     | 9/20 [00:31<00:35,  3.19s/it] 50%|█████     | 10/20 [00:34<00:31,  3.17s/it] 55%|█████▌    | 11/20 [00:37<00:28,  3.15s/it] 60%|██████    | 12/20 [00:40<00:25,  3.15s/it] 65%|██████▌   | 13/20 [00:43<00:22,  3.15s/it] 70%|███████   | 14/20 [00:46<00:18,  3.14s/it] 75%|███████▌  | 15/20 [00:49<00:15,  3.13s/it] 80%|████████  | 16/20 [00:52<00:12,  3.15s/it] 85%|████████▌ | 17/20 [00:56<00:09,  3.14s/it] 90%|█████████ | 18/20 [00:59<00:06,  3.14s/it] 95%|█████████▌| 19/20 [01:02<00:03,  3.14s/it]100%|██████████| 20/20 [01:05<00:00,  3.23s/it]100%|██████████| 20/20 [01:05<00:00,  3.29s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:03<01:14,  3.94s/it] 10%|█         | 2/20 [00:05<00:47,  2.62s/it] 15%|█▌        | 3/20 [00:07<00:37,  2.18s/it] 20%|██        | 4/20 [00:08<00:31,  1.97s/it] 25%|██▌       | 5/20 [00:10<00:27,  1.86s/it] 30%|███       | 6/20 [00:12<00:24,  1.77s/it] 35%|███▌      | 7/20 [00:13<00:21,  1.68s/it] 40%|████      | 8/20 [00:15<00:20,  1.68s/it] 45%|████▌     | 9/20 [00:16<00:17,  1.63s/it] 50%|█████     | 10/20 [00:18<00:16,  1.63s/it] 55%|█████▌    | 11/20 [00:19<00:14,  1.57s/it] 60%|██████    | 12/20 [00:21<00:11,  1.50s/it] 65%|██████▌   | 13/20 [00:22<00:10,  1.51s/it] 70%|███████   | 14/20 [00:24<00:08,  1.46s/it] 75%|███████▌  | 15/20 [00:25<00:07,  1.43s/it] 80%|████████  | 16/20 [00:26<00:05,  1.40s/it] 85%|████████▌ | 17/20 [00:28<00:04,  1.37s/it] 90%|█████████ | 18/20 [00:29<00:02,  1.39s/it] 95%|█████████▌| 19/20 [00:30<00:01,  1.36s/it]100%|██████████| 20/20 [00:32<00:00,  1.34s/it]100%|██████████| 20/20 [00:32<00:00,  1.61s/it]
+TESTING DONE
+ResNet50_512_20x+50x_heightmap_scratch_frozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 11
+VALIDATION STEPS: 2
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:06<02:06,  6.68s/it] 10%|█         | 2/20 [00:09<01:23,  4.66s/it] 15%|█▌        | 3/20 [00:13<01:07,  3.98s/it] 20%|██        | 4/20 [00:16<00:58,  3.67s/it] 25%|██▌       | 5/20 [00:19<00:52,  3.50s/it] 30%|███       | 6/20 [00:22<00:47,  3.42s/it] 35%|███▌      | 7/20 [00:25<00:43,  3.35s/it] 40%|████      | 8/20 [00:29<00:39,  3.30s/it] 45%|████▌     | 9/20 [00:32<00:36,  3.27s/it] 50%|█████     | 10/20 [00:35<00:32,  3.26s/it] 55%|█████▌    | 11/20 [00:38<00:29,  3.25s/it] 60%|██████    | 12/20 [00:42<00:25,  3.23s/it] 65%|██████▌   | 13/20 [00:45<00:22,  3.23s/it] 70%|███████   | 14/20 [00:48<00:19,  3.22s/it] 75%|███████▌  | 15/20 [00:51<00:16,  3.21s/it] 80%|████████  | 16/20 [00:54<00:12,  3.20s/it] 85%|████████▌ | 17/20 [00:58<00:09,  3.20s/it] 90%|█████████ | 18/20 [01:01<00:06,  3.20s/it] 95%|█████████▌| 19/20 [01:04<00:03,  3.20s/it]100%|██████████| 20/20 [01:07<00:00,  3.21s/it]100%|██████████| 20/20 [01:07<00:00,  3.38s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:03<01:11,  3.77s/it] 10%|█         | 2/20 [00:05<00:44,  2.49s/it] 15%|█▌        | 3/20 [00:06<00:35,  2.10s/it] 20%|██        | 4/20 [00:08<00:32,  2.01s/it] 25%|██▌       | 5/20 [00:10<00:28,  1.88s/it] 30%|███       | 6/20 [00:12<00:25,  1.80s/it] 35%|███▌      | 7/20 [00:13<00:22,  1.70s/it] 40%|████      | 8/20 [00:15<00:20,  1.68s/it] 45%|████▌     | 9/20 [00:16<00:17,  1.60s/it] 50%|█████     | 10/20 [00:18<00:15,  1.55s/it] 55%|█████▌    | 11/20 [00:19<00:13,  1.49s/it] 60%|██████    | 12/20 [00:20<00:11,  1.47s/it] 65%|██████▌   | 13/20 [00:22<00:10,  1.45s/it] 70%|███████   | 14/20 [00:23<00:08,  1.43s/it] 75%|███████▌  | 15/20 [00:25<00:07,  1.40s/it] 80%|████████  | 16/20 [00:26<00:05,  1.38s/it] 85%|████████▌ | 17/20 [00:27<00:04,  1.41s/it] 90%|█████████ | 18/20 [00:29<00:02,  1.39s/it] 95%|█████████▌| 19/20 [00:30<00:01,  1.40s/it]100%|██████████| 20/20 [00:31<00:00,  1.39s/it]100%|██████████| 20/20 [00:31<00:00,  1.60s/it]
+TESTING DONE
+ResNet50_512_20x+50x_heightmap_scratch_unfrozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 11
+VALIDATION STEPS: 2
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:09<02:53,  9.12s/it] 10%|█         | 2/20 [00:15<02:15,  7.52s/it] 15%|█▌        | 3/20 [00:21<01:58,  6.99s/it] 20%|██        | 4/20 [00:28<01:48,  6.77s/it] 25%|██▌       | 5/20 [00:34<01:39,  6.64s/it] 30%|███       | 6/20 [00:41<01:31,  6.55s/it] 35%|███▌      | 7/20 [00:47<01:24,  6.52s/it] 40%|████      | 8/20 [00:53<01:17,  6.48s/it] 45%|████▌     | 9/20 [01:00<01:11,  6.46s/it] 50%|█████     | 10/20 [01:06<01:04,  6.46s/it] 55%|█████▌    | 11/20 [01:13<00:58,  6.48s/it] 60%|██████    | 12/20 [01:19<00:51,  6.46s/it] 65%|██████▌   | 13/20 [01:26<00:45,  6.45s/it] 70%|███████   | 14/20 [01:32<00:38,  6.46s/it] 75%|███████▌  | 15/20 [01:39<00:32,  6.44s/it] 80%|████████  | 16/20 [01:45<00:25,  6.44s/it] 85%|████████▌ | 17/20 [01:51<00:19,  6.44s/it] 90%|█████████ | 18/20 [01:58<00:12,  6.46s/it] 95%|█████████▌| 19/20 [02:04<00:06,  6.45s/it]100%|██████████| 20/20 [02:11<00:00,  6.46s/it]100%|██████████| 20/20 [02:11<00:00,  6.57s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:25,  4.48s/it] 10%|█         | 2/20 [00:06<00:49,  2.77s/it] 15%|█▌        | 3/20 [00:07<00:39,  2.31s/it] 20%|██        | 4/20 [00:09<00:33,  2.11s/it] 25%|██▌       | 5/20 [00:11<00:28,  1.91s/it] 30%|███       | 6/20 [00:12<00:25,  1.85s/it] 35%|███▌      | 7/20 [00:14<00:23,  1.79s/it] 40%|████      | 8/20 [00:16<00:20,  1.75s/it] 45%|████▌     | 9/20 [00:17<00:18,  1.64s/it] 50%|█████     | 10/20 [00:19<00:16,  1.64s/it] 55%|█████▌    | 11/20 [00:20<00:14,  1.58s/it] 60%|██████    | 12/20 [00:22<00:12,  1.51s/it] 65%|██████▌   | 13/20 [00:23<00:10,  1.47s/it] 70%|███████   | 14/20 [00:24<00:08,  1.43s/it] 75%|███████▌  | 15/20 [00:26<00:07,  1.46s/it] 80%|████████  | 16/20 [00:27<00:05,  1.44s/it] 85%|████████▌ | 17/20 [00:29<00:04,  1.47s/it] 90%|█████████ | 18/20 [00:30<00:02,  1.44s/it] 95%|█████████▌| 19/20 [00:31<00:01,  1.40s/it]100%|██████████| 20/20 [00:33<00:00,  1.39s/it]100%|██████████| 20/20 [00:33<00:00,  1.66s/it]
+TESTING DONE
+ResNet50_512_20x+50x_heightmap_scratch_unfrozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 11
+VALIDATION STEPS: 2
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:09<03:06,  9.80s/it] 10%|█         | 2/20 [00:16<02:20,  7.78s/it] 15%|█▌        | 3/20 [00:22<02:01,  7.14s/it] 20%|██        | 4/20 [00:28<01:49,  6.87s/it] 25%|██▌       | 5/20 [00:35<01:40,  6.69s/it] 30%|███       | 6/20 [00:41<01:32,  6.58s/it] 35%|███▌      | 7/20 [00:48<01:24,  6.53s/it] 40%|████      | 8/20 [00:54<01:18,  6.51s/it] 45%|████▌     | 9/20 [01:01<01:11,  6.50s/it] 50%|█████     | 10/20 [01:07<01:04,  6.47s/it] 55%|█████▌    | 11/20 [01:13<00:58,  6.46s/it] 60%|██████    | 12/20 [01:20<00:51,  6.45s/it] 65%|██████▌   | 13/20 [01:26<00:45,  6.44s/it] 70%|███████   | 14/20 [01:33<00:38,  6.44s/it] 75%|███████▌  | 15/20 [01:39<00:32,  6.43s/it] 80%|████████  | 16/20 [01:46<00:25,  6.44s/it] 85%|████████▌ | 17/20 [01:52<00:19,  6.45s/it] 90%|█████████ | 18/20 [01:59<00:12,  6.45s/it] 95%|█████████▌| 19/20 [02:05<00:06,  6.45s/it]100%|██████████| 20/20 [02:11<00:00,  6.45s/it]100%|██████████| 20/20 [02:11<00:00,  6.60s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:18,  4.12s/it] 10%|█         | 2/20 [00:05<00:48,  2.67s/it] 15%|█▌        | 3/20 [00:07<00:37,  2.20s/it] 20%|██        | 4/20 [00:09<00:31,  2.00s/it] 25%|██▌       | 5/20 [00:10<00:27,  1.83s/it] 30%|███       | 6/20 [00:12<00:24,  1.77s/it] 35%|███▌      | 7/20 [00:13<00:22,  1.70s/it] 40%|████      | 8/20 [00:15<00:19,  1.66s/it] 45%|████▌     | 9/20 [00:17<00:18,  1.64s/it] 50%|█████     | 10/20 [00:18<00:16,  1.62s/it] 55%|█████▌    | 11/20 [00:20<00:14,  1.60s/it] 60%|██████    | 12/20 [00:21<00:12,  1.54s/it] 65%|██████▌   | 13/20 [00:22<00:10,  1.50s/it] 70%|███████   | 14/20 [00:24<00:08,  1.47s/it] 75%|███████▌  | 15/20 [00:25<00:07,  1.45s/it] 80%|████████  | 16/20 [00:27<00:05,  1.42s/it] 85%|████████▌ | 17/20 [00:28<00:04,  1.42s/it] 90%|█████████ | 18/20 [00:29<00:02,  1.42s/it] 95%|█████████▌| 19/20 [00:31<00:01,  1.40s/it]100%|██████████| 20/20 [00:32<00:00,  1.38s/it]100%|██████████| 20/20 [00:32<00:00,  1.63s/it]
+TESTING DONE
+ResNet50_865_20x_texture_pretrained_frozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:07<01:11,  7.96s/it] 20%|██        | 2/10 [00:09<00:35,  4.39s/it] 30%|███       | 3/10 [00:11<00:22,  3.24s/it] 40%|████      | 4/10 [00:13<00:16,  2.72s/it] 50%|█████     | 5/10 [00:15<00:12,  2.43s/it] 60%|██████    | 6/10 [00:17<00:09,  2.25s/it] 70%|███████   | 7/10 [00:19<00:06,  2.15s/it] 80%|████████  | 8/10 [00:21<00:04,  2.09s/it] 90%|█████████ | 9/10 [00:23<00:02,  2.04s/it]100%|██████████| 10/10 [00:25<00:00,  1.99s/it]100%|██████████| 10/10 [00:25<00:00,  2.52s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:39,  4.38s/it] 20%|██        | 2/10 [00:05<00:20,  2.55s/it] 30%|███       | 3/10 [00:06<00:13,  2.00s/it] 40%|████      | 4/10 [00:08<00:10,  1.71s/it] 50%|█████     | 5/10 [00:09<00:07,  1.55s/it] 60%|██████    | 6/10 [00:10<00:05,  1.45s/it] 70%|███████   | 7/10 [00:12<00:04,  1.39s/it] 80%|████████  | 8/10 [00:13<00:02,  1.35s/it] 90%|█████████ | 9/10 [00:14<00:01,  1.32s/it]100%|██████████| 10/10 [00:15<00:00,  1.30s/it]100%|██████████| 10/10 [00:15<00:00,  1.58s/it]
+TESTING DONE
+ResNet50_865_20x_texture_pretrained_frozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:07<01:08,  7.64s/it] 20%|██        | 2/10 [00:09<00:34,  4.26s/it] 30%|███       | 3/10 [00:11<00:22,  3.19s/it] 40%|████      | 4/10 [00:13<00:16,  2.68s/it] 50%|█████     | 5/10 [00:15<00:12,  2.43s/it] 60%|██████    | 6/10 [00:17<00:08,  2.25s/it] 70%|███████   | 7/10 [00:19<00:06,  2.19s/it] 80%|████████  | 8/10 [00:21<00:04,  2.13s/it] 90%|█████████ | 9/10 [00:23<00:02,  2.06s/it]100%|██████████| 10/10 [00:25<00:00,  2.03s/it]100%|██████████| 10/10 [00:25<00:00,  2.52s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:39,  4.34s/it] 20%|██        | 2/10 [00:05<00:20,  2.54s/it] 30%|███       | 3/10 [00:06<00:13,  1.97s/it] 40%|████      | 4/10 [00:08<00:10,  1.69s/it] 50%|█████     | 5/10 [00:09<00:07,  1.54s/it] 60%|██████    | 6/10 [00:10<00:05,  1.45s/it] 70%|███████   | 7/10 [00:12<00:04,  1.39s/it] 80%|████████  | 8/10 [00:13<00:02,  1.35s/it] 90%|█████████ | 9/10 [00:14<00:01,  1.33s/it]100%|██████████| 10/10 [00:15<00:00,  1.32s/it]100%|██████████| 10/10 [00:15<00:00,  1.58s/it]
+TESTING DONE
+ResNet50_865_20x_texture_pretrained_unfrozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:09<01:22,  9.22s/it] 20%|██        | 2/10 [00:11<00:43,  5.40s/it] 30%|███       | 3/10 [00:14<00:29,  4.17s/it] 40%|████      | 4/10 [00:17<00:21,  3.60s/it] 50%|█████     | 5/10 [00:20<00:16,  3.30s/it] 60%|██████    | 6/10 [00:22<00:12,  3.10s/it] 70%|███████   | 7/10 [00:25<00:08,  2.97s/it] 80%|████████  | 8/10 [00:28<00:05,  2.88s/it] 90%|█████████ | 9/10 [00:30<00:02,  2.81s/it]100%|██████████| 10/10 [00:33<00:00,  2.79s/it]100%|██████████| 10/10 [00:33<00:00,  3.36s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:41,  4.66s/it] 20%|██        | 2/10 [00:06<00:21,  2.71s/it] 30%|███       | 3/10 [00:07<00:14,  2.06s/it] 40%|████      | 4/10 [00:08<00:10,  1.75s/it] 50%|█████     | 5/10 [00:09<00:07,  1.58s/it] 60%|██████    | 6/10 [00:11<00:05,  1.48s/it] 70%|███████   | 7/10 [00:12<00:04,  1.41s/it] 80%|████████  | 8/10 [00:13<00:02,  1.37s/it] 90%|█████████ | 9/10 [00:14<00:01,  1.34s/it]100%|██████████| 10/10 [00:16<00:00,  1.32s/it]100%|██████████| 10/10 [00:16<00:00,  1.62s/it]
+TESTING DONE
+ResNet50_865_20x_texture_pretrained_unfrozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:05<00:47,  5.30s/it] 20%|██        | 2/10 [00:07<00:30,  3.76s/it] 30%|███       | 3/10 [00:10<00:22,  3.26s/it] 40%|████      | 4/10 [00:13<00:18,  3.04s/it] 50%|█████     | 5/10 [00:16<00:14,  2.92s/it] 60%|██████    | 6/10 [00:18<00:11,  2.85s/it] 70%|███████   | 7/10 [00:21<00:08,  2.79s/it] 80%|████████  | 8/10 [00:24<00:05,  2.75s/it] 90%|█████████ | 9/10 [00:26<00:02,  2.73s/it]100%|██████████| 10/10 [00:29<00:00,  2.73s/it]100%|██████████| 10/10 [00:29<00:00,  2.95s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:36,  4.03s/it] 20%|██        | 2/10 [00:05<00:19,  2.42s/it] 30%|███       | 3/10 [00:06<00:13,  1.91s/it] 40%|████      | 4/10 [00:07<00:10,  1.68s/it] 50%|█████     | 5/10 [00:09<00:07,  1.56s/it] 60%|██████    | 6/10 [00:10<00:05,  1.48s/it] 70%|███████   | 7/10 [00:11<00:04,  1.42s/it] 80%|████████  | 8/10 [00:13<00:02,  1.38s/it] 90%|█████████ | 9/10 [00:14<00:01,  1.36s/it]100%|██████████| 10/10 [00:15<00:00,  1.34s/it]100%|██████████| 10/10 [00:15<00:00,  1.58s/it]
+TESTING DONE
+ResNet50_865_20x_texture_scratch_frozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:08<02:35,  8.18s/it] 10%|█         | 2/20 [00:10<01:20,  4.47s/it] 15%|█▌        | 3/20 [00:11<00:56,  3.30s/it] 20%|██        | 4/20 [00:13<00:44,  2.75s/it] 25%|██▌       | 5/20 [00:15<00:36,  2.44s/it] 30%|███       | 6/20 [00:17<00:31,  2.27s/it] 35%|███▌      | 7/20 [00:19<00:27,  2.15s/it] 40%|████      | 8/20 [00:21<00:24,  2.07s/it] 45%|████▌     | 9/20 [00:23<00:22,  2.01s/it] 50%|█████     | 10/20 [00:25<00:19,  1.97s/it] 55%|█████▌    | 11/20 [00:27<00:17,  1.94s/it] 60%|██████    | 12/20 [00:29<00:15,  1.93s/it] 65%|██████▌   | 13/20 [00:30<00:13,  1.92s/it] 70%|███████   | 14/20 [00:32<00:11,  1.90s/it] 75%|███████▌  | 15/20 [00:34<00:09,  1.90s/it] 80%|████████  | 16/20 [00:36<00:07,  1.89s/it] 85%|████████▌ | 17/20 [00:38<00:05,  1.92s/it] 90%|█████████ | 18/20 [00:40<00:03,  1.91s/it] 95%|█████████▌| 19/20 [00:42<00:01,  1.91s/it]100%|██████████| 20/20 [00:44<00:00,  1.91s/it]100%|██████████| 20/20 [00:44<00:00,  2.21s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:27,  4.60s/it] 10%|█         | 2/20 [00:06<00:50,  2.78s/it] 15%|█▌        | 3/20 [00:07<00:36,  2.15s/it] 20%|██        | 4/20 [00:08<00:29,  1.86s/it] 25%|██▌       | 5/20 [00:10<00:26,  1.79s/it] 30%|███       | 6/20 [00:12<00:23,  1.67s/it] 35%|███▌      | 7/20 [00:13<00:20,  1.60s/it] 40%|████      | 8/20 [00:14<00:18,  1.53s/it] 45%|████▌     | 9/20 [00:16<00:15,  1.45s/it] 50%|█████     | 10/20 [00:17<00:14,  1.41s/it] 55%|█████▌    | 11/20 [00:18<00:12,  1.38s/it] 60%|██████    | 12/20 [00:20<00:11,  1.38s/it] 65%|██████▌   | 13/20 [00:21<00:09,  1.34s/it] 70%|███████   | 14/20 [00:22<00:07,  1.31s/it] 75%|███████▌  | 15/20 [00:23<00:06,  1.31s/it] 80%|████████  | 16/20 [00:25<00:05,  1.31s/it] 85%|████████▌ | 17/20 [00:26<00:03,  1.30s/it] 90%|█████████ | 18/20 [00:27<00:02,  1.30s/it] 95%|█████████▌| 19/20 [00:29<00:01,  1.30s/it]100%|██████████| 20/20 [00:30<00:00,  1.30s/it]100%|██████████| 20/20 [00:30<00:00,  1.52s/it]
+TESTING DONE
+ResNet50_865_20x_texture_scratch_frozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:07<02:22,  7.48s/it] 10%|█         | 2/20 [00:09<01:15,  4.18s/it] 15%|█▌        | 3/20 [00:11<00:53,  3.14s/it] 20%|██        | 4/20 [00:13<00:42,  2.65s/it] 25%|██▌       | 5/20 [00:15<00:35,  2.39s/it] 30%|███       | 6/20 [00:16<00:31,  2.22s/it] 35%|███▌      | 7/20 [00:18<00:27,  2.13s/it] 40%|████      | 8/20 [00:20<00:24,  2.05s/it] 45%|████▌     | 9/20 [00:22<00:22,  2.01s/it] 50%|█████     | 10/20 [00:24<00:19,  1.98s/it] 55%|█████▌    | 11/20 [00:26<00:17,  1.97s/it] 60%|██████    | 12/20 [00:28<00:15,  1.96s/it] 65%|██████▌   | 13/20 [00:30<00:13,  1.95s/it] 70%|███████   | 14/20 [00:32<00:11,  1.92s/it] 75%|███████▌  | 15/20 [00:34<00:09,  1.92s/it] 80%|████████  | 16/20 [00:36<00:07,  1.91s/it] 85%|████████▌ | 17/20 [00:37<00:05,  1.91s/it] 90%|█████████ | 18/20 [00:39<00:03,  1.90s/it] 95%|█████████▌| 19/20 [00:41<00:01,  1.91s/it]100%|██████████| 20/20 [00:43<00:00,  1.92s/it]100%|██████████| 20/20 [00:43<00:00,  2.19s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:33,  4.91s/it] 10%|█         | 2/20 [00:06<00:52,  2.89s/it] 15%|█▌        | 3/20 [00:07<00:37,  2.20s/it] 20%|██        | 4/20 [00:09<00:29,  1.83s/it] 25%|██▌       | 5/20 [00:10<00:24,  1.65s/it] 30%|███       | 6/20 [00:11<00:22,  1.58s/it] 35%|███▌      | 7/20 [00:13<00:19,  1.47s/it] 40%|████      | 8/20 [00:14<00:17,  1.46s/it] 45%|████▌     | 9/20 [00:15<00:15,  1.41s/it] 50%|█████     | 10/20 [00:17<00:13,  1.36s/it] 55%|█████▌    | 11/20 [00:18<00:12,  1.38s/it] 60%|██████    | 12/20 [00:19<00:10,  1.37s/it] 65%|██████▌   | 13/20 [00:21<00:09,  1.33s/it] 70%|███████   | 14/20 [00:22<00:07,  1.30s/it] 75%|███████▌  | 15/20 [00:23<00:06,  1.29s/it] 80%|████████  | 16/20 [00:24<00:05,  1.29s/it] 85%|████████▌ | 17/20 [00:26<00:03,  1.28s/it] 90%|█████████ | 18/20 [00:27<00:02,  1.29s/it] 95%|█████████▌| 19/20 [00:28<00:01,  1.29s/it]100%|██████████| 20/20 [00:29<00:00,  1.28s/it]100%|██████████| 20/20 [00:29<00:00,  1.50s/it]
+TESTING DONE
+ResNet50_865_20x_texture_scratch_unfrozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:09<02:56,  9.27s/it] 10%|█         | 2/20 [00:11<01:36,  5.39s/it] 15%|█▌        | 3/20 [00:14<01:10,  4.15s/it] 20%|██        | 4/20 [00:17<00:57,  3.57s/it] 25%|██▌       | 5/20 [00:19<00:48,  3.24s/it] 30%|███       | 6/20 [00:22<00:42,  3.05s/it] 35%|███▌      | 7/20 [00:25<00:38,  2.93s/it] 40%|████      | 8/20 [00:27<00:34,  2.85s/it] 45%|████▌     | 9/20 [00:30<00:30,  2.79s/it] 50%|█████     | 10/20 [00:33<00:27,  2.76s/it] 55%|█████▌    | 11/20 [00:36<00:24,  2.74s/it] 60%|██████    | 12/20 [00:38<00:21,  2.72s/it] 65%|██████▌   | 13/20 [00:41<00:18,  2.69s/it] 70%|███████   | 14/20 [00:43<00:16,  2.69s/it] 75%|███████▌  | 15/20 [00:46<00:13,  2.69s/it] 80%|████████  | 16/20 [00:49<00:10,  2.71s/it] 85%|████████▌ | 17/20 [00:52<00:08,  2.70s/it] 90%|█████████ | 18/20 [00:54<00:05,  2.68s/it] 95%|█████████▌| 19/20 [00:57<00:02,  2.67s/it]100%|██████████| 20/20 [01:00<00:00,  2.68s/it]100%|██████████| 20/20 [01:00<00:00,  3.01s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:29,  4.70s/it] 10%|█         | 2/20 [00:06<00:49,  2.77s/it] 15%|█▌        | 3/20 [00:07<00:37,  2.18s/it] 20%|██        | 4/20 [00:09<00:31,  1.96s/it] 25%|██▌       | 5/20 [00:10<00:27,  1.80s/it] 30%|███       | 6/20 [00:12<00:24,  1.78s/it] 35%|███▌      | 7/20 [00:13<00:21,  1.66s/it] 40%|████      | 8/20 [00:15<00:18,  1.58s/it] 45%|████▌     | 9/20 [00:16<00:16,  1.52s/it] 50%|█████     | 10/20 [00:18<00:14,  1.48s/it] 55%|█████▌    | 11/20 [00:19<00:12,  1.42s/it] 60%|██████    | 12/20 [00:20<00:10,  1.37s/it] 65%|██████▌   | 13/20 [00:21<00:09,  1.34s/it] 70%|███████   | 14/20 [00:23<00:08,  1.33s/it] 75%|███████▌  | 15/20 [00:24<00:06,  1.36s/it] 80%|████████  | 16/20 [00:25<00:05,  1.33s/it] 85%|████████▌ | 17/20 [00:27<00:03,  1.32s/it] 90%|█████████ | 18/20 [00:28<00:02,  1.30s/it] 95%|█████████▌| 19/20 [00:29<00:01,  1.29s/it]100%|██████████| 20/20 [00:31<00:00,  1.31s/it]100%|██████████| 20/20 [00:31<00:00,  1.55s/it]
+TESTING DONE
+ResNet50_865_20x_texture_scratch_unfrozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:08<02:33,  8.10s/it] 10%|█         | 2/20 [00:10<01:28,  4.92s/it] 15%|█▌        | 3/20 [00:13<01:06,  3.91s/it] 20%|██        | 4/20 [00:16<00:55,  3.47s/it] 25%|██▌       | 5/20 [00:19<00:48,  3.21s/it] 30%|███       | 6/20 [00:21<00:42,  3.04s/it] 35%|███▌      | 7/20 [00:24<00:38,  2.94s/it] 40%|████      | 8/20 [00:27<00:34,  2.86s/it] 45%|████▌     | 9/20 [00:29<00:31,  2.82s/it] 50%|█████     | 10/20 [00:32<00:27,  2.79s/it] 55%|█████▌    | 11/20 [00:35<00:24,  2.76s/it] 60%|██████    | 12/20 [00:38<00:21,  2.75s/it] 65%|██████▌   | 13/20 [00:40<00:19,  2.73s/it] 70%|███████   | 14/20 [00:43<00:16,  2.72s/it] 75%|███████▌  | 15/20 [00:46<00:13,  2.72s/it] 80%|████████  | 16/20 [00:48<00:10,  2.73s/it] 85%|████████▌ | 17/20 [00:51<00:08,  2.71s/it] 90%|█████████ | 18/20 [00:54<00:05,  2.71s/it] 95%|█████████▌| 19/20 [00:56<00:02,  2.70s/it]100%|██████████| 20/20 [00:59<00:00,  2.70s/it]100%|██████████| 20/20 [00:59<00:00,  2.98s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:05<01:39,  5.26s/it] 10%|█         | 2/20 [00:06<00:54,  3.05s/it] 15%|█▌        | 3/20 [00:08<00:39,  2.31s/it] 20%|██        | 4/20 [00:09<00:32,  2.01s/it] 25%|██▌       | 5/20 [00:11<00:27,  1.80s/it] 30%|███       | 6/20 [00:12<00:23,  1.70s/it] 35%|███▌      | 7/20 [00:14<00:20,  1.60s/it] 40%|████      | 8/20 [00:15<00:18,  1.55s/it] 45%|████▌     | 9/20 [00:17<00:17,  1.56s/it] 50%|█████     | 10/20 [00:18<00:15,  1.51s/it] 55%|█████▌    | 11/20 [00:19<00:13,  1.46s/it] 60%|██████    | 12/20 [00:21<00:11,  1.42s/it] 65%|██████▌   | 13/20 [00:22<00:09,  1.38s/it] 70%|███████   | 14/20 [00:23<00:08,  1.37s/it] 75%|███████▌  | 15/20 [00:25<00:06,  1.36s/it] 80%|████████  | 16/20 [00:26<00:05,  1.34s/it] 85%|████████▌ | 17/20 [00:27<00:03,  1.32s/it] 90%|█████████ | 18/20 [00:28<00:02,  1.31s/it] 95%|█████████▌| 19/20 [00:30<00:01,  1.31s/it]100%|██████████| 20/20 [00:31<00:00,  1.32s/it]100%|██████████| 20/20 [00:31<00:00,  1.58s/it]
+TESTING DONE
+ResNet50_865_20x_heightmap_pretrained_frozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:07<01:09,  7.72s/it] 20%|██        | 2/10 [00:09<00:34,  4.28s/it] 30%|███       | 3/10 [00:11<00:22,  3.20s/it] 40%|████      | 4/10 [00:13<00:16,  2.69s/it] 50%|█████     | 5/10 [00:15<00:12,  2.41s/it] 60%|██████    | 6/10 [00:17<00:08,  2.23s/it] 70%|███████   | 7/10 [00:19<00:06,  2.12s/it] 80%|████████  | 8/10 [00:21<00:04,  2.08s/it] 90%|█████████ | 9/10 [00:22<00:02,  2.02s/it]100%|██████████| 10/10 [00:24<00:00,  1.97s/it]100%|██████████| 10/10 [00:24<00:00,  2.48s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:42,  4.67s/it] 20%|██        | 2/10 [00:06<00:22,  2.75s/it] 30%|███       | 3/10 [00:07<00:14,  2.08s/it] 40%|████      | 4/10 [00:08<00:10,  1.77s/it] 50%|█████     | 5/10 [00:09<00:07,  1.59s/it] 60%|██████    | 6/10 [00:11<00:05,  1.49s/it] 70%|███████   | 7/10 [00:12<00:04,  1.42s/it] 80%|████████  | 8/10 [00:13<00:02,  1.38s/it] 90%|█████████ | 9/10 [00:15<00:01,  1.35s/it]100%|██████████| 10/10 [00:16<00:00,  1.33s/it]100%|██████████| 10/10 [00:16<00:00,  1.64s/it]
+TESTING DONE
+ResNet50_865_20x_heightmap_pretrained_frozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:06<01:00,  6.75s/it] 20%|██        | 2/10 [00:08<00:31,  3.92s/it] 30%|███       | 3/10 [00:10<00:21,  3.00s/it] 40%|████      | 4/10 [00:12<00:15,  2.56s/it] 50%|█████     | 5/10 [00:14<00:11,  2.32s/it] 60%|██████    | 6/10 [00:16<00:08,  2.17s/it] 70%|███████   | 7/10 [00:18<00:06,  2.08s/it] 80%|████████  | 8/10 [00:20<00:04,  2.03s/it] 90%|█████████ | 9/10 [00:21<00:01,  1.98s/it]100%|██████████| 10/10 [00:23<00:00,  1.96s/it]100%|██████████| 10/10 [00:23<00:00,  2.39s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:37,  4.17s/it] 20%|██        | 2/10 [00:05<00:19,  2.45s/it] 30%|███       | 3/10 [00:06<00:13,  1.90s/it] 40%|████      | 4/10 [00:07<00:09,  1.64s/it] 50%|█████     | 5/10 [00:09<00:07,  1.50s/it] 60%|██████    | 6/10 [00:10<00:05,  1.43s/it] 70%|███████   | 7/10 [00:11<00:04,  1.37s/it] 80%|████████  | 8/10 [00:12<00:02,  1.33s/it] 90%|█████████ | 9/10 [00:14<00:01,  1.30s/it]100%|██████████| 10/10 [00:15<00:00,  1.29s/it]100%|██████████| 10/10 [00:15<00:00,  1.54s/it]
+TESTING DONE
+ResNet50_865_20x_heightmap_pretrained_unfrozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:10<01:37, 10.87s/it] 20%|██        | 2/10 [00:13<00:48,  6.06s/it] 30%|███       | 3/10 [00:16<00:31,  4.51s/it] 40%|████      | 4/10 [00:18<00:22,  3.81s/it] 50%|█████     | 5/10 [00:21<00:17,  3.40s/it] 60%|██████    | 6/10 [00:24<00:12,  3.16s/it] 70%|███████   | 7/10 [00:26<00:08,  2.99s/it] 80%|████████  | 8/10 [00:29<00:05,  2.90s/it] 90%|█████████ | 9/10 [00:32<00:02,  2.84s/it]100%|██████████| 10/10 [00:35<00:00,  2.79s/it]100%|██████████| 10/10 [00:35<00:00,  3.51s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:05<00:45,  5.07s/it] 20%|██        | 2/10 [00:06<00:22,  2.86s/it] 30%|███       | 3/10 [00:07<00:15,  2.15s/it] 40%|████      | 4/10 [00:08<00:10,  1.82s/it] 50%|█████     | 5/10 [00:10<00:08,  1.63s/it] 60%|██████    | 6/10 [00:11<00:06,  1.52s/it] 70%|███████   | 7/10 [00:12<00:04,  1.44s/it] 80%|████████  | 8/10 [00:14<00:02,  1.40s/it] 90%|█████████ | 9/10 [00:15<00:01,  1.37s/it]100%|██████████| 10/10 [00:16<00:00,  1.34s/it]100%|██████████| 10/10 [00:16<00:00,  1.68s/it]
+TESTING DONE
+ResNet50_865_20x_heightmap_pretrained_unfrozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:11<01:40, 11.20s/it] 20%|██        | 2/10 [00:13<00:49,  6.19s/it] 30%|███       | 3/10 [00:16<00:31,  4.56s/it] 40%|████      | 4/10 [00:19<00:22,  3.80s/it] 50%|█████     | 5/10 [00:21<00:16,  3.37s/it] 60%|██████    | 6/10 [00:24<00:12,  3.13s/it] 70%|███████   | 7/10 [00:27<00:08,  2.98s/it] 80%|████████  | 8/10 [00:29<00:05,  2.86s/it] 90%|█████████ | 9/10 [00:32<00:02,  2.80s/it]100%|██████████| 10/10 [00:35<00:00,  2.81s/it]100%|██████████| 10/10 [00:35<00:00,  3.52s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:05<00:45,  5.04s/it] 20%|██        | 2/10 [00:06<00:22,  2.86s/it] 30%|███       | 3/10 [00:07<00:14,  2.13s/it] 40%|████      | 4/10 [00:08<00:10,  1.79s/it] 50%|█████     | 5/10 [00:10<00:08,  1.60s/it] 60%|██████    | 6/10 [00:11<00:05,  1.49s/it] 70%|███████   | 7/10 [00:12<00:04,  1.42s/it] 80%|████████  | 8/10 [00:14<00:02,  1.38s/it] 90%|█████████ | 9/10 [00:15<00:01,  1.34s/it]100%|██████████| 10/10 [00:16<00:00,  1.32s/it]100%|██████████| 10/10 [00:16<00:00,  1.66s/it]
+TESTING DONE
+ResNet50_865_20x_heightmap_scratch_frozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:19,  4.21s/it] 10%|█         | 2/20 [00:06<00:51,  2.88s/it] 15%|█▌        | 3/20 [00:08<00:41,  2.44s/it] 20%|██        | 4/20 [00:09<00:35,  2.22s/it] 25%|██▌       | 5/20 [00:11<00:31,  2.10s/it] 30%|███       | 6/20 [00:13<00:28,  2.02s/it] 35%|███▌      | 7/20 [00:15<00:25,  1.96s/it] 40%|████      | 8/20 [00:17<00:23,  1.94s/it] 45%|████▌     | 9/20 [00:19<00:21,  1.91s/it] 50%|█████     | 10/20 [00:21<00:18,  1.89s/it] 55%|█████▌    | 11/20 [00:22<00:16,  1.88s/it] 60%|██████    | 12/20 [00:24<00:14,  1.87s/it] 65%|██████▌   | 13/20 [00:26<00:13,  1.86s/it] 70%|███████   | 14/20 [00:28<00:11,  1.85s/it] 75%|███████▌  | 15/20 [00:30<00:09,  1.84s/it] 80%|████████  | 16/20 [00:32<00:07,  1.84s/it] 85%|████████▌ | 17/20 [00:34<00:05,  1.85s/it] 90%|█████████ | 18/20 [00:35<00:03,  1.84s/it] 95%|█████████▌| 19/20 [00:37<00:01,  1.84s/it]100%|██████████| 20/20 [00:39<00:00,  1.85s/it]100%|██████████| 20/20 [00:39<00:00,  1.98s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:25,  4.51s/it] 10%|█         | 2/20 [00:05<00:47,  2.64s/it] 15%|█▌        | 3/20 [00:07<00:34,  2.04s/it] 20%|██        | 4/20 [00:08<00:28,  1.79s/it] 25%|██▌       | 5/20 [00:09<00:24,  1.66s/it] 30%|███       | 6/20 [00:11<00:21,  1.56s/it] 35%|███▌      | 7/20 [00:12<00:19,  1.52s/it] 40%|████      | 8/20 [00:14<00:17,  1.43s/it] 45%|████▌     | 9/20 [00:15<00:15,  1.37s/it] 50%|█████     | 10/20 [00:16<00:13,  1.34s/it] 55%|█████▌    | 11/20 [00:17<00:11,  1.33s/it] 60%|██████    | 12/20 [00:19<00:10,  1.30s/it] 65%|██████▌   | 13/20 [00:20<00:08,  1.28s/it] 70%|███████   | 14/20 [00:21<00:07,  1.27s/it] 75%|███████▌  | 15/20 [00:22<00:06,  1.26s/it] 80%|████████  | 16/20 [00:24<00:05,  1.26s/it] 85%|████████▌ | 17/20 [00:25<00:03,  1.26s/it] 90%|█████████ | 18/20 [00:26<00:02,  1.26s/it] 95%|█████████▌| 19/20 [00:27<00:01,  1.26s/it]100%|██████████| 20/20 [00:29<00:00,  1.25s/it]100%|██████████| 20/20 [00:29<00:00,  1.45s/it]
+TESTING DONE
+ResNet50_865_20x_heightmap_scratch_frozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:08<02:46,  8.74s/it] 10%|█         | 2/20 [00:10<01:25,  4.76s/it] 15%|█▌        | 3/20 [00:12<00:58,  3.45s/it] 20%|██        | 4/20 [00:14<00:45,  2.84s/it] 25%|██▌       | 5/20 [00:16<00:37,  2.50s/it] 30%|███       | 6/20 [00:18<00:32,  2.30s/it] 35%|███▌      | 7/20 [00:20<00:28,  2.18s/it] 40%|████      | 8/20 [00:22<00:25,  2.09s/it] 45%|████▌     | 9/20 [00:24<00:22,  2.03s/it] 50%|█████     | 10/20 [00:25<00:19,  1.98s/it] 55%|█████▌    | 11/20 [00:27<00:17,  1.95s/it] 60%|██████    | 12/20 [00:29<00:15,  1.94s/it] 65%|██████▌   | 13/20 [00:31<00:13,  1.93s/it] 70%|███████   | 14/20 [00:33<00:11,  1.93s/it] 75%|███████▌  | 15/20 [00:35<00:09,  1.92s/it] 80%|████████  | 16/20 [00:37<00:07,  1.92s/it] 85%|████████▌ | 17/20 [00:39<00:05,  1.91s/it] 90%|█████████ | 18/20 [00:41<00:03,  1.91s/it] 95%|█████████▌| 19/20 [00:43<00:01,  1.93s/it]100%|██████████| 20/20 [00:45<00:00,  1.93s/it]100%|██████████| 20/20 [00:45<00:00,  2.25s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:30,  4.76s/it] 10%|█         | 2/20 [00:06<00:51,  2.85s/it] 15%|█▌        | 3/20 [00:07<00:36,  2.16s/it] 20%|██        | 4/20 [00:09<00:29,  1.86s/it] 25%|██▌       | 5/20 [00:10<00:24,  1.65s/it] 30%|███       | 6/20 [00:11<00:22,  1.57s/it] 35%|███▌      | 7/20 [00:13<00:19,  1.48s/it] 40%|████      | 8/20 [00:14<00:17,  1.46s/it] 45%|████▌     | 9/20 [00:15<00:15,  1.40s/it] 50%|█████     | 10/20 [00:16<00:13,  1.35s/it] 55%|█████▌    | 11/20 [00:18<00:11,  1.33s/it] 60%|██████    | 12/20 [00:19<00:10,  1.30s/it] 65%|██████▌   | 13/20 [00:20<00:09,  1.32s/it] 70%|███████   | 14/20 [00:22<00:07,  1.30s/it] 75%|███████▌  | 15/20 [00:23<00:06,  1.29s/it] 80%|████████  | 16/20 [00:24<00:05,  1.29s/it] 85%|████████▌ | 17/20 [00:25<00:03,  1.28s/it] 90%|█████████ | 18/20 [00:27<00:02,  1.27s/it] 95%|█████████▌| 19/20 [00:28<00:01,  1.29s/it]100%|██████████| 20/20 [00:29<00:00,  1.30s/it]100%|██████████| 20/20 [00:29<00:00,  1.49s/it]
+TESTING DONE
+ResNet50_865_20x_heightmap_scratch_unfrozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:11<03:30, 11.08s/it] 10%|█         | 2/20 [00:13<01:50,  6.13s/it] 15%|█▌        | 3/20 [00:16<01:17,  4.56s/it] 20%|██        | 4/20 [00:19<01:01,  3.82s/it] 25%|██▌       | 5/20 [00:21<00:51,  3.42s/it] 30%|███       | 6/20 [00:24<00:44,  3.16s/it] 35%|███▌      | 7/20 [00:27<00:38,  3.00s/it] 40%|████      | 8/20 [00:29<00:34,  2.92s/it] 45%|████▌     | 9/20 [00:32<00:31,  2.84s/it] 50%|█████     | 10/20 [00:35<00:28,  2.80s/it] 55%|█████▌    | 11/20 [00:37<00:24,  2.76s/it] 60%|██████    | 12/20 [00:40<00:21,  2.74s/it] 65%|██████▌   | 13/20 [00:43<00:19,  2.73s/it] 70%|███████   | 14/20 [00:46<00:16,  2.71s/it] 75%|███████▌  | 15/20 [00:48<00:13,  2.70s/it] 80%|████████  | 16/20 [00:51<00:10,  2.69s/it] 85%|████████▌ | 17/20 [00:54<00:08,  2.70s/it] 90%|█████████ | 18/20 [00:56<00:05,  2.70s/it] 95%|█████████▌| 19/20 [00:59<00:02,  2.70s/it]100%|██████████| 20/20 [01:02<00:00,  2.69s/it]100%|██████████| 20/20 [01:02<00:00,  3.11s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:05<01:35,  5.01s/it] 10%|█         | 2/20 [00:06<00:52,  2.89s/it] 15%|█▌        | 3/20 [00:07<00:38,  2.28s/it] 20%|██        | 4/20 [00:09<00:31,  1.98s/it] 25%|██▌       | 5/20 [00:10<00:26,  1.78s/it] 30%|███       | 6/20 [00:12<00:22,  1.63s/it] 35%|███▌      | 7/20 [00:13<00:19,  1.52s/it] 40%|████      | 8/20 [00:14<00:17,  1.46s/it] 45%|████▌     | 9/20 [00:16<00:15,  1.41s/it] 50%|█████     | 10/20 [00:17<00:14,  1.42s/it] 55%|█████▌    | 11/20 [00:19<00:12,  1.41s/it] 60%|██████    | 12/20 [00:20<00:11,  1.41s/it] 65%|██████▌   | 13/20 [00:21<00:09,  1.37s/it] 70%|███████   | 14/20 [00:23<00:08,  1.35s/it] 75%|███████▌  | 15/20 [00:24<00:06,  1.34s/it] 80%|████████  | 16/20 [00:25<00:05,  1.34s/it] 85%|████████▌ | 17/20 [00:26<00:03,  1.32s/it] 90%|█████████ | 18/20 [00:28<00:02,  1.30s/it] 95%|█████████▌| 19/20 [00:29<00:01,  1.31s/it]100%|██████████| 20/20 [00:30<00:00,  1.31s/it]100%|██████████| 20/20 [00:30<00:00,  1.54s/it]
+TESTING DONE
+ResNet50_865_20x_heightmap_scratch_unfrozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:10<03:18, 10.45s/it] 10%|█         | 2/20 [00:13<01:45,  5.87s/it] 15%|█▌        | 3/20 [00:15<01:15,  4.41s/it] 20%|██        | 4/20 [00:18<00:59,  3.73s/it] 25%|██▌       | 5/20 [00:21<00:50,  3.37s/it] 30%|███       | 6/20 [00:23<00:44,  3.15s/it] 35%|███▌      | 7/20 [00:26<00:39,  3.00s/it] 40%|████      | 8/20 [00:29<00:34,  2.90s/it] 45%|████▌     | 9/20 [00:32<00:31,  2.84s/it] 50%|█████     | 10/20 [00:34<00:27,  2.79s/it] 55%|█████▌    | 11/20 [00:37<00:24,  2.76s/it] 60%|██████    | 12/20 [00:40<00:21,  2.74s/it] 65%|██████▌   | 13/20 [00:42<00:19,  2.77s/it] 70%|███████   | 14/20 [00:45<00:16,  2.76s/it] 75%|███████▌  | 15/20 [00:48<00:13,  2.75s/it] 80%|████████  | 16/20 [00:51<00:10,  2.73s/it] 85%|████████▌ | 17/20 [00:53<00:08,  2.72s/it] 90%|█████████ | 18/20 [00:56<00:05,  2.71s/it] 95%|█████████▌| 19/20 [00:59<00:02,  2.70s/it]100%|██████████| 20/20 [01:01<00:00,  2.70s/it]100%|██████████| 20/20 [01:01<00:00,  3.09s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:31,  4.82s/it] 10%|█         | 2/20 [00:06<00:49,  2.76s/it] 15%|█▌        | 3/20 [00:07<00:35,  2.11s/it] 20%|██        | 4/20 [00:08<00:28,  1.81s/it] 25%|██▌       | 5/20 [00:10<00:24,  1.64s/it] 30%|███       | 6/20 [00:11<00:21,  1.52s/it] 35%|███▌      | 7/20 [00:12<00:18,  1.45s/it] 40%|████      | 8/20 [00:14<00:16,  1.40s/it] 45%|████▌     | 9/20 [00:15<00:15,  1.39s/it] 50%|█████     | 10/20 [00:16<00:13,  1.37s/it] 55%|█████▌    | 11/20 [00:18<00:12,  1.34s/it] 60%|██████    | 12/20 [00:19<00:10,  1.32s/it] 65%|██████▌   | 13/20 [00:20<00:09,  1.30s/it] 70%|███████   | 14/20 [00:21<00:07,  1.29s/it] 75%|███████▌  | 15/20 [00:23<00:06,  1.31s/it] 80%|████████  | 16/20 [00:24<00:05,  1.35s/it] 85%|████████▌ | 17/20 [00:25<00:03,  1.32s/it] 90%|█████████ | 18/20 [00:27<00:02,  1.31s/it] 95%|█████████▌| 19/20 [00:28<00:01,  1.31s/it]100%|██████████| 20/20 [00:29<00:00,  1.32s/it]100%|██████████| 20/20 [00:29<00:00,  1.49s/it]
+TESTING DONE
+ResNet50_865_50x_texture_pretrained_frozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:09<01:22,  9.12s/it] 20%|██        | 2/10 [00:11<00:39,  4.88s/it] 30%|███       | 3/10 [00:13<00:24,  3.55s/it] 40%|████      | 4/10 [00:14<00:17,  2.92s/it] 50%|█████     | 5/10 [00:16<00:12,  2.56s/it] 60%|██████    | 6/10 [00:18<00:09,  2.34s/it] 70%|███████   | 7/10 [00:20<00:06,  2.22s/it] 80%|████████  | 8/10 [00:22<00:04,  2.14s/it] 90%|█████████ | 9/10 [00:24<00:02,  2.09s/it]100%|██████████| 10/10 [00:26<00:00,  2.05s/it]100%|██████████| 10/10 [00:26<00:00,  2.67s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:44,  4.96s/it] 20%|██        | 2/10 [00:06<00:22,  2.76s/it] 30%|███       | 3/10 [00:07<00:14,  2.05s/it] 40%|████      | 4/10 [00:08<00:10,  1.71s/it] 50%|█████     | 5/10 [00:09<00:07,  1.53s/it] 60%|██████    | 6/10 [00:10<00:05,  1.42s/it] 70%|███████   | 7/10 [00:12<00:04,  1.34s/it] 80%|████████  | 8/10 [00:13<00:02,  1.30s/it] 90%|█████████ | 9/10 [00:14<00:01,  1.27s/it]100%|██████████| 10/10 [00:15<00:00,  1.25s/it]100%|██████████| 10/10 [00:15<00:00,  1.58s/it]
+TESTING DONE
+ResNet50_865_50x_texture_pretrained_frozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:07<01:03,  7.09s/it] 20%|██        | 2/10 [00:09<00:32,  4.06s/it] 30%|███       | 3/10 [00:10<00:21,  3.09s/it] 40%|████      | 4/10 [00:12<00:15,  2.64s/it] 50%|█████     | 5/10 [00:14<00:11,  2.39s/it] 60%|██████    | 6/10 [00:16<00:08,  2.23s/it] 70%|███████   | 7/10 [00:18<00:06,  2.14s/it] 80%|████████  | 8/10 [00:20<00:04,  2.08s/it] 90%|█████████ | 9/10 [00:22<00:02,  2.03s/it]100%|██████████| 10/10 [00:24<00:00,  1.99s/it]100%|██████████| 10/10 [00:24<00:00,  2.45s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:40,  4.49s/it] 20%|██        | 2/10 [00:05<00:20,  2.56s/it] 30%|███       | 3/10 [00:06<00:13,  1.97s/it] 40%|████      | 4/10 [00:08<00:10,  1.70s/it] 50%|█████     | 5/10 [00:09<00:07,  1.52s/it] 60%|██████    | 6/10 [00:10<00:05,  1.42s/it] 70%|███████   | 7/10 [00:11<00:04,  1.36s/it] 80%|████████  | 8/10 [00:13<00:02,  1.31s/it] 90%|█████████ | 9/10 [00:14<00:01,  1.28s/it]100%|██████████| 10/10 [00:15<00:00,  1.26s/it]100%|██████████| 10/10 [00:15<00:00,  1.56s/it]
+TESTING DONE
+ResNet50_865_50x_texture_pretrained_unfrozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:10<01:34, 10.46s/it] 20%|██        | 2/10 [00:13<00:47,  5.96s/it] 30%|███       | 3/10 [00:16<00:31,  4.52s/it] 40%|████      | 4/10 [00:18<00:22,  3.83s/it] 50%|█████     | 5/10 [00:21<00:17,  3.45s/it] 60%|██████    | 6/10 [00:24<00:12,  3.22s/it] 70%|███████   | 7/10 [00:27<00:09,  3.08s/it] 80%|████████  | 8/10 [00:29<00:05,  2.98s/it] 90%|█████████ | 9/10 [00:32<00:02,  2.93s/it]100%|██████████| 10/10 [00:35<00:00,  2.89s/it]100%|██████████| 10/10 [00:35<00:00,  3.56s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:42,  4.72s/it] 20%|██        | 2/10 [00:05<00:21,  2.66s/it] 30%|███       | 3/10 [00:07<00:13,  2.00s/it] 40%|████      | 4/10 [00:08<00:10,  1.68s/it] 50%|█████     | 5/10 [00:09<00:07,  1.51s/it] 60%|██████    | 6/10 [00:10<00:05,  1.41s/it] 70%|███████   | 7/10 [00:11<00:04,  1.34s/it] 80%|████████  | 8/10 [00:13<00:02,  1.30s/it] 90%|█████████ | 9/10 [00:14<00:01,  1.29s/it]100%|██████████| 10/10 [00:15<00:00,  1.27s/it]100%|██████████| 10/10 [00:15<00:00,  1.57s/it]
+TESTING DONE
+ResNet50_865_50x_texture_pretrained_unfrozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:09<01:25,  9.49s/it] 20%|██        | 2/10 [00:12<00:44,  5.51s/it] 30%|███       | 3/10 [00:14<00:29,  4.26s/it] 40%|████      | 4/10 [00:17<00:22,  3.67s/it] 50%|█████     | 5/10 [00:20<00:16,  3.35s/it] 60%|██████    | 6/10 [00:23<00:12,  3.14s/it] 70%|███████   | 7/10 [00:26<00:09,  3.01s/it] 80%|████████  | 8/10 [00:28<00:05,  2.92s/it] 90%|█████████ | 9/10 [00:31<00:02,  2.87s/it]100%|██████████| 10/10 [00:34<00:00,  2.83s/it]100%|██████████| 10/10 [00:34<00:00,  3.43s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:39,  4.43s/it] 20%|██        | 2/10 [00:05<00:20,  2.53s/it] 30%|███       | 3/10 [00:06<00:13,  1.92s/it] 40%|████      | 4/10 [00:08<00:09,  1.64s/it] 50%|█████     | 5/10 [00:09<00:07,  1.48s/it] 60%|██████    | 6/10 [00:10<00:05,  1.39s/it] 70%|███████   | 7/10 [00:11<00:03,  1.32s/it] 80%|████████  | 8/10 [00:12<00:02,  1.28s/it] 90%|█████████ | 9/10 [00:14<00:01,  1.26s/it]100%|██████████| 10/10 [00:15<00:00,  1.24s/it]100%|██████████| 10/10 [00:15<00:00,  1.52s/it]
+TESTING DONE
+ResNet50_865_50x_texture_scratch_frozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:07<02:27,  7.74s/it] 10%|█         | 2/20 [00:09<01:17,  4.33s/it] 15%|█▌        | 3/20 [00:11<00:55,  3.24s/it] 20%|██        | 4/20 [00:13<00:43,  2.73s/it] 25%|██▌       | 5/20 [00:15<00:36,  2.44s/it] 30%|███       | 6/20 [00:17<00:31,  2.27s/it] 35%|███▌      | 7/20 [00:19<00:28,  2.18s/it] 40%|████      | 8/20 [00:21<00:25,  2.10s/it] 45%|████▌     | 9/20 [00:23<00:22,  2.05s/it] 50%|█████     | 10/20 [00:25<00:20,  2.01s/it] 55%|█████▌    | 11/20 [00:27<00:18,  2.01s/it] 60%|██████    | 12/20 [00:29<00:15,  2.00s/it] 65%|██████▌   | 13/20 [00:31<00:13,  1.97s/it] 70%|███████   | 14/20 [00:33<00:11,  1.96s/it] 75%|███████▌  | 15/20 [00:34<00:09,  1.95s/it] 80%|████████  | 16/20 [00:36<00:07,  1.96s/it] 85%|████████▌ | 17/20 [00:38<00:05,  1.95s/it] 90%|█████████ | 18/20 [00:40<00:03,  1.95s/it] 95%|█████████▌| 19/20 [00:42<00:01,  1.95s/it]100%|██████████| 20/20 [00:44<00:00,  1.95s/it]100%|██████████| 20/20 [00:44<00:00,  2.24s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:28,  4.64s/it] 10%|█         | 2/20 [00:05<00:47,  2.64s/it] 15%|█▌        | 3/20 [00:07<00:35,  2.06s/it] 20%|██        | 4/20 [00:08<00:27,  1.74s/it] 25%|██▌       | 5/20 [00:09<00:23,  1.57s/it] 30%|███       | 6/20 [00:10<00:20,  1.44s/it] 35%|███▌      | 7/20 [00:12<00:18,  1.39s/it] 40%|████      | 8/20 [00:13<00:15,  1.33s/it] 45%|████▌     | 9/20 [00:14<00:14,  1.30s/it] 50%|█████     | 10/20 [00:15<00:12,  1.26s/it] 55%|█████▌    | 11/20 [00:17<00:11,  1.25s/it] 60%|██████    | 12/20 [00:18<00:09,  1.24s/it] 65%|██████▌   | 13/20 [00:19<00:08,  1.23s/it] 70%|███████   | 14/20 [00:20<00:07,  1.24s/it] 75%|███████▌  | 15/20 [00:22<00:06,  1.26s/it] 80%|████████  | 16/20 [00:23<00:04,  1.24s/it] 85%|████████▌ | 17/20 [00:24<00:03,  1.22s/it] 90%|█████████ | 18/20 [00:25<00:02,  1.21s/it] 95%|█████████▌| 19/20 [00:26<00:01,  1.20s/it]100%|██████████| 20/20 [00:28<00:00,  1.20s/it]100%|██████████| 20/20 [00:28<00:00,  1.40s/it]
+TESTING DONE
+ResNet50_865_50x_texture_scratch_frozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:05<01:35,  5.00s/it] 10%|█         | 2/20 [00:06<00:58,  3.22s/it] 15%|█▌        | 3/20 [00:08<00:44,  2.64s/it] 20%|██        | 4/20 [00:10<00:37,  2.35s/it] 25%|██▌       | 5/20 [00:12<00:32,  2.19s/it] 30%|███       | 6/20 [00:14<00:29,  2.11s/it] 35%|███▌      | 7/20 [00:16<00:26,  2.07s/it] 40%|████      | 8/20 [00:18<00:24,  2.02s/it] 45%|████▌     | 9/20 [00:20<00:21,  2.00s/it] 50%|█████     | 10/20 [00:22<00:19,  1.97s/it] 55%|█████▌    | 11/20 [00:24<00:17,  1.97s/it] 60%|██████    | 12/20 [00:26<00:15,  1.96s/it] 65%|██████▌   | 13/20 [00:28<00:13,  1.96s/it] 70%|███████   | 14/20 [00:30<00:11,  1.95s/it] 75%|███████▌  | 15/20 [00:32<00:09,  1.95s/it] 80%|████████  | 16/20 [00:34<00:07,  1.92s/it] 85%|████████▌ | 17/20 [00:35<00:05,  1.92s/it] 90%|█████████ | 18/20 [00:37<00:03,  1.92s/it] 95%|█████████▌| 19/20 [00:39<00:01,  1.92s/it]100%|██████████| 20/20 [00:41<00:00,  1.91s/it]100%|██████████| 20/20 [00:41<00:00,  2.09s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:05<01:38,  5.16s/it] 10%|█         | 2/20 [00:06<00:51,  2.87s/it] 15%|█▌        | 3/20 [00:07<00:36,  2.12s/it] 20%|██        | 4/20 [00:08<00:28,  1.79s/it] 25%|██▌       | 5/20 [00:10<00:24,  1.63s/it] 30%|███       | 6/20 [00:11<00:21,  1.56s/it] 35%|███▌      | 7/20 [00:12<00:18,  1.45s/it] 40%|████      | 8/20 [00:14<00:17,  1.42s/it] 45%|████▌     | 9/20 [00:15<00:15,  1.45s/it] 50%|█████     | 10/20 [00:17<00:13,  1.39s/it] 55%|█████▌    | 11/20 [00:18<00:12,  1.34s/it] 60%|██████    | 12/20 [00:19<00:10,  1.30s/it] 65%|██████▌   | 13/20 [00:20<00:09,  1.30s/it] 70%|███████   | 14/20 [00:22<00:07,  1.29s/it] 75%|███████▌  | 15/20 [00:23<00:06,  1.27s/it] 80%|████████  | 16/20 [00:24<00:05,  1.25s/it] 85%|████████▌ | 17/20 [00:25<00:03,  1.26s/it] 90%|█████████ | 18/20 [00:27<00:02,  1.26s/it] 95%|█████████▌| 19/20 [00:28<00:01,  1.26s/it]100%|██████████| 20/20 [00:29<00:00,  1.25s/it]100%|██████████| 20/20 [00:29<00:00,  1.48s/it]
+TESTING DONE
+ResNet50_865_50x_texture_scratch_unfrozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:06<02:01,  6.37s/it] 10%|█         | 2/20 [00:09<01:16,  4.24s/it] 15%|█▌        | 3/20 [00:11<01:00,  3.57s/it] 20%|██        | 4/20 [00:14<00:52,  3.25s/it] 25%|██▌       | 5/20 [00:17<00:46,  3.11s/it] 30%|███       | 6/20 [00:20<00:41,  2.99s/it] 35%|███▌      | 7/20 [00:23<00:37,  2.91s/it] 40%|████      | 8/20 [00:25<00:34,  2.87s/it] 45%|████▌     | 9/20 [00:28<00:31,  2.85s/it] 50%|█████     | 10/20 [00:31<00:28,  2.82s/it] 55%|█████▌    | 11/20 [00:34<00:25,  2.80s/it] 60%|██████    | 12/20 [00:36<00:22,  2.78s/it] 65%|██████▌   | 13/20 [00:39<00:19,  2.78s/it] 70%|███████   | 14/20 [00:42<00:16,  2.78s/it] 75%|███████▌  | 15/20 [00:45<00:13,  2.78s/it] 80%|████████  | 16/20 [00:47<00:11,  2.77s/it] 85%|████████▌ | 17/20 [00:50<00:08,  2.77s/it] 90%|█████████ | 18/20 [00:53<00:05,  2.77s/it] 95%|█████████▌| 19/20 [00:56<00:02,  2.76s/it]100%|██████████| 20/20 [00:58<00:00,  2.76s/it]100%|██████████| 20/20 [00:58<00:00,  2.95s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:05<01:37,  5.12s/it] 10%|█         | 2/20 [00:06<00:55,  3.07s/it] 15%|█▌        | 3/20 [00:08<00:39,  2.30s/it] 20%|██        | 4/20 [00:09<00:31,  1.96s/it] 25%|██▌       | 5/20 [00:10<00:26,  1.74s/it] 30%|███       | 6/20 [00:12<00:22,  1.62s/it] 35%|███▌      | 7/20 [00:13<00:20,  1.55s/it] 40%|████      | 8/20 [00:15<00:17,  1.49s/it] 45%|████▌     | 9/20 [00:16<00:15,  1.42s/it] 50%|█████     | 10/20 [00:17<00:13,  1.39s/it] 55%|█████▌    | 11/20 [00:18<00:12,  1.34s/it] 60%|██████    | 12/20 [00:20<00:10,  1.32s/it] 65%|██████▌   | 13/20 [00:21<00:09,  1.30s/it] 70%|███████   | 14/20 [00:22<00:07,  1.28s/it] 75%|███████▌  | 15/20 [00:23<00:06,  1.28s/it] 80%|████████  | 16/20 [00:25<00:05,  1.27s/it] 85%|████████▌ | 17/20 [00:26<00:03,  1.27s/it] 90%|█████████ | 18/20 [00:27<00:02,  1.31s/it] 95%|█████████▌| 19/20 [00:29<00:01,  1.29s/it]100%|██████████| 20/20 [00:30<00:00,  1.26s/it]100%|██████████| 20/20 [00:30<00:00,  1.51s/it]
+TESTING DONE
+ResNet50_865_50x_texture_scratch_unfrozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:06<02:00,  6.32s/it] 10%|█         | 2/20 [00:09<01:16,  4.23s/it] 15%|█▌        | 3/20 [00:11<01:00,  3.56s/it] 20%|██        | 4/20 [00:14<00:51,  3.25s/it] 25%|██▌       | 5/20 [00:17<00:45,  3.06s/it] 30%|███       | 6/20 [00:20<00:41,  2.96s/it] 35%|███▌      | 7/20 [00:22<00:37,  2.90s/it] 40%|████      | 8/20 [00:25<00:34,  2.88s/it] 45%|████▌     | 9/20 [00:28<00:31,  2.84s/it] 50%|█████     | 10/20 [00:31<00:28,  2.81s/it] 55%|█████▌    | 11/20 [00:33<00:25,  2.79s/it] 60%|██████    | 12/20 [00:36<00:22,  2.78s/it] 65%|██████▌   | 13/20 [00:39<00:19,  2.78s/it] 70%|███████   | 14/20 [00:42<00:16,  2.83s/it] 75%|███████▌  | 15/20 [00:45<00:14,  2.81s/it] 80%|████████  | 16/20 [00:48<00:11,  2.81s/it] 85%|████████▌ | 17/20 [00:50<00:08,  2.82s/it] 90%|█████████ | 18/20 [00:53<00:05,  2.81s/it] 95%|█████████▌| 19/20 [00:56<00:02,  2.80s/it]100%|██████████| 20/20 [00:59<00:00,  2.79s/it]100%|██████████| 20/20 [00:59<00:00,  2.96s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:05<01:41,  5.35s/it] 10%|█         | 2/20 [00:06<00:53,  2.97s/it] 15%|█▌        | 3/20 [00:08<00:38,  2.24s/it] 20%|██        | 4/20 [00:09<00:30,  1.88s/it] 25%|██▌       | 5/20 [00:10<00:24,  1.65s/it] 30%|███       | 6/20 [00:11<00:21,  1.52s/it] 35%|███▌      | 7/20 [00:13<00:18,  1.44s/it] 40%|████      | 8/20 [00:14<00:16,  1.38s/it] 45%|████▌     | 9/20 [00:15<00:14,  1.34s/it] 50%|█████     | 10/20 [00:16<00:12,  1.30s/it] 55%|█████▌    | 11/20 [00:18<00:11,  1.29s/it] 60%|██████    | 12/20 [00:19<00:10,  1.28s/it] 65%|██████▌   | 13/20 [00:20<00:08,  1.26s/it] 70%|███████   | 14/20 [00:21<00:07,  1.25s/it] 75%|███████▌  | 15/20 [00:23<00:06,  1.25s/it] 80%|████████  | 16/20 [00:24<00:05,  1.25s/it] 85%|████████▌ | 17/20 [00:25<00:03,  1.24s/it] 90%|█████████ | 18/20 [00:26<00:02,  1.24s/it] 95%|█████████▌| 19/20 [00:28<00:01,  1.25s/it]100%|██████████| 20/20 [00:29<00:00,  1.24s/it]100%|██████████| 20/20 [00:29<00:00,  1.46s/it]
+TESTING DONE
+ResNet50_865_50x_heightmap_pretrained_frozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:06<01:01,  6.88s/it] 20%|██        | 2/10 [00:08<00:32,  4.03s/it] 30%|███       | 3/10 [00:10<00:21,  3.06s/it] 40%|████      | 4/10 [00:12<00:15,  2.62s/it] 50%|█████     | 5/10 [00:14<00:11,  2.37s/it] 60%|██████    | 6/10 [00:16<00:08,  2.22s/it] 70%|███████   | 7/10 [00:18<00:06,  2.13s/it] 80%|████████  | 8/10 [00:20<00:04,  2.07s/it] 90%|█████████ | 9/10 [00:22<00:02,  2.03s/it]100%|██████████| 10/10 [00:24<00:00,  1.99s/it]100%|██████████| 10/10 [00:24<00:00,  2.43s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:44,  4.90s/it] 20%|██        | 2/10 [00:06<00:21,  2.72s/it] 30%|███       | 3/10 [00:07<00:14,  2.02s/it] 40%|████      | 4/10 [00:08<00:10,  1.69s/it] 50%|█████     | 5/10 [00:09<00:07,  1.51s/it] 60%|██████    | 6/10 [00:10<00:05,  1.40s/it] 70%|███████   | 7/10 [00:12<00:03,  1.33s/it] 80%|████████  | 8/10 [00:13<00:02,  1.30s/it] 90%|█████████ | 9/10 [00:14<00:01,  1.28s/it]100%|██████████| 10/10 [00:15<00:00,  1.25s/it]100%|██████████| 10/10 [00:15<00:00,  1.57s/it]
+TESTING DONE
+ResNet50_865_50x_heightmap_pretrained_frozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:09<01:25,  9.52s/it] 20%|██        | 2/10 [00:11<00:40,  5.12s/it] 30%|███       | 3/10 [00:13<00:26,  3.75s/it] 40%|████      | 4/10 [00:15<00:18,  3.03s/it] 50%|█████     | 5/10 [00:17<00:13,  2.62s/it] 60%|██████    | 6/10 [00:19<00:09,  2.40s/it] 70%|███████   | 7/10 [00:21<00:06,  2.24s/it] 80%|████████  | 8/10 [00:23<00:04,  2.15s/it] 90%|█████████ | 9/10 [00:25<00:02,  2.08s/it]100%|██████████| 10/10 [00:27<00:00,  2.06s/it]100%|██████████| 10/10 [00:27<00:00,  2.73s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:38,  4.30s/it] 20%|██        | 2/10 [00:05<00:19,  2.48s/it] 30%|███       | 3/10 [00:06<00:13,  1.89s/it] 40%|████      | 4/10 [00:07<00:09,  1.61s/it] 50%|█████     | 5/10 [00:09<00:07,  1.47s/it] 60%|██████    | 6/10 [00:10<00:05,  1.38s/it] 70%|███████   | 7/10 [00:11<00:03,  1.31s/it] 80%|████████  | 8/10 [00:12<00:02,  1.27s/it] 90%|█████████ | 9/10 [00:13<00:01,  1.25s/it]100%|██████████| 10/10 [00:15<00:00,  1.22s/it]100%|██████████| 10/10 [00:15<00:00,  1.50s/it]
+TESTING DONE
+ResNet50_865_50x_heightmap_pretrained_unfrozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:05<00:47,  5.24s/it] 20%|██        | 2/10 [00:07<00:30,  3.78s/it] 30%|███       | 3/10 [00:10<00:23,  3.31s/it] 40%|████      | 4/10 [00:13<00:18,  3.08s/it] 50%|█████     | 5/10 [00:16<00:14,  2.97s/it] 60%|██████    | 6/10 [00:18<00:11,  2.89s/it] 70%|███████   | 7/10 [00:21<00:08,  2.84s/it] 80%|████████  | 8/10 [00:24<00:05,  2.83s/it] 90%|█████████ | 9/10 [00:27<00:02,  2.81s/it]100%|██████████| 10/10 [00:30<00:00,  2.80s/it]100%|██████████| 10/10 [00:30<00:00,  3.01s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:40,  4.46s/it] 20%|██        | 2/10 [00:05<00:20,  2.60s/it] 30%|███       | 3/10 [00:06<00:13,  1.97s/it] 40%|████      | 4/10 [00:08<00:10,  1.67s/it] 50%|█████     | 5/10 [00:09<00:07,  1.50s/it] 60%|██████    | 6/10 [00:10<00:05,  1.39s/it] 70%|███████   | 7/10 [00:11<00:03,  1.33s/it] 80%|████████  | 8/10 [00:12<00:02,  1.29s/it] 90%|█████████ | 9/10 [00:14<00:01,  1.26s/it]100%|██████████| 10/10 [00:15<00:00,  1.25s/it]100%|██████████| 10/10 [00:15<00:00,  1.54s/it]
+TESTING DONE
+ResNet50_865_50x_heightmap_pretrained_unfrozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:11<01:47, 11.97s/it] 20%|██        | 2/10 [00:14<00:52,  6.54s/it] 30%|███       | 3/10 [00:17<00:33,  4.81s/it] 40%|████      | 4/10 [00:20<00:24,  4.02s/it] 50%|█████     | 5/10 [00:23<00:17,  3.57s/it] 60%|██████    | 6/10 [00:25<00:13,  3.29s/it] 70%|███████   | 7/10 [00:28<00:09,  3.11s/it] 80%|████████  | 8/10 [00:31<00:05,  3.00s/it] 90%|█████████ | 9/10 [00:34<00:02,  2.92s/it]100%|██████████| 10/10 [00:36<00:00,  2.88s/it]100%|██████████| 10/10 [00:36<00:00,  3.68s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:05<00:46,  5.17s/it] 20%|██        | 2/10 [00:06<00:22,  2.85s/it] 30%|███       | 3/10 [00:07<00:14,  2.11s/it] 40%|████      | 4/10 [00:08<00:10,  1.76s/it] 50%|█████     | 5/10 [00:10<00:07,  1.56s/it] 60%|██████    | 6/10 [00:11<00:05,  1.45s/it] 70%|███████   | 7/10 [00:12<00:04,  1.37s/it] 80%|████████  | 8/10 [00:13<00:02,  1.31s/it] 90%|█████████ | 9/10 [00:14<00:01,  1.28s/it]100%|██████████| 10/10 [00:16<00:00,  1.25s/it]100%|██████████| 10/10 [00:16<00:00,  1.61s/it]
+TESTING DONE
+ResNet50_865_50x_heightmap_scratch_frozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:07<02:23,  7.54s/it] 10%|█         | 2/20 [00:09<01:16,  4.23s/it] 15%|█▌        | 3/20 [00:11<00:53,  3.17s/it] 20%|██        | 4/20 [00:13<00:43,  2.69s/it] 25%|██▌       | 5/20 [00:15<00:36,  2.41s/it] 30%|███       | 6/20 [00:17<00:31,  2.26s/it] 35%|███▌      | 7/20 [00:19<00:27,  2.15s/it] 40%|████      | 8/20 [00:21<00:24,  2.08s/it] 45%|████▌     | 9/20 [00:23<00:22,  2.04s/it] 50%|█████     | 10/20 [00:24<00:19,  2.00s/it] 55%|█████▌    | 11/20 [00:26<00:17,  1.97s/it] 60%|██████    | 12/20 [00:28<00:15,  1.95s/it] 65%|██████▌   | 13/20 [00:30<00:13,  1.93s/it] 70%|███████   | 14/20 [00:32<00:11,  1.95s/it] 75%|███████▌  | 15/20 [00:34<00:09,  1.95s/it] 80%|████████  | 16/20 [00:36<00:07,  1.95s/it] 85%|████████▌ | 17/20 [00:38<00:05,  1.93s/it] 90%|█████████ | 18/20 [00:40<00:03,  1.93s/it] 95%|█████████▌| 19/20 [00:42<00:01,  1.94s/it]100%|██████████| 20/20 [00:44<00:00,  1.95s/it]100%|██████████| 20/20 [00:44<00:00,  2.21s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:31,  4.79s/it] 10%|█         | 2/20 [00:06<00:50,  2.78s/it] 15%|█▌        | 3/20 [00:07<00:35,  2.09s/it] 20%|██        | 4/20 [00:08<00:27,  1.75s/it] 25%|██▌       | 5/20 [00:09<00:23,  1.57s/it] 30%|███       | 6/20 [00:11<00:20,  1.45s/it] 35%|███▌      | 7/20 [00:12<00:17,  1.38s/it] 40%|████      | 8/20 [00:13<00:15,  1.33s/it] 45%|████▌     | 9/20 [00:14<00:14,  1.30s/it] 50%|█████     | 10/20 [00:16<00:12,  1.28s/it] 55%|█████▌    | 11/20 [00:17<00:11,  1.27s/it] 60%|██████    | 12/20 [00:18<00:09,  1.24s/it] 65%|██████▌   | 13/20 [00:19<00:08,  1.26s/it] 70%|███████   | 14/20 [00:20<00:07,  1.24s/it] 75%|███████▌  | 15/20 [00:22<00:06,  1.23s/it] 80%|████████  | 16/20 [00:23<00:04,  1.22s/it] 85%|████████▌ | 17/20 [00:24<00:03,  1.24s/it] 90%|█████████ | 18/20 [00:25<00:02,  1.26s/it] 95%|█████████▌| 19/20 [00:27<00:01,  1.24s/it]100%|██████████| 20/20 [00:28<00:00,  1.24s/it]100%|██████████| 20/20 [00:28<00:00,  1.42s/it]
+TESTING DONE
+ResNet50_865_50x_heightmap_scratch_frozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:08<02:46,  8.78s/it] 10%|█         | 2/20 [00:10<01:25,  4.75s/it] 15%|█▌        | 3/20 [00:12<00:58,  3.47s/it] 20%|██        | 4/20 [00:14<00:46,  2.89s/it] 25%|██▌       | 5/20 [00:16<00:38,  2.54s/it] 30%|███       | 6/20 [00:18<00:32,  2.35s/it] 35%|███▌      | 7/20 [00:20<00:28,  2.22s/it] 40%|████      | 8/20 [00:22<00:25,  2.12s/it] 45%|████▌     | 9/20 [00:24<00:22,  2.06s/it] 50%|█████     | 10/20 [00:26<00:20,  2.02s/it] 55%|█████▌    | 11/20 [00:28<00:18,  2.01s/it] 60%|██████    | 12/20 [00:30<00:15,  1.99s/it] 65%|██████▌   | 13/20 [00:32<00:13,  1.96s/it] 70%|███████   | 14/20 [00:34<00:11,  1.96s/it] 75%|███████▌  | 15/20 [00:35<00:09,  1.95s/it] 80%|████████  | 16/20 [00:37<00:07,  1.94s/it] 85%|████████▌ | 17/20 [00:39<00:05,  1.93s/it] 90%|█████████ | 18/20 [00:41<00:03,  1.93s/it] 95%|█████████▌| 19/20 [00:43<00:01,  1.95s/it]100%|██████████| 20/20 [00:45<00:00,  1.94s/it]100%|██████████| 20/20 [00:45<00:00,  2.28s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:34,  4.99s/it] 10%|█         | 2/20 [00:06<00:52,  2.93s/it] 15%|█▌        | 3/20 [00:07<00:36,  2.17s/it] 20%|██        | 4/20 [00:09<00:30,  1.90s/it] 25%|██▌       | 5/20 [00:10<00:24,  1.66s/it] 30%|███       | 6/20 [00:11<00:21,  1.51s/it] 35%|███▌      | 7/20 [00:12<00:18,  1.44s/it] 40%|████      | 8/20 [00:14<00:16,  1.39s/it] 45%|████▌     | 9/20 [00:15<00:14,  1.36s/it] 50%|█████     | 10/20 [00:16<00:13,  1.31s/it] 55%|█████▌    | 11/20 [00:18<00:11,  1.31s/it] 60%|██████    | 12/20 [00:19<00:10,  1.28s/it] 65%|██████▌   | 13/20 [00:20<00:08,  1.26s/it] 70%|███████   | 14/20 [00:21<00:07,  1.24s/it] 75%|███████▌  | 15/20 [00:22<00:06,  1.25s/it] 80%|████████  | 16/20 [00:24<00:04,  1.23s/it] 85%|████████▌ | 17/20 [00:25<00:03,  1.24s/it] 90%|█████████ | 18/20 [00:26<00:02,  1.22s/it] 95%|█████████▌| 19/20 [00:27<00:01,  1.22s/it]100%|██████████| 20/20 [00:28<00:00,  1.21s/it]100%|██████████| 20/20 [00:28<00:00,  1.45s/it]
+TESTING DONE
+ResNet50_865_50x_heightmap_scratch_unfrozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:05<01:46,  5.63s/it] 10%|█         | 2/20 [00:08<01:11,  3.98s/it] 15%|█▌        | 3/20 [00:11<00:58,  3.42s/it] 20%|██        | 4/20 [00:13<00:50,  3.16s/it] 25%|██▌       | 5/20 [00:16<00:45,  3.02s/it] 30%|███       | 6/20 [00:19<00:41,  2.93s/it] 35%|███▌      | 7/20 [00:22<00:37,  2.90s/it] 40%|████      | 8/20 [00:25<00:34,  2.86s/it] 45%|████▌     | 9/20 [00:27<00:31,  2.83s/it] 50%|█████     | 10/20 [00:30<00:28,  2.81s/it] 55%|█████▌    | 11/20 [00:33<00:25,  2.79s/it] 60%|██████    | 12/20 [00:36<00:22,  2.78s/it] 65%|██████▌   | 13/20 [00:38<00:19,  2.77s/it] 70%|███████   | 14/20 [00:41<00:16,  2.77s/it] 75%|███████▌  | 15/20 [00:44<00:13,  2.77s/it] 80%|████████  | 16/20 [00:47<00:11,  2.77s/it] 85%|████████▌ | 17/20 [00:49<00:08,  2.77s/it] 90%|█████████ | 18/20 [00:52<00:05,  2.76s/it] 95%|█████████▌| 19/20 [00:55<00:02,  2.76s/it]100%|██████████| 20/20 [00:58<00:00,  2.77s/it]100%|██████████| 20/20 [00:58<00:00,  2.91s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:28,  4.68s/it] 10%|█         | 2/20 [00:06<00:50,  2.82s/it] 15%|█▌        | 3/20 [00:07<00:37,  2.20s/it] 20%|██        | 4/20 [00:08<00:29,  1.83s/it] 25%|██▌       | 5/20 [00:10<00:24,  1.62s/it] 30%|███       | 6/20 [00:11<00:22,  1.63s/it] 35%|███▌      | 7/20 [00:13<00:20,  1.56s/it] 40%|████      | 8/20 [00:14<00:18,  1.51s/it] 45%|████▌     | 9/20 [00:15<00:15,  1.44s/it] 50%|█████     | 10/20 [00:17<00:14,  1.42s/it] 55%|█████▌    | 11/20 [00:18<00:12,  1.35s/it] 60%|██████    | 12/20 [00:19<00:10,  1.30s/it] 65%|██████▌   | 13/20 [00:20<00:08,  1.27s/it] 70%|███████   | 14/20 [00:22<00:07,  1.25s/it] 75%|███████▌  | 15/20 [00:23<00:06,  1.24s/it] 80%|████████  | 16/20 [00:24<00:04,  1.25s/it] 85%|████████▌ | 17/20 [00:25<00:03,  1.23s/it] 90%|█████████ | 18/20 [00:26<00:02,  1.22s/it] 95%|█████████▌| 19/20 [00:28<00:01,  1.22s/it]100%|██████████| 20/20 [00:29<00:00,  1.21s/it]100%|██████████| 20/20 [00:29<00:00,  1.47s/it]
+TESTING DONE
+ResNet50_865_50x_heightmap_scratch_unfrozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:07<02:29,  7.89s/it] 10%|█         | 2/20 [00:10<01:27,  4.88s/it] 15%|█▌        | 3/20 [00:13<01:06,  3.91s/it] 20%|██        | 4/20 [00:16<00:55,  3.45s/it] 25%|██▌       | 5/20 [00:18<00:48,  3.22s/it] 30%|███       | 6/20 [00:21<00:42,  3.07s/it] 35%|███▌      | 7/20 [00:24<00:38,  2.96s/it] 40%|████      | 8/20 [00:27<00:34,  2.90s/it] 45%|████▌     | 9/20 [00:30<00:31,  2.86s/it] 50%|█████     | 10/20 [00:32<00:28,  2.82s/it] 55%|█████▌    | 11/20 [00:35<00:25,  2.81s/it] 60%|██████    | 12/20 [00:38<00:22,  2.79s/it] 65%|██████▌   | 13/20 [00:41<00:19,  2.78s/it] 70%|███████   | 14/20 [00:43<00:16,  2.77s/it] 75%|███████▌  | 15/20 [00:46<00:13,  2.77s/it] 80%|████████  | 16/20 [00:49<00:11,  2.76s/it] 85%|████████▌ | 17/20 [00:52<00:08,  2.75s/it] 90%|█████████ | 18/20 [00:54<00:05,  2.76s/it] 95%|█████████▌| 19/20 [00:57<00:02,  2.77s/it]100%|██████████| 20/20 [01:00<00:00,  2.77s/it]100%|██████████| 20/20 [01:00<00:00,  3.02s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:05<01:40,  5.27s/it] 10%|█         | 2/20 [00:06<00:56,  3.13s/it] 15%|█▌        | 3/20 [00:08<00:39,  2.30s/it] 20%|██        | 4/20 [00:09<00:31,  1.97s/it] 25%|██▌       | 5/20 [00:11<00:27,  1.82s/it] 30%|███       | 6/20 [00:12<00:22,  1.62s/it] 35%|███▌      | 7/20 [00:13<00:19,  1.48s/it] 40%|████      | 8/20 [00:14<00:16,  1.41s/it] 45%|████▌     | 9/20 [00:16<00:15,  1.40s/it] 50%|█████     | 10/20 [00:17<00:13,  1.36s/it] 55%|█████▌    | 11/20 [00:18<00:11,  1.31s/it] 60%|██████    | 12/20 [00:19<00:10,  1.28s/it] 65%|██████▌   | 13/20 [00:21<00:08,  1.26s/it] 70%|███████   | 14/20 [00:22<00:07,  1.25s/it] 75%|███████▌  | 15/20 [00:23<00:06,  1.26s/it] 80%|████████  | 16/20 [00:24<00:05,  1.27s/it] 85%|████████▌ | 17/20 [00:26<00:03,  1.25s/it] 90%|█████████ | 18/20 [00:27<00:02,  1.25s/it] 95%|█████████▌| 19/20 [00:28<00:01,  1.23s/it]100%|██████████| 20/20 [00:29<00:00,  1.22s/it]100%|██████████| 20/20 [00:29<00:00,  1.49s/it]
+TESTING DONE
+ResNet50_865_20x+50x_texture_pretrained_frozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:09<01:23,  9.29s/it] 20%|██        | 2/10 [00:11<00:40,  5.08s/it] 30%|███       | 3/10 [00:13<00:26,  3.73s/it] 40%|████      | 4/10 [00:15<00:18,  3.10s/it] 50%|█████     | 5/10 [00:17<00:13,  2.74s/it] 60%|██████    | 6/10 [00:19<00:10,  2.52s/it] 70%|███████   | 7/10 [00:21<00:07,  2.39s/it] 80%|████████  | 8/10 [00:24<00:04,  2.33s/it] 90%|█████████ | 9/10 [00:26<00:02,  2.26s/it]100%|██████████| 10/10 [00:28<00:00,  2.21s/it]100%|██████████| 10/10 [00:28<00:00,  2.84s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:42,  4.72s/it] 20%|██        | 2/10 [00:05<00:21,  2.65s/it] 30%|███       | 3/10 [00:07<00:14,  2.00s/it] 40%|████      | 4/10 [00:08<00:10,  1.71s/it] 50%|█████     | 5/10 [00:09<00:07,  1.53s/it] 60%|██████    | 6/10 [00:10<00:05,  1.41s/it] 70%|███████   | 7/10 [00:11<00:04,  1.34s/it] 80%|████████  | 8/10 [00:13<00:02,  1.29s/it] 90%|█████████ | 9/10 [00:14<00:01,  1.26s/it]100%|██████████| 10/10 [00:15<00:00,  1.24s/it]100%|██████████| 10/10 [00:15<00:00,  1.56s/it]
+TESTING DONE
+ResNet50_865_20x+50x_texture_pretrained_frozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:40,  4.55s/it] 20%|██        | 2/10 [00:06<00:24,  3.10s/it] 30%|███       | 3/10 [00:08<00:18,  2.64s/it] 40%|████      | 4/10 [00:10<00:14,  2.42s/it] 50%|█████     | 5/10 [00:12<00:11,  2.29s/it] 60%|██████    | 6/10 [00:14<00:08,  2.22s/it] 70%|███████   | 7/10 [00:17<00:06,  2.18s/it] 80%|████████  | 8/10 [00:19<00:04,  2.15s/it] 90%|█████████ | 9/10 [00:21<00:02,  2.13s/it]100%|██████████| 10/10 [00:23<00:00,  2.12s/it]100%|██████████| 10/10 [00:23<00:00,  2.33s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:03<00:34,  3.81s/it] 20%|██        | 2/10 [00:05<00:18,  2.29s/it] 30%|███       | 3/10 [00:06<00:12,  1.81s/it] 40%|████      | 4/10 [00:07<00:09,  1.58s/it] 50%|█████     | 5/10 [00:08<00:07,  1.45s/it] 60%|██████    | 6/10 [00:09<00:05,  1.37s/it] 70%|███████   | 7/10 [00:11<00:03,  1.32s/it] 80%|████████  | 8/10 [00:12<00:02,  1.29s/it] 90%|█████████ | 9/10 [00:13<00:01,  1.28s/it]100%|██████████| 10/10 [00:14<00:00,  1.26s/it]100%|██████████| 10/10 [00:14<00:00,  1.48s/it]
+TESTING DONE
+ResNet50_865_20x+50x_texture_pretrained_unfrozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:11<01:39, 11.07s/it] 20%|██        | 2/10 [00:14<00:50,  6.34s/it] 30%|███       | 3/10 [00:17<00:33,  4.84s/it] 40%|████      | 4/10 [00:20<00:24,  4.17s/it] 50%|█████     | 5/10 [00:23<00:18,  3.78s/it] 60%|██████    | 6/10 [00:26<00:14,  3.53s/it] 70%|███████   | 7/10 [00:29<00:10,  3.39s/it] 80%|████████  | 8/10 [00:32<00:06,  3.28s/it] 90%|█████████ | 9/10 [00:35<00:03,  3.23s/it]100%|██████████| 10/10 [00:38<00:00,  3.19s/it]100%|██████████| 10/10 [00:38<00:00,  3.88s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:41,  4.60s/it] 20%|██        | 2/10 [00:05<00:20,  2.62s/it] 30%|███       | 3/10 [00:07<00:13,  1.99s/it] 40%|████      | 4/10 [00:08<00:10,  1.71s/it] 50%|█████     | 5/10 [00:09<00:07,  1.56s/it] 60%|██████    | 6/10 [00:10<00:05,  1.46s/it] 70%|███████   | 7/10 [00:12<00:04,  1.39s/it] 80%|████████  | 8/10 [00:13<00:02,  1.34s/it] 90%|█████████ | 9/10 [00:14<00:01,  1.30s/it]100%|██████████| 10/10 [00:15<00:00,  1.28s/it]100%|██████████| 10/10 [00:15<00:00,  1.58s/it]
+TESTING DONE
+ResNet50_865_20x+50x_texture_pretrained_unfrozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:10<01:36, 10.74s/it] 20%|██        | 2/10 [00:13<00:49,  6.22s/it] 30%|███       | 3/10 [00:16<00:33,  4.78s/it] 40%|████      | 4/10 [00:19<00:24,  4.10s/it] 50%|█████     | 5/10 [00:22<00:18,  3.72s/it] 60%|██████    | 6/10 [00:26<00:13,  3.49s/it] 70%|███████   | 7/10 [00:29<00:10,  3.35s/it] 80%|████████  | 8/10 [00:32<00:06,  3.28s/it] 90%|█████████ | 9/10 [00:35<00:03,  3.22s/it]100%|██████████| 10/10 [00:38<00:00,  3.16s/it]100%|██████████| 10/10 [00:38<00:00,  3.83s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:05<00:45,  5.00s/it] 20%|██        | 2/10 [00:06<00:22,  2.78s/it] 30%|███       | 3/10 [00:07<00:14,  2.07s/it] 40%|████      | 4/10 [00:08<00:10,  1.79s/it] 50%|█████     | 5/10 [00:10<00:07,  1.59s/it] 60%|██████    | 6/10 [00:11<00:05,  1.47s/it] 70%|███████   | 7/10 [00:12<00:04,  1.39s/it] 80%|████████  | 8/10 [00:13<00:02,  1.34s/it] 90%|█████████ | 9/10 [00:14<00:01,  1.31s/it]100%|██████████| 10/10 [00:16<00:00,  1.28s/it]100%|██████████| 10/10 [00:16<00:00,  1.62s/it]
+TESTING DONE
+ResNet50_865_20x+50x_texture_scratch_frozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:34,  4.96s/it] 10%|█         | 2/20 [00:07<00:58,  3.26s/it] 15%|█▌        | 3/20 [00:09<00:46,  2.74s/it] 20%|██        | 4/20 [00:11<00:39,  2.48s/it] 25%|██▌       | 5/20 [00:13<00:35,  2.34s/it] 30%|███       | 6/20 [00:15<00:31,  2.25s/it] 35%|███▌      | 7/20 [00:17<00:28,  2.22s/it] 40%|████      | 8/20 [00:19<00:26,  2.21s/it] 45%|████▌     | 9/20 [00:21<00:23,  2.17s/it] 50%|█████     | 10/20 [00:23<00:21,  2.15s/it] 55%|█████▌    | 11/20 [00:26<00:19,  2.13s/it] 60%|██████    | 12/20 [00:28<00:16,  2.11s/it] 65%|██████▌   | 13/20 [00:30<00:14,  2.10s/it] 70%|███████   | 14/20 [00:32<00:12,  2.10s/it] 75%|███████▌  | 15/20 [00:34<00:10,  2.10s/it] 80%|████████  | 16/20 [00:36<00:08,  2.11s/it] 85%|████████▌ | 17/20 [00:38<00:06,  2.10s/it] 90%|█████████ | 18/20 [00:40<00:04,  2.09s/it] 95%|█████████▌| 19/20 [00:42<00:02,  2.11s/it]100%|██████████| 20/20 [00:44<00:00,  2.10s/it]100%|██████████| 20/20 [00:44<00:00,  2.24s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:29,  4.71s/it] 10%|█         | 2/20 [00:05<00:47,  2.64s/it] 15%|█▌        | 3/20 [00:07<00:35,  2.06s/it] 20%|██        | 4/20 [00:08<00:27,  1.73s/it] 25%|██▌       | 5/20 [00:09<00:23,  1.58s/it] 30%|███       | 6/20 [00:11<00:20,  1.48s/it] 35%|███▌      | 7/20 [00:12<00:18,  1.40s/it] 40%|████      | 8/20 [00:13<00:15,  1.33s/it] 45%|████▌     | 9/20 [00:14<00:14,  1.29s/it] 50%|█████     | 10/20 [00:16<00:13,  1.31s/it] 55%|█████▌    | 11/20 [00:17<00:11,  1.30s/it] 60%|██████    | 12/20 [00:18<00:10,  1.27s/it] 65%|██████▌   | 13/20 [00:19<00:08,  1.27s/it] 70%|███████   | 14/20 [00:21<00:07,  1.29s/it] 75%|███████▌  | 15/20 [00:22<00:06,  1.26s/it] 80%|████████  | 16/20 [00:23<00:04,  1.25s/it] 85%|████████▌ | 17/20 [00:24<00:03,  1.25s/it] 90%|█████████ | 18/20 [00:26<00:02,  1.24s/it] 95%|█████████▌| 19/20 [00:27<00:01,  1.23s/it]100%|██████████| 20/20 [00:28<00:00,  1.23s/it]100%|██████████| 20/20 [00:28<00:00,  1.42s/it]
+TESTING DONE
+ResNet50_865_20x+50x_texture_scratch_frozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:07<02:16,  7.20s/it] 10%|█         | 2/20 [00:09<01:15,  4.19s/it] 15%|█▌        | 3/20 [00:11<00:54,  3.21s/it] 20%|██        | 4/20 [00:13<00:44,  2.77s/it] 25%|██▌       | 5/20 [00:15<00:37,  2.52s/it] 30%|███       | 6/20 [00:17<00:33,  2.39s/it] 35%|███▌      | 7/20 [00:19<00:29,  2.28s/it] 40%|████      | 8/20 [00:21<00:26,  2.22s/it] 45%|████▌     | 9/20 [00:23<00:23,  2.18s/it] 50%|█████     | 10/20 [00:25<00:21,  2.16s/it] 55%|█████▌    | 11/20 [00:28<00:19,  2.13s/it] 60%|██████    | 12/20 [00:30<00:16,  2.12s/it] 65%|██████▌   | 13/20 [00:32<00:15,  2.16s/it] 70%|███████   | 14/20 [00:34<00:12,  2.14s/it] 75%|███████▌  | 15/20 [00:36<00:10,  2.12s/it] 80%|████████  | 16/20 [00:38<00:08,  2.11s/it] 85%|████████▌ | 17/20 [00:40<00:06,  2.11s/it] 90%|█████████ | 18/20 [00:42<00:04,  2.10s/it] 95%|█████████▌| 19/20 [00:44<00:02,  2.09s/it]100%|██████████| 20/20 [00:47<00:00,  2.09s/it]100%|██████████| 20/20 [00:47<00:00,  2.35s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:34,  4.97s/it] 10%|█         | 2/20 [00:06<00:51,  2.87s/it] 15%|█▌        | 3/20 [00:07<00:37,  2.20s/it] 20%|██        | 4/20 [00:09<00:29,  1.83s/it] 25%|██▌       | 5/20 [00:10<00:24,  1.63s/it] 30%|███       | 6/20 [00:11<00:21,  1.54s/it] 35%|███▌      | 7/20 [00:12<00:18,  1.44s/it] 40%|████      | 8/20 [00:14<00:16,  1.42s/it] 45%|████▌     | 9/20 [00:15<00:14,  1.36s/it] 50%|█████     | 10/20 [00:16<00:13,  1.36s/it] 55%|█████▌    | 11/20 [00:18<00:11,  1.30s/it] 60%|██████    | 12/20 [00:19<00:10,  1.28s/it] 65%|██████▌   | 13/20 [00:20<00:08,  1.27s/it] 70%|███████   | 14/20 [00:21<00:07,  1.28s/it] 75%|███████▌  | 15/20 [00:23<00:06,  1.28s/it] 80%|████████  | 16/20 [00:24<00:05,  1.25s/it] 85%|████████▌ | 17/20 [00:25<00:03,  1.23s/it] 90%|█████████ | 18/20 [00:26<00:02,  1.22s/it] 95%|█████████▌| 19/20 [00:27<00:01,  1.21s/it]100%|██████████| 20/20 [00:29<00:00,  1.21s/it]100%|██████████| 20/20 [00:29<00:00,  1.45s/it]
+TESTING DONE
+ResNet50_865_20x+50x_texture_scratch_unfrozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:10<03:20, 10.54s/it] 10%|█         | 2/20 [00:13<01:50,  6.14s/it] 15%|█▌        | 3/20 [00:16<01:20,  4.73s/it] 20%|██        | 4/20 [00:19<01:05,  4.07s/it] 25%|██▌       | 5/20 [00:22<00:55,  3.71s/it] 30%|███       | 6/20 [00:25<00:48,  3.49s/it] 35%|███▌      | 7/20 [00:28<00:43,  3.37s/it] 40%|████      | 8/20 [00:32<00:39,  3.28s/it] 45%|████▌     | 9/20 [00:35<00:35,  3.21s/it] 50%|█████     | 10/20 [00:38<00:31,  3.17s/it] 55%|█████▌    | 11/20 [00:41<00:28,  3.14s/it] 60%|██████    | 12/20 [00:44<00:24,  3.12s/it] 65%|██████▌   | 13/20 [00:47<00:21,  3.10s/it] 70%|███████   | 14/20 [00:50<00:18,  3.10s/it] 75%|███████▌  | 15/20 [00:53<00:15,  3.09s/it] 80%|████████  | 16/20 [00:56<00:12,  3.08s/it] 85%|████████▌ | 17/20 [00:59<00:09,  3.07s/it] 90%|█████████ | 18/20 [01:02<00:06,  3.07s/it] 95%|█████████▌| 19/20 [01:05<00:03,  3.09s/it]100%|██████████| 20/20 [01:08<00:00,  3.09s/it]100%|██████████| 20/20 [01:08<00:00,  3.45s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:05<01:39,  5.26s/it] 10%|█         | 2/20 [00:06<00:53,  2.97s/it] 15%|█▌        | 3/20 [00:08<00:38,  2.25s/it] 20%|██        | 4/20 [00:09<00:29,  1.87s/it] 25%|██▌       | 5/20 [00:10<00:24,  1.66s/it] 30%|███       | 6/20 [00:12<00:22,  1.58s/it] 35%|███▌      | 7/20 [00:13<00:19,  1.47s/it] 40%|████      | 8/20 [00:14<00:16,  1.40s/it] 45%|████▌     | 9/20 [00:15<00:14,  1.36s/it] 50%|█████     | 10/20 [00:17<00:13,  1.31s/it] 55%|█████▌    | 11/20 [00:18<00:11,  1.28s/it] 60%|██████    | 12/20 [00:19<00:10,  1.27s/it] 65%|██████▌   | 13/20 [00:20<00:08,  1.27s/it] 70%|███████   | 14/20 [00:21<00:07,  1.25s/it] 75%|███████▌  | 15/20 [00:23<00:06,  1.24s/it] 80%|████████  | 16/20 [00:24<00:04,  1.23s/it] 85%|████████▌ | 17/20 [00:25<00:03,  1.22s/it] 90%|█████████ | 18/20 [00:26<00:02,  1.22s/it] 95%|█████████▌| 19/20 [00:27<00:01,  1.21s/it]100%|██████████| 20/20 [00:29<00:00,  1.22s/it]100%|██████████| 20/20 [00:29<00:00,  1.46s/it]
+TESTING DONE
+ResNet50_865_20x+50x_texture_scratch_unfrozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:10<03:13, 10.18s/it] 10%|█         | 2/20 [00:13<01:47,  5.97s/it] 15%|█▌        | 3/20 [00:16<01:18,  4.62s/it] 20%|██        | 4/20 [00:19<01:04,  4.00s/it] 25%|██▌       | 5/20 [00:22<00:54,  3.65s/it] 30%|███       | 6/20 [00:25<00:48,  3.45s/it] 35%|███▌      | 7/20 [00:28<00:43,  3.33s/it] 40%|████      | 8/20 [00:31<00:39,  3.25s/it] 45%|████▌     | 9/20 [00:34<00:35,  3.20s/it] 50%|█████     | 10/20 [00:37<00:31,  3.16s/it] 55%|█████▌    | 11/20 [00:40<00:28,  3.12s/it] 60%|██████    | 12/20 [00:43<00:24,  3.11s/it] 65%|██████▌   | 13/20 [00:46<00:21,  3.11s/it] 70%|███████   | 14/20 [00:49<00:18,  3.09s/it] 75%|███████▌  | 15/20 [00:52<00:15,  3.07s/it] 80%|████████  | 16/20 [00:56<00:12,  3.07s/it] 85%|████████▌ | 17/20 [00:59<00:09,  3.08s/it] 90%|█████████ | 18/20 [01:02<00:06,  3.07s/it] 95%|█████████▌| 19/20 [01:05<00:03,  3.06s/it]100%|██████████| 20/20 [01:08<00:00,  3.06s/it]100%|██████████| 20/20 [01:08<00:00,  3.41s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:05<01:36,  5.07s/it] 10%|█         | 2/20 [00:06<00:53,  2.95s/it] 15%|█▌        | 3/20 [00:07<00:37,  2.19s/it] 20%|██        | 4/20 [00:09<00:29,  1.85s/it] 25%|██▌       | 5/20 [00:10<00:25,  1.73s/it] 30%|███       | 6/20 [00:11<00:22,  1.57s/it] 35%|███▌      | 7/20 [00:13<00:19,  1.51s/it] 40%|████      | 8/20 [00:14<00:17,  1.43s/it] 45%|████▌     | 9/20 [00:15<00:15,  1.37s/it] 50%|█████     | 10/20 [00:17<00:13,  1.34s/it] 55%|█████▌    | 11/20 [00:18<00:11,  1.32s/it] 60%|██████    | 12/20 [00:19<00:10,  1.31s/it] 65%|██████▌   | 13/20 [00:20<00:08,  1.28s/it] 70%|███████   | 14/20 [00:22<00:07,  1.30s/it] 75%|███████▌  | 15/20 [00:23<00:06,  1.29s/it] 80%|████████  | 16/20 [00:24<00:05,  1.27s/it] 85%|████████▌ | 17/20 [00:25<00:03,  1.26s/it] 90%|█████████ | 18/20 [00:27<00:02,  1.25s/it] 95%|█████████▌| 19/20 [00:28<00:01,  1.25s/it]100%|██████████| 20/20 [00:29<00:00,  1.26s/it]100%|██████████| 20/20 [00:29<00:00,  1.48s/it]
+TESTING DONE
+ResNet50_865_20x+50x_heightmap_pretrained_frozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:05<00:47,  5.31s/it] 20%|██        | 2/10 [00:07<00:27,  3.41s/it] 30%|███       | 3/10 [00:09<00:19,  2.82s/it] 40%|████      | 4/10 [00:11<00:15,  2.54s/it] 50%|█████     | 5/10 [00:13<00:11,  2.36s/it] 60%|██████    | 6/10 [00:15<00:09,  2.26s/it] 70%|███████   | 7/10 [00:17<00:06,  2.19s/it] 80%|████████  | 8/10 [00:19<00:04,  2.16s/it] 90%|█████████ | 9/10 [00:21<00:02,  2.14s/it]100%|██████████| 10/10 [00:23<00:00,  2.10s/it]100%|██████████| 10/10 [00:23<00:00,  2.40s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:40,  4.52s/it] 20%|██        | 2/10 [00:05<00:20,  2.57s/it] 30%|███       | 3/10 [00:06<00:13,  1.94s/it] 40%|████      | 4/10 [00:08<00:09,  1.66s/it] 50%|█████     | 5/10 [00:09<00:07,  1.50s/it] 60%|██████    | 6/10 [00:10<00:05,  1.40s/it] 70%|███████   | 7/10 [00:11<00:04,  1.36s/it] 80%|████████  | 8/10 [00:13<00:02,  1.31s/it] 90%|█████████ | 9/10 [00:14<00:01,  1.28s/it]100%|██████████| 10/10 [00:15<00:00,  1.27s/it]100%|██████████| 10/10 [00:15<00:00,  1.55s/it]
+TESTING DONE
+ResNet50_865_20x+50x_heightmap_pretrained_frozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:37,  4.18s/it] 20%|██        | 2/10 [00:06<00:23,  2.95s/it] 30%|███       | 3/10 [00:08<00:17,  2.55s/it] 40%|████      | 4/10 [00:10<00:14,  2.35s/it] 50%|█████     | 5/10 [00:12<00:11,  2.24s/it] 60%|██████    | 6/10 [00:14<00:08,  2.17s/it] 70%|███████   | 7/10 [00:16<00:06,  2.14s/it] 80%|████████  | 8/10 [00:18<00:04,  2.11s/it] 90%|█████████ | 9/10 [00:20<00:02,  2.10s/it]100%|██████████| 10/10 [00:22<00:00,  2.09s/it]100%|██████████| 10/10 [00:22<00:00,  2.27s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:41,  4.57s/it] 20%|██        | 2/10 [00:05<00:20,  2.60s/it] 30%|███       | 3/10 [00:07<00:13,  1.97s/it] 40%|████      | 4/10 [00:08<00:10,  1.67s/it] 50%|█████     | 5/10 [00:09<00:07,  1.51s/it] 60%|██████    | 6/10 [00:10<00:05,  1.41s/it] 70%|███████   | 7/10 [00:11<00:04,  1.35s/it] 80%|████████  | 8/10 [00:13<00:02,  1.31s/it] 90%|█████████ | 9/10 [00:14<00:01,  1.28s/it]100%|██████████| 10/10 [00:15<00:00,  1.26s/it]100%|██████████| 10/10 [00:15<00:00,  1.55s/it]
+TESTING DONE
+ResNet50_865_20x+50x_heightmap_pretrained_unfrozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:09<01:25,  9.45s/it] 20%|██        | 2/10 [00:12<00:45,  5.71s/it] 30%|███       | 3/10 [00:15<00:31,  4.51s/it] 40%|████      | 4/10 [00:18<00:23,  3.94s/it] 50%|█████     | 5/10 [00:21<00:18,  3.62s/it] 60%|██████    | 6/10 [00:24<00:13,  3.43s/it] 70%|███████   | 7/10 [00:27<00:09,  3.32s/it] 80%|████████  | 8/10 [00:30<00:06,  3.23s/it] 90%|█████████ | 9/10 [00:33<00:03,  3.17s/it]100%|██████████| 10/10 [00:37<00:00,  3.14s/it]100%|██████████| 10/10 [00:37<00:00,  3.71s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:42,  4.67s/it] 20%|██        | 2/10 [00:05<00:21,  2.65s/it] 30%|███       | 3/10 [00:07<00:13,  1.99s/it] 40%|████      | 4/10 [00:08<00:10,  1.71s/it] 50%|█████     | 5/10 [00:09<00:07,  1.53s/it] 60%|██████    | 6/10 [00:10<00:05,  1.43s/it] 70%|███████   | 7/10 [00:12<00:04,  1.36s/it] 80%|████████  | 8/10 [00:13<00:02,  1.31s/it] 90%|█████████ | 9/10 [00:14<00:01,  1.30s/it]100%|██████████| 10/10 [00:15<00:00,  1.27s/it]100%|██████████| 10/10 [00:15<00:00,  1.57s/it]
+TESTING DONE
+ResNet50_865_20x+50x_heightmap_pretrained_unfrozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:08<01:18,  8.70s/it] 20%|██        | 2/10 [00:11<00:43,  5.40s/it] 30%|███       | 3/10 [00:14<00:30,  4.32s/it] 40%|████      | 4/10 [00:17<00:23,  3.85s/it] 50%|█████     | 5/10 [00:21<00:17,  3.57s/it] 60%|██████    | 6/10 [00:24<00:13,  3.40s/it] 70%|███████   | 7/10 [00:27<00:09,  3.30s/it] 80%|████████  | 8/10 [00:30<00:06,  3.24s/it] 90%|█████████ | 9/10 [00:33<00:03,  3.18s/it]100%|██████████| 10/10 [00:36<00:00,  3.15s/it]100%|██████████| 10/10 [00:36<00:00,  3.64s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:44,  4.99s/it] 20%|██        | 2/10 [00:06<00:22,  2.81s/it] 30%|███       | 3/10 [00:07<00:14,  2.09s/it] 40%|████      | 4/10 [00:08<00:10,  1.75s/it] 50%|█████     | 5/10 [00:09<00:07,  1.56s/it] 60%|██████    | 6/10 [00:11<00:05,  1.45s/it] 70%|███████   | 7/10 [00:12<00:04,  1.37s/it] 80%|████████  | 8/10 [00:13<00:02,  1.32s/it] 90%|█████████ | 9/10 [00:14<00:01,  1.29s/it]100%|██████████| 10/10 [00:16<00:00,  1.27s/it]100%|██████████| 10/10 [00:16<00:00,  1.61s/it]
+TESTING DONE
+ResNet50_865_20x+50x_heightmap_scratch_frozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:07<02:21,  7.44s/it] 10%|█         | 2/20 [00:09<01:17,  4.28s/it] 15%|█▌        | 3/20 [00:11<00:55,  3.28s/it] 20%|██        | 4/20 [00:13<00:45,  2.81s/it] 25%|██▌       | 5/20 [00:15<00:38,  2.55s/it] 30%|███       | 6/20 [00:17<00:33,  2.40s/it] 35%|███▌      | 7/20 [00:19<00:29,  2.30s/it] 40%|████      | 8/20 [00:22<00:26,  2.23s/it] 45%|████▌     | 9/20 [00:24<00:24,  2.18s/it] 50%|█████     | 10/20 [00:26<00:21,  2.14s/it] 55%|█████▌    | 11/20 [00:28<00:19,  2.12s/it] 60%|██████    | 12/20 [00:30<00:16,  2.10s/it] 65%|██████▌   | 13/20 [00:32<00:14,  2.10s/it] 70%|███████   | 14/20 [00:34<00:12,  2.08s/it] 75%|███████▌  | 15/20 [00:36<00:10,  2.09s/it] 80%|████████  | 16/20 [00:38<00:08,  2.09s/it] 85%|████████▌ | 17/20 [00:40<00:06,  2.10s/it] 90%|█████████ | 18/20 [00:42<00:04,  2.09s/it] 95%|█████████▌| 19/20 [00:44<00:02,  2.09s/it]100%|██████████| 20/20 [00:47<00:00,  2.08s/it]100%|██████████| 20/20 [00:47<00:00,  2.35s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:29,  4.71s/it] 10%|█         | 2/20 [00:06<00:48,  2.70s/it] 15%|█▌        | 3/20 [00:07<00:36,  2.13s/it] 20%|██        | 4/20 [00:08<00:29,  1.81s/it] 25%|██▌       | 5/20 [00:10<00:25,  1.68s/it] 30%|███       | 6/20 [00:11<00:21,  1.56s/it] 35%|███▌      | 7/20 [00:12<00:19,  1.52s/it] 40%|████      | 8/20 [00:14<00:17,  1.45s/it] 45%|████▌     | 9/20 [00:15<00:15,  1.40s/it] 50%|█████     | 10/20 [00:16<00:13,  1.34s/it] 55%|█████▌    | 11/20 [00:18<00:11,  1.33s/it] 60%|██████    | 12/20 [00:19<00:10,  1.31s/it] 65%|██████▌   | 13/20 [00:20<00:09,  1.30s/it] 70%|███████   | 14/20 [00:21<00:07,  1.29s/it] 75%|███████▌  | 15/20 [00:23<00:06,  1.26s/it] 80%|████████  | 16/20 [00:24<00:05,  1.26s/it] 85%|████████▌ | 17/20 [00:25<00:03,  1.26s/it] 90%|█████████ | 18/20 [00:26<00:02,  1.26s/it] 95%|█████████▌| 19/20 [00:28<00:01,  1.27s/it]100%|██████████| 20/20 [00:29<00:00,  1.25s/it]100%|██████████| 20/20 [00:29<00:00,  1.47s/it]
+TESTING DONE
+ResNet50_865_20x+50x_heightmap_scratch_frozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:08<02:34,  8.14s/it] 10%|█         | 2/20 [00:10<01:23,  4.62s/it] 15%|█▌        | 3/20 [00:12<00:58,  3.43s/it] 20%|██        | 4/20 [00:14<00:46,  2.89s/it] 25%|██▌       | 5/20 [00:16<00:38,  2.59s/it] 30%|███       | 6/20 [00:18<00:33,  2.41s/it] 35%|███▌      | 7/20 [00:20<00:29,  2.29s/it] 40%|████      | 8/20 [00:22<00:26,  2.23s/it] 45%|████▌     | 9/20 [00:24<00:23,  2.17s/it] 50%|█████     | 10/20 [00:26<00:21,  2.15s/it] 55%|█████▌    | 11/20 [00:28<00:19,  2.12s/it] 60%|██████    | 12/20 [00:30<00:16,  2.09s/it] 65%|██████▌   | 13/20 [00:32<00:14,  2.07s/it] 70%|███████   | 14/20 [00:34<00:12,  2.07s/it] 75%|███████▌  | 15/20 [00:36<00:10,  2.05s/it] 80%|████████  | 16/20 [00:38<00:08,  2.04s/it] 85%|████████▌ | 17/20 [00:41<00:06,  2.04s/it] 90%|█████████ | 18/20 [00:43<00:04,  2.04s/it] 95%|█████████▌| 19/20 [00:45<00:02,  2.05s/it]100%|██████████| 20/20 [00:47<00:00,  2.05s/it]100%|██████████| 20/20 [00:47<00:00,  2.36s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:28,  4.65s/it] 10%|█         | 2/20 [00:05<00:47,  2.66s/it] 15%|█▌        | 3/20 [00:07<00:35,  2.07s/it] 20%|██        | 4/20 [00:08<00:29,  1.83s/it] 25%|██▌       | 5/20 [00:10<00:24,  1.65s/it] 30%|███       | 6/20 [00:11<00:21,  1.53s/it] 35%|███▌      | 7/20 [00:12<00:18,  1.45s/it] 40%|████      | 8/20 [00:14<00:17,  1.48s/it] 45%|████▌     | 9/20 [00:15<00:15,  1.41s/it] 50%|█████     | 10/20 [00:16<00:13,  1.37s/it] 55%|█████▌    | 11/20 [00:18<00:12,  1.34s/it] 60%|██████    | 12/20 [00:19<00:10,  1.31s/it] 65%|██████▌   | 13/20 [00:20<00:09,  1.30s/it] 70%|███████   | 14/20 [00:21<00:07,  1.29s/it] 75%|███████▌  | 15/20 [00:23<00:06,  1.27s/it] 80%|████████  | 16/20 [00:24<00:05,  1.27s/it] 85%|████████▌ | 17/20 [00:25<00:03,  1.27s/it] 90%|█████████ | 18/20 [00:26<00:02,  1.27s/it] 95%|█████████▌| 19/20 [00:28<00:01,  1.26s/it]100%|██████████| 20/20 [00:29<00:00,  1.25s/it]100%|██████████| 20/20 [00:29<00:00,  1.46s/it]
+TESTING DONE
+ResNet50_865_20x+50x_heightmap_scratch_unfrozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:10<03:20, 10.54s/it] 10%|█         | 2/20 [00:13<01:49,  6.10s/it] 15%|█▌        | 3/20 [00:16<01:20,  4.71s/it] 20%|██        | 4/20 [00:19<01:05,  4.09s/it] 25%|██▌       | 5/20 [00:22<00:55,  3.71s/it] 30%|███       | 6/20 [00:25<00:48,  3.46s/it] 35%|███▌      | 7/20 [00:28<00:43,  3.32s/it] 40%|████      | 8/20 [00:31<00:38,  3.23s/it] 45%|████▌     | 9/20 [00:34<00:34,  3.15s/it] 50%|█████     | 10/20 [00:37<00:31,  3.11s/it] 55%|█████▌    | 11/20 [00:40<00:27,  3.07s/it] 60%|██████    | 12/20 [00:43<00:24,  3.04s/it] 65%|██████▌   | 13/20 [00:46<00:21,  3.05s/it] 70%|███████   | 14/20 [00:49<00:18,  3.04s/it] 75%|███████▌  | 15/20 [00:52<00:15,  3.03s/it] 80%|████████  | 16/20 [00:55<00:12,  3.03s/it] 85%|████████▌ | 17/20 [00:58<00:09,  3.04s/it] 90%|█████████ | 18/20 [01:01<00:06,  3.03s/it] 95%|█████████▌| 19/20 [01:05<00:03,  3.05s/it]100%|██████████| 20/20 [01:08<00:00,  3.05s/it]100%|██████████| 20/20 [01:08<00:00,  3.41s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:32,  4.85s/it] 10%|█         | 2/20 [00:06<00:50,  2.79s/it] 15%|█▌        | 3/20 [00:07<00:35,  2.10s/it] 20%|██        | 4/20 [00:08<00:28,  1.78s/it] 25%|██▌       | 5/20 [00:10<00:24,  1.60s/it] 30%|███       | 6/20 [00:11<00:21,  1.50s/it] 35%|███▌      | 7/20 [00:12<00:18,  1.44s/it] 40%|████      | 8/20 [00:14<00:17,  1.44s/it] 45%|████▌     | 9/20 [00:15<00:15,  1.44s/it] 50%|█████     | 10/20 [00:16<00:13,  1.39s/it] 55%|█████▌    | 11/20 [00:18<00:12,  1.36s/it] 60%|██████    | 12/20 [00:19<00:10,  1.32s/it] 65%|██████▌   | 13/20 [00:20<00:09,  1.29s/it] 70%|███████   | 14/20 [00:21<00:07,  1.29s/it] 75%|███████▌  | 15/20 [00:23<00:06,  1.30s/it] 80%|████████  | 16/20 [00:24<00:05,  1.32s/it] 85%|████████▌ | 17/20 [00:25<00:03,  1.29s/it] 90%|█████████ | 18/20 [00:26<00:02,  1.27s/it] 95%|█████████▌| 19/20 [00:28<00:01,  1.27s/it]100%|██████████| 20/20 [00:29<00:00,  1.27s/it]100%|██████████| 20/20 [00:29<00:00,  1.48s/it]
+TESTING DONE
+ResNet50_865_20x+50x_heightmap_scratch_unfrozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:11<03:36, 11.41s/it] 10%|█         | 2/20 [00:14<01:57,  6.51s/it] 15%|█▌        | 3/20 [00:17<01:23,  4.89s/it] 20%|██        | 4/20 [00:20<01:06,  4.16s/it] 25%|██▌       | 5/20 [00:23<00:56,  3.74s/it] 30%|███       | 6/20 [00:26<00:49,  3.51s/it] 35%|███▌      | 7/20 [00:29<00:43,  3.35s/it] 40%|████      | 8/20 [00:32<00:39,  3.25s/it] 45%|████▌     | 9/20 [00:35<00:35,  3.18s/it] 50%|█████     | 10/20 [00:38<00:31,  3.13s/it] 55%|█████▌    | 11/20 [00:41<00:27,  3.09s/it] 60%|██████    | 12/20 [00:44<00:24,  3.06s/it] 65%|██████▌   | 13/20 [00:47<00:21,  3.05s/it] 70%|███████   | 14/20 [00:50<00:18,  3.04s/it] 75%|███████▌  | 15/20 [00:53<00:15,  3.03s/it] 80%|████████  | 16/20 [00:56<00:12,  3.02s/it] 85%|████████▌ | 17/20 [00:59<00:09,  3.02s/it] 90%|█████████ | 18/20 [01:02<00:06,  3.01s/it] 95%|█████████▌| 19/20 [01:05<00:03,  3.02s/it]100%|██████████| 20/20 [01:08<00:00,  3.05s/it]100%|██████████| 20/20 [01:08<00:00,  3.44s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:33,  4.94s/it] 10%|█         | 2/20 [00:06<00:51,  2.88s/it] 15%|█▌        | 3/20 [00:07<00:36,  2.14s/it] 20%|██        | 4/20 [00:09<00:29,  1.86s/it] 25%|██▌       | 5/20 [00:10<00:24,  1.66s/it] 30%|███       | 6/20 [00:11<00:21,  1.56s/it] 35%|███▌      | 7/20 [00:12<00:18,  1.46s/it] 40%|████      | 8/20 [00:14<00:16,  1.39s/it] 45%|████▌     | 9/20 [00:15<00:14,  1.33s/it] 50%|█████     | 10/20 [00:16<00:13,  1.31s/it] 55%|█████▌    | 11/20 [00:18<00:11,  1.33s/it] 60%|██████    | 12/20 [00:19<00:10,  1.29s/it] 65%|██████▌   | 13/20 [00:20<00:08,  1.28s/it] 70%|███████   | 14/20 [00:21<00:07,  1.26s/it] 75%|███████▌  | 15/20 [00:23<00:06,  1.31s/it] 80%|████████  | 16/20 [00:24<00:05,  1.30s/it] 85%|████████▌ | 17/20 [00:25<00:03,  1.28s/it] 90%|█████████ | 18/20 [00:26<00:02,  1.27s/it] 95%|█████████▌| 19/20 [00:28<00:01,  1.25s/it]100%|██████████| 20/20 [00:29<00:00,  1.24s/it]100%|██████████| 20/20 [00:29<00:00,  1.47s/it]
+TESTING DONE

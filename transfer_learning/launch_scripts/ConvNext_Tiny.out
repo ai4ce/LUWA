@@ -1,0 +1,693 @@
+ConvNext_Tiny_256_20x_texture_pretrained_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x_texture_pretrained_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x_texture_pretrained_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x_texture_pretrained_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x_texture_scratch_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x_texture_scratch_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x_texture_scratch_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x_texture_scratch_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x_heightmap_pretrained_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x_heightmap_pretrained_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x_heightmap_pretrained_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x_heightmap_pretrained_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x_heightmap_scratch_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x_heightmap_scratch_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x_heightmap_scratch_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x_heightmap_scratch_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_50x_texture_pretrained_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_50x_texture_pretrained_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_50x_texture_pretrained_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_50x_texture_pretrained_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_50x_texture_scratch_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_50x_texture_scratch_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_50x_texture_scratch_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_50x_texture_scratch_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_50x_heightmap_pretrained_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_50x_heightmap_pretrained_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_50x_heightmap_pretrained_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_50x_heightmap_pretrained_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_50x_heightmap_scratch_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_50x_heightmap_scratch_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_50x_heightmap_scratch_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_50x_heightmap_scratch_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x+50x_texture_pretrained_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x+50x_texture_pretrained_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x+50x_texture_pretrained_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x+50x_texture_pretrained_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x+50x_texture_scratch_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x+50x_texture_scratch_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x+50x_texture_scratch_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x+50x_texture_scratch_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x+50x_heightmap_pretrained_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x+50x_heightmap_pretrained_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x+50x_heightmap_pretrained_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x+50x_heightmap_pretrained_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x+50x_heightmap_scratch_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x+50x_heightmap_scratch_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x+50x_heightmap_scratch_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_256_20x+50x_heightmap_scratch_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x_texture_pretrained_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x_texture_pretrained_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x_texture_pretrained_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x_texture_pretrained_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x_texture_scratch_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x_texture_scratch_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x_texture_scratch_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x_texture_scratch_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x_heightmap_pretrained_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x_heightmap_pretrained_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x_heightmap_pretrained_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x_heightmap_pretrained_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x_heightmap_scratch_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x_heightmap_scratch_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x_heightmap_scratch_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x_heightmap_scratch_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_50x_texture_pretrained_frozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:05<00:51,  5.68s/it] 20%|██        | 2/10 [00:08<00:32,  4.00s/it] 30%|███       | 3/10 [00:11<00:24,  3.46s/it] 40%|████      | 4/10 [00:14<00:19,  3.22s/it] 50%|█████     | 5/10 [00:17<00:15,  3.12s/it] 60%|██████    | 6/10 [00:19<00:12,  3.02s/it] 70%|███████   | 7/10 [00:22<00:08,  2.94s/it] 80%|████████  | 8/10 [00:25<00:05,  2.88s/it] 90%|█████████ | 9/10 [00:28<00:02,  2.86s/it]100%|██████████| 10/10 [00:31<00:00,  2.85s/it]100%|██████████| 10/10 [00:31<00:00,  3.11s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:01<00:16,  1.85s/it] 20%|██        | 2/10 [00:03<00:12,  1.55s/it] 30%|███       | 3/10 [00:04<00:09,  1.43s/it] 40%|████      | 4/10 [00:05<00:08,  1.37s/it] 50%|█████     | 5/10 [00:07<00:06,  1.36s/it] 60%|██████    | 6/10 [00:08<00:05,  1.33s/it] 70%|███████   | 7/10 [00:09<00:03,  1.31s/it] 80%|████████  | 8/10 [00:10<00:02,  1.30s/it] 90%|█████████ | 9/10 [00:12<00:01,  1.31s/it]100%|██████████| 10/10 [00:13<00:00,  1.29s/it]100%|██████████| 10/10 [00:13<00:00,  1.35s/it]
+TESTING DONE
+ConvNext_Tiny_512_50x_texture_pretrained_frozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:44,  4.91s/it] 20%|██        | 2/10 [00:07<00:29,  3.66s/it] 30%|███       | 3/10 [00:10<00:23,  3.29s/it] 40%|████      | 4/10 [00:13<00:18,  3.16s/it] 50%|█████     | 5/10 [00:16<00:15,  3.05s/it] 60%|██████    | 6/10 [00:19<00:11,  2.97s/it] 70%|███████   | 7/10 [00:22<00:08,  2.95s/it] 80%|████████  | 8/10 [00:24<00:05,  2.92s/it] 90%|█████████ | 9/10 [00:27<00:02,  2.88s/it]100%|██████████| 10/10 [00:30<00:00,  2.88s/it]100%|██████████| 10/10 [00:30<00:00,  3.06s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:01<00:12,  1.40s/it] 20%|██        | 2/10 [00:02<00:11,  1.41s/it] 30%|███       | 3/10 [00:04<00:09,  1.36s/it] 40%|████      | 4/10 [00:05<00:08,  1.33s/it] 50%|█████     | 5/10 [00:06<00:06,  1.32s/it] 60%|██████    | 6/10 [00:07<00:05,  1.31s/it] 70%|███████   | 7/10 [00:09<00:03,  1.30s/it] 80%|████████  | 8/10 [00:10<00:02,  1.30s/it] 90%|█████████ | 9/10 [00:11<00:01,  1.29s/it]100%|██████████| 10/10 [00:13<00:00,  1.29s/it]100%|██████████| 10/10 [00:13<00:00,  1.31s/it]
+TESTING DONE
+ConvNext_Tiny_512_50x_texture_pretrained_unfrozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:10<01:37, 10.82s/it] 20%|██        | 2/10 [00:17<01:05,  8.19s/it] 30%|███       | 3/10 [00:23<00:51,  7.33s/it] 40%|████      | 4/10 [00:29<00:41,  6.94s/it] 50%|█████     | 5/10 [00:36<00:33,  6.72s/it] 60%|██████    | 6/10 [00:42<00:26,  6.58s/it] 70%|███████   | 7/10 [00:48<00:19,  6.50s/it] 80%|████████  | 8/10 [00:55<00:12,  6.44s/it] 90%|█████████ | 9/10 [01:01<00:06,  6.40s/it]100%|██████████| 10/10 [01:07<00:00,  6.41s/it]100%|██████████| 10/10 [01:07<00:00,  6.78s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:01<00:13,  1.52s/it] 20%|██        | 2/10 [00:02<00:11,  1.45s/it] 30%|███       | 3/10 [00:04<00:10,  1.44s/it] 40%|████      | 4/10 [00:05<00:08,  1.45s/it] 50%|█████     | 5/10 [00:07<00:06,  1.39s/it] 60%|██████    | 6/10 [00:08<00:05,  1.36s/it] 70%|███████   | 7/10 [00:09<00:04,  1.38s/it] 80%|████████  | 8/10 [00:11<00:02,  1.35s/it] 90%|█████████ | 9/10 [00:12<00:01,  1.32s/it]100%|██████████| 10/10 [00:13<00:00,  1.31s/it]100%|██████████| 10/10 [00:13<00:00,  1.36s/it]
+TESTING DONE
+ConvNext_Tiny_512_50x_texture_pretrained_unfrozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:12<01:48, 12.09s/it] 20%|██        | 2/10 [00:18<01:09,  8.71s/it] 30%|███       | 3/10 [00:24<00:53,  7.63s/it] 40%|████      | 4/10 [00:31<00:42,  7.13s/it] 50%|█████     | 5/10 [00:37<00:34,  6.82s/it] 60%|██████    | 6/10 [00:43<00:26,  6.67s/it] 70%|███████   | 7/10 [00:50<00:19,  6.57s/it] 80%|████████  | 8/10 [00:56<00:12,  6.50s/it] 90%|█████████ | 9/10 [01:02<00:06,  6.46s/it]100%|██████████| 10/10 [01:09<00:00,  6.44s/it]100%|██████████| 10/10 [01:09<00:00,  6.93s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:01<00:13,  1.51s/it] 20%|██        | 2/10 [00:02<00:11,  1.45s/it] 30%|███       | 3/10 [00:04<00:09,  1.43s/it] 40%|████      | 4/10 [00:05<00:08,  1.40s/it] 50%|█████     | 5/10 [00:07<00:06,  1.39s/it] 60%|██████    | 6/10 [00:08<00:05,  1.35s/it] 70%|███████   | 7/10 [00:09<00:04,  1.34s/it] 80%|████████  | 8/10 [00:10<00:02,  1.32s/it] 90%|█████████ | 9/10 [00:12<00:01,  1.31s/it]100%|██████████| 10/10 [00:13<00:00,  1.30s/it]100%|██████████| 10/10 [00:13<00:00,  1.35s/it]
+TESTING DONE
+ConvNext_Tiny_512_50x_texture_scratch_frozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:07<02:22,  7.52s/it] 10%|█         | 2/20 [00:10<01:26,  4.81s/it] 15%|█▌        | 3/20 [00:13<01:06,  3.89s/it] 20%|██        | 4/20 [00:16<00:55,  3.50s/it] 25%|██▌       | 5/20 [00:19<00:49,  3.29s/it] 30%|███       | 6/20 [00:21<00:43,  3.13s/it] 35%|███▌      | 7/20 [00:24<00:39,  3.04s/it] 40%|████      | 8/20 [00:27<00:35,  2.98s/it] 45%|████▌     | 9/20 [00:30<00:32,  2.93s/it] 50%|█████     | 10/20 [00:33<00:28,  2.90s/it] 55%|█████▌    | 11/20 [00:36<00:25,  2.88s/it] 60%|██████    | 12/20 [00:38<00:22,  2.86s/it] 65%|██████▌   | 13/20 [00:41<00:19,  2.85s/it] 70%|███████   | 14/20 [00:44<00:17,  2.88s/it] 75%|███████▌  | 15/20 [00:47<00:14,  2.86s/it] 80%|████████  | 16/20 [00:50<00:11,  2.86s/it] 85%|████████▌ | 17/20 [00:53<00:08,  2.86s/it] 90%|█████████ | 18/20 [00:56<00:05,  2.86s/it] 95%|█████████▌| 19/20 [00:58<00:02,  2.85s/it]100%|██████████| 20/20 [01:01<00:00,  2.84s/it]100%|██████████| 20/20 [01:01<00:00,  3.08s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:01<00:28,  1.51s/it] 10%|█         | 2/20 [00:03<00:27,  1.52s/it] 15%|█▌        | 3/20 [00:04<00:26,  1.57s/it] 20%|██        | 4/20 [00:06<00:24,  1.56s/it] 25%|██▌       | 5/20 [00:07<00:23,  1.57s/it] 30%|███       | 6/20 [00:09<00:21,  1.55s/it] 35%|███▌      | 7/20 [00:10<00:19,  1.51s/it] 40%|████      | 8/20 [00:12<00:17,  1.50s/it] 45%|████▌     | 9/20 [00:13<00:16,  1.49s/it] 50%|█████     | 10/20 [00:15<00:14,  1.47s/it] 55%|█████▌    | 11/20 [00:16<00:12,  1.42s/it] 60%|██████    | 12/20 [00:17<00:11,  1.41s/it] 65%|██████▌   | 13/20 [00:19<00:09,  1.42s/it] 70%|███████   | 14/20 [00:20<00:08,  1.39s/it] 75%|███████▌  | 15/20 [00:21<00:06,  1.37s/it] 80%|████████  | 16/20 [00:23<00:05,  1.36s/it] 85%|████████▌ | 17/20 [00:24<00:04,  1.38s/it] 90%|█████████ | 18/20 [00:25<00:02,  1.36s/it] 95%|█████████▌| 19/20 [00:27<00:01,  1.35s/it]100%|██████████| 20/20 [00:28<00:00,  1.33s/it]100%|██████████| 20/20 [00:28<00:00,  1.43s/it]
+TESTING DONE
+ConvNext_Tiny_512_50x_texture_scratch_frozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:07<02:15,  7.13s/it] 10%|█         | 2/20 [00:09<01:22,  4.59s/it] 15%|█▌        | 3/20 [00:12<01:04,  3.80s/it] 20%|██        | 4/20 [00:15<00:54,  3.42s/it] 25%|██▌       | 5/20 [00:18<00:48,  3.21s/it] 30%|███       | 6/20 [00:21<00:42,  3.06s/it] 35%|███▌      | 7/20 [00:24<00:38,  2.99s/it] 40%|████      | 8/20 [00:26<00:35,  2.94s/it] 45%|████▌     | 9/20 [00:29<00:31,  2.89s/it] 50%|█████     | 10/20 [00:32<00:28,  2.88s/it] 55%|█████▌    | 11/20 [00:35<00:25,  2.88s/it] 60%|██████    | 12/20 [00:38<00:23,  2.88s/it] 65%|██████▌   | 13/20 [00:41<00:19,  2.85s/it] 70%|███████   | 14/20 [00:44<00:17,  2.87s/it] 75%|███████▌  | 15/20 [00:46<00:14,  2.86s/it] 80%|████████  | 16/20 [00:49<00:11,  2.84s/it] 85%|████████▌ | 17/20 [00:52<00:08,  2.83s/it] 90%|█████████ | 18/20 [00:55<00:05,  2.83s/it] 95%|█████████▌| 19/20 [00:58<00:02,  2.83s/it]100%|██████████| 20/20 [01:00<00:00,  2.82s/it]100%|██████████| 20/20 [01:00<00:00,  3.05s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:20,  4.22s/it] 10%|█         | 2/20 [00:05<00:47,  2.65s/it] 15%|█▌        | 3/20 [00:07<00:35,  2.08s/it] 20%|██        | 4/20 [00:08<00:30,  1.88s/it] 25%|██▌       | 5/20 [00:10<00:26,  1.75s/it] 30%|███       | 6/20 [00:11<00:22,  1.61s/it] 35%|███▌      | 7/20 [00:13<00:20,  1.58s/it] 40%|████      | 8/20 [00:14<00:18,  1.51s/it] 45%|████▌     | 9/20 [00:16<00:16,  1.52s/it] 50%|█████     | 10/20 [00:17<00:14,  1.46s/it] 55%|█████▌    | 11/20 [00:18<00:13,  1.50s/it] 60%|██████    | 12/20 [00:20<00:11,  1.48s/it] 65%|██████▌   | 13/20 [00:21<00:10,  1.47s/it] 70%|███████   | 14/20 [00:23<00:08,  1.43s/it] 75%|███████▌  | 15/20 [00:24<00:06,  1.40s/it] 80%|████████  | 16/20 [00:25<00:05,  1.37s/it] 85%|████████▌ | 17/20 [00:27<00:04,  1.35s/it] 90%|█████████ | 18/20 [00:28<00:02,  1.33s/it] 95%|█████████▌| 19/20 [00:29<00:01,  1.32s/it]100%|██████████| 20/20 [00:30<00:00,  1.31s/it]100%|██████████| 20/20 [00:30<00:00,  1.55s/it]
+TESTING DONE
+ConvNext_Tiny_512_50x_texture_scratch_unfrozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:11<03:38, 11.52s/it] 10%|█         | 2/20 [00:17<02:32,  8.46s/it] 15%|█▌        | 3/20 [00:24<02:06,  7.45s/it] 20%|██        | 4/20 [00:30<01:51,  6.97s/it] 25%|██▌       | 5/20 [00:36<01:40,  6.72s/it] 30%|███       | 6/20 [00:42<01:32,  6.58s/it] 35%|███▌      | 7/20 [00:49<01:24,  6.48s/it] 40%|████      | 8/20 [00:55<01:16,  6.42s/it] 45%|████▌     | 9/20 [01:01<01:09,  6.36s/it] 50%|█████     | 10/20 [01:07<01:03,  6.33s/it] 55%|█████▌    | 11/20 [01:14<00:56,  6.30s/it] 60%|██████    | 12/20 [01:20<00:50,  6.30s/it] 65%|██████▌   | 13/20 [01:26<00:44,  6.30s/it] 70%|███████   | 14/20 [01:33<00:37,  6.30s/it] 75%|███████▌  | 15/20 [01:39<00:31,  6.29s/it] 80%|████████  | 16/20 [01:45<00:25,  6.28s/it] 85%|████████▌ | 17/20 [01:51<00:18,  6.29s/it] 90%|█████████ | 18/20 [01:58<00:12,  6.29s/it] 95%|█████████▌| 19/20 [02:04<00:06,  6.29s/it]100%|██████████| 20/20 [02:10<00:00,  6.28s/it]100%|██████████| 20/20 [02:10<00:00,  6.54s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:02<00:39,  2.06s/it] 10%|█         | 2/20 [00:03<00:32,  1.83s/it] 15%|█▌        | 3/20 [00:05<00:30,  1.79s/it] 20%|██        | 4/20 [00:07<00:28,  1.80s/it] 25%|██▌       | 5/20 [00:09<00:27,  1.80s/it] 30%|███       | 6/20 [00:10<00:25,  1.81s/it] 35%|███▌      | 7/20 [00:12<00:22,  1.73s/it] 40%|████      | 8/20 [00:14<00:20,  1.73s/it] 45%|████▌     | 9/20 [00:15<00:18,  1.66s/it] 50%|█████     | 10/20 [00:17<00:16,  1.61s/it] 55%|█████▌    | 11/20 [00:18<00:14,  1.59s/it] 60%|██████    | 12/20 [00:20<00:12,  1.55s/it] 65%|██████▌   | 13/20 [00:21<00:10,  1.51s/it] 70%|███████   | 14/20 [00:23<00:08,  1.47s/it] 75%|███████▌  | 15/20 [00:24<00:07,  1.41s/it] 80%|████████  | 16/20 [00:25<00:05,  1.39s/it] 85%|████████▌ | 17/20 [00:26<00:04,  1.37s/it] 90%|█████████ | 18/20 [00:28<00:02,  1.34s/it] 95%|█████████▌| 19/20 [00:29<00:01,  1.33s/it]100%|██████████| 20/20 [00:30<00:00,  1.31s/it]100%|██████████| 20/20 [00:30<00:00,  1.54s/it]
+TESTING DONE
+ConvNext_Tiny_512_50x_texture_scratch_unfrozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:11<03:44, 11.83s/it] 10%|█         | 2/20 [00:18<02:34,  8.59s/it] 15%|█▌        | 3/20 [00:24<02:08,  7.56s/it] 20%|██        | 4/20 [00:30<01:53,  7.08s/it] 25%|██▌       | 5/20 [00:37<01:42,  6.82s/it] 30%|███       | 6/20 [00:43<01:33,  6.67s/it] 35%|███▌      | 7/20 [00:49<01:25,  6.57s/it] 40%|████      | 8/20 [00:56<01:18,  6.51s/it] 45%|████▌     | 9/20 [01:02<01:11,  6.47s/it] 50%|█████     | 10/20 [01:09<01:04,  6.43s/it] 55%|█████▌    | 11/20 [01:15<00:57,  6.40s/it] 60%|██████    | 12/20 [01:21<00:51,  6.39s/it] 65%|██████▌   | 13/20 [01:28<00:44,  6.37s/it] 70%|███████   | 14/20 [01:34<00:38,  6.37s/it] 75%|███████▌  | 15/20 [01:40<00:31,  6.38s/it] 80%|████████  | 16/20 [01:47<00:25,  6.39s/it] 85%|████████▌ | 17/20 [01:53<00:19,  6.42s/it] 90%|█████████ | 18/20 [02:00<00:12,  6.40s/it] 95%|█████████▌| 19/20 [02:06<00:06,  6.39s/it]100%|██████████| 20/20 [02:12<00:00,  6.39s/it]100%|██████████| 20/20 [02:12<00:00,  6.64s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:22,  4.34s/it] 10%|█         | 2/20 [00:06<00:51,  2.85s/it] 15%|█▌        | 3/20 [00:07<00:38,  2.24s/it] 20%|██        | 4/20 [00:09<00:31,  2.00s/it] 25%|██▌       | 5/20 [00:11<00:28,  1.90s/it] 30%|███       | 6/20 [00:12<00:25,  1.82s/it] 35%|███▌      | 7/20 [00:14<00:22,  1.72s/it] 40%|████      | 8/20 [00:15<00:20,  1.69s/it] 45%|████▌     | 9/20 [00:17<00:18,  1.67s/it] 50%|█████     | 10/20 [00:18<00:16,  1.63s/it] 55%|█████▌    | 11/20 [00:20<00:13,  1.55s/it] 60%|██████    | 12/20 [00:21<00:12,  1.50s/it] 65%|██████▌   | 13/20 [00:23<00:10,  1.49s/it] 70%|███████   | 14/20 [00:24<00:09,  1.53s/it] 75%|███████▌  | 15/20 [00:26<00:07,  1.49s/it] 80%|████████  | 16/20 [00:27<00:05,  1.43s/it] 85%|████████▌ | 17/20 [00:29<00:04,  1.47s/it] 90%|█████████ | 18/20 [00:30<00:02,  1.43s/it] 95%|█████████▌| 19/20 [00:31<00:01,  1.40s/it]100%|██████████| 20/20 [00:32<00:00,  1.36s/it]100%|██████████| 20/20 [00:32<00:00,  1.65s/it]
+TESTING DONE
+ConvNext_Tiny_512_50x_heightmap_pretrained_frozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:07<01:08,  7.59s/it] 20%|██        | 2/10 [00:10<00:38,  4.80s/it] 30%|███       | 3/10 [00:13<00:27,  3.90s/it] 40%|████      | 4/10 [00:16<00:20,  3.47s/it] 50%|█████     | 5/10 [00:18<00:16,  3.24s/it] 60%|██████    | 6/10 [00:21<00:12,  3.10s/it] 70%|███████   | 7/10 [00:24<00:09,  3.01s/it] 80%|████████  | 8/10 [00:27<00:05,  2.95s/it] 90%|█████████ | 9/10 [00:30<00:02,  2.90s/it]100%|██████████| 10/10 [00:33<00:00,  2.90s/it]100%|██████████| 10/10 [00:33<00:00,  3.31s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:03<00:31,  3.55s/it] 20%|██        | 2/10 [00:04<00:17,  2.23s/it] 30%|███       | 3/10 [00:06<00:12,  1.81s/it] 40%|████      | 4/10 [00:07<00:09,  1.60s/it] 50%|█████     | 5/10 [00:08<00:07,  1.49s/it] 60%|██████    | 6/10 [00:10<00:05,  1.42s/it] 70%|███████   | 7/10 [00:11<00:04,  1.37s/it] 80%|████████  | 8/10 [00:12<00:02,  1.34s/it] 90%|█████████ | 9/10 [00:13<00:01,  1.33s/it]100%|██████████| 10/10 [00:15<00:00,  1.31s/it]100%|██████████| 10/10 [00:15<00:00,  1.51s/it]
+TESTING DONE
+ConvNext_Tiny_512_50x_heightmap_pretrained_frozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:06<01:02,  6.98s/it] 20%|██        | 2/10 [00:09<00:36,  4.56s/it] 30%|███       | 3/10 [00:12<00:26,  3.77s/it] 40%|████      | 4/10 [00:15<00:20,  3.39s/it] 50%|█████     | 5/10 [00:18<00:15,  3.18s/it] 60%|██████    | 6/10 [00:21<00:12,  3.09s/it] 70%|███████   | 7/10 [00:24<00:09,  3.00s/it] 80%|████████  | 8/10 [00:26<00:05,  2.97s/it] 90%|█████████ | 9/10 [00:29<00:02,  2.92s/it]100%|██████████| 10/10 [00:32<00:00,  2.89s/it]100%|██████████| 10/10 [00:32<00:00,  3.26s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:02<00:22,  2.52s/it] 20%|██        | 2/10 [00:03<00:14,  1.80s/it] 30%|███       | 3/10 [00:05<00:11,  1.58s/it] 40%|████      | 4/10 [00:06<00:08,  1.48s/it] 50%|█████     | 5/10 [00:07<00:07,  1.43s/it] 60%|██████    | 6/10 [00:09<00:05,  1.39s/it] 70%|███████   | 7/10 [00:10<00:04,  1.37s/it] 80%|████████  | 8/10 [00:11<00:02,  1.34s/it] 90%|█████████ | 9/10 [00:12<00:01,  1.32s/it]100%|██████████| 10/10 [00:14<00:00,  1.32s/it]100%|██████████| 10/10 [00:14<00:00,  1.43s/it]
+TESTING DONE
+ConvNext_Tiny_512_50x_heightmap_pretrained_unfrozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:11<01:44, 11.64s/it] 20%|██        | 2/10 [00:17<01:08,  8.53s/it] 30%|███       | 3/10 [00:24<00:52,  7.50s/it] 40%|████      | 4/10 [00:30<00:42,  7.05s/it] 50%|█████     | 5/10 [00:36<00:33,  6.80s/it] 60%|██████    | 6/10 [00:43<00:26,  6.65s/it] 70%|███████   | 7/10 [00:49<00:19,  6.55s/it] 80%|████████  | 8/10 [00:55<00:12,  6.47s/it] 90%|█████████ | 9/10 [01:02<00:06,  6.43s/it]100%|██████████| 10/10 [01:08<00:00,  6.41s/it]100%|██████████| 10/10 [01:08<00:00,  6.87s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:01<00:12,  1.43s/it] 20%|██        | 2/10 [00:02<00:10,  1.36s/it] 30%|███       | 3/10 [00:04<00:09,  1.39s/it] 40%|████      | 4/10 [00:05<00:08,  1.36s/it] 50%|█████     | 5/10 [00:06<00:06,  1.35s/it] 60%|██████    | 6/10 [00:08<00:05,  1.34s/it] 70%|███████   | 7/10 [00:09<00:03,  1.33s/it] 80%|████████  | 8/10 [00:10<00:02,  1.34s/it] 90%|█████████ | 9/10 [00:12<00:01,  1.33s/it]100%|██████████| 10/10 [00:13<00:00,  1.33s/it]100%|██████████| 10/10 [00:13<00:00,  1.34s/it]
+TESTING DONE
+ConvNext_Tiny_512_50x_heightmap_pretrained_unfrozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:11<01:45, 11.74s/it] 20%|██        | 2/10 [00:18<01:08,  8.60s/it] 30%|███       | 3/10 [00:24<00:52,  7.55s/it] 40%|████      | 4/10 [00:30<00:42,  7.08s/it] 50%|█████     | 5/10 [00:37<00:34,  6.81s/it] 60%|██████    | 6/10 [00:43<00:26,  6.67s/it] 70%|███████   | 7/10 [00:49<00:19,  6.58s/it] 80%|████████  | 8/10 [00:56<00:13,  6.50s/it] 90%|█████████ | 9/10 [01:02<00:06,  6.44s/it]100%|██████████| 10/10 [01:08<00:00,  6.40s/it]100%|██████████| 10/10 [01:08<00:00,  6.89s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:01<00:13,  1.46s/it] 20%|██        | 2/10 [00:02<00:11,  1.49s/it] 30%|███       | 3/10 [00:04<00:10,  1.46s/it] 40%|████      | 4/10 [00:05<00:08,  1.42s/it] 50%|█████     | 5/10 [00:07<00:06,  1.38s/it] 60%|██████    | 6/10 [00:08<00:05,  1.40s/it] 70%|███████   | 7/10 [00:09<00:04,  1.36s/it] 80%|████████  | 8/10 [00:11<00:02,  1.36s/it] 90%|█████████ | 9/10 [00:12<00:01,  1.35s/it]100%|██████████| 10/10 [00:13<00:00,  1.33s/it]100%|██████████| 10/10 [00:13<00:00,  1.38s/it]
+TESTING DONE
+ConvNext_Tiny_512_50x_heightmap_scratch_frozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:07<02:20,  7.39s/it] 10%|█         | 2/20 [00:10<01:25,  4.72s/it] 15%|█▌        | 3/20 [00:13<01:05,  3.87s/it] 20%|██        | 4/20 [00:15<00:55,  3.46s/it] 25%|██▌       | 5/20 [00:18<00:48,  3.23s/it] 30%|███       | 6/20 [00:21<00:43,  3.12s/it] 35%|███▌      | 7/20 [00:24<00:39,  3.03s/it] 40%|████      | 8/20 [00:27<00:35,  2.97s/it] 45%|████▌     | 9/20 [00:30<00:32,  2.93s/it] 50%|█████     | 10/20 [00:32<00:28,  2.88s/it] 55%|█████▌    | 11/20 [00:35<00:25,  2.88s/it] 60%|██████    | 12/20 [00:38<00:23,  2.89s/it] 65%|██████▌   | 13/20 [00:41<00:20,  2.87s/it] 70%|███████   | 14/20 [00:44<00:17,  2.87s/it] 75%|███████▌  | 15/20 [00:47<00:14,  2.86s/it] 80%|████████  | 16/20 [00:50<00:11,  2.85s/it] 85%|████████▌ | 17/20 [00:52<00:08,  2.84s/it] 90%|█████████ | 18/20 [00:55<00:05,  2.85s/it] 95%|█████████▌| 19/20 [00:58<00:02,  2.86s/it]100%|██████████| 20/20 [01:01<00:00,  2.85s/it]100%|██████████| 20/20 [01:01<00:00,  3.07s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:03<01:15,  3.96s/it] 10%|█         | 2/20 [00:05<00:49,  2.73s/it] 15%|█▌        | 3/20 [00:07<00:38,  2.28s/it] 20%|██        | 4/20 [00:09<00:32,  2.05s/it] 25%|██▌       | 5/20 [00:11<00:29,  1.95s/it] 30%|███       | 6/20 [00:12<00:26,  1.88s/it] 35%|███▌      | 7/20 [00:14<00:23,  1.81s/it] 40%|████      | 8/20 [00:16<00:22,  1.85s/it] 45%|████▌     | 9/20 [00:18<00:19,  1.80s/it] 50%|█████     | 10/20 [00:19<00:17,  1.71s/it] 55%|█████▌    | 11/20 [00:21<00:15,  1.68s/it] 60%|██████    | 12/20 [00:22<00:13,  1.67s/it] 65%|██████▌   | 13/20 [00:24<00:11,  1.68s/it] 70%|███████   | 14/20 [00:26<00:10,  1.70s/it] 75%|███████▌  | 15/20 [00:27<00:08,  1.69s/it] 80%|████████  | 16/20 [00:29<00:06,  1.71s/it] 85%|████████▌ | 17/20 [00:31<00:05,  1.67s/it] 90%|█████████ | 18/20 [00:33<00:03,  1.71s/it] 95%|█████████▌| 19/20 [00:34<00:01,  1.64s/it]100%|██████████| 20/20 [00:36<00:00,  1.63s/it]100%|██████████| 20/20 [00:36<00:00,  1.81s/it]
+TESTING DONE
+ConvNext_Tiny_512_50x_heightmap_scratch_frozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:07<02:13,  7.01s/it] 10%|█         | 2/20 [00:09<01:21,  4.56s/it] 15%|█▌        | 3/20 [00:12<01:03,  3.76s/it] 20%|██        | 4/20 [00:15<00:54,  3.40s/it] 25%|██▌       | 5/20 [00:18<00:47,  3.19s/it] 30%|███       | 6/20 [00:21<00:42,  3.06s/it] 35%|███▌      | 7/20 [00:23<00:38,  2.99s/it] 40%|████      | 8/20 [00:26<00:35,  2.93s/it] 45%|████▌     | 9/20 [00:29<00:31,  2.90s/it] 50%|█████     | 10/20 [00:32<00:28,  2.88s/it] 55%|█████▌    | 11/20 [00:35<00:25,  2.87s/it] 60%|██████    | 12/20 [00:38<00:22,  2.86s/it] 65%|██████▌   | 13/20 [00:40<00:19,  2.83s/it] 70%|███████   | 14/20 [00:43<00:17,  2.83s/it] 75%|███████▌  | 15/20 [00:46<00:14,  2.82s/it] 80%|████████  | 16/20 [00:49<00:11,  2.81s/it] 85%|████████▌ | 17/20 [00:52<00:08,  2.82s/it] 90%|█████████ | 18/20 [00:54<00:05,  2.81s/it] 95%|█████████▌| 19/20 [00:57<00:02,  2.82s/it]100%|██████████| 20/20 [01:00<00:00,  2.83s/it]100%|██████████| 20/20 [01:00<00:00,  3.03s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:19,  4.17s/it] 10%|█         | 2/20 [00:05<00:47,  2.61s/it] 15%|█▌        | 3/20 [00:07<00:37,  2.18s/it] 20%|██        | 4/20 [00:08<00:30,  1.93s/it] 25%|██▌       | 5/20 [00:10<00:27,  1.84s/it] 30%|███       | 6/20 [00:12<00:24,  1.77s/it] 35%|███▌      | 7/20 [00:13<00:23,  1.77s/it] 40%|████      | 8/20 [00:15<00:20,  1.67s/it] 45%|████▌     | 9/20 [00:16<00:17,  1.63s/it] 50%|█████     | 10/20 [00:18<00:15,  1.59s/it] 55%|█████▌    | 11/20 [00:19<00:13,  1.54s/it] 60%|██████    | 12/20 [00:21<00:12,  1.53s/it] 65%|██████▌   | 13/20 [00:22<00:10,  1.48s/it] 70%|███████   | 14/20 [00:24<00:08,  1.47s/it] 75%|███████▌  | 15/20 [00:25<00:07,  1.43s/it] 80%|████████  | 16/20 [00:27<00:05,  1.48s/it] 85%|████████▌ | 17/20 [00:28<00:04,  1.43s/it] 90%|█████████ | 18/20 [00:29<00:02,  1.42s/it] 95%|█████████▌| 19/20 [00:31<00:01,  1.39s/it]100%|██████████| 20/20 [00:32<00:00,  1.39s/it]100%|██████████| 20/20 [00:32<00:00,  1.63s/it]
+TESTING DONE
+ConvNext_Tiny_512_50x_heightmap_scratch_unfrozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:12<04:02, 12.77s/it] 10%|█         | 2/20 [00:19<02:42,  9.04s/it] 15%|█▌        | 3/20 [00:25<02:13,  7.83s/it] 20%|██        | 4/20 [00:31<01:55,  7.22s/it] 25%|██▌       | 5/20 [00:38<01:43,  6.90s/it] 30%|███       | 6/20 [00:44<01:33,  6.71s/it] 35%|███▌      | 7/20 [00:50<01:25,  6.61s/it] 40%|████      | 8/20 [00:57<01:18,  6.54s/it] 45%|████▌     | 9/20 [01:03<01:11,  6.48s/it] 50%|█████     | 10/20 [01:10<01:04,  6.45s/it] 55%|█████▌    | 11/20 [01:16<00:58,  6.45s/it] 60%|██████    | 12/20 [01:22<00:51,  6.40s/it] 65%|██████▌   | 13/20 [01:29<00:44,  6.39s/it] 70%|███████   | 14/20 [01:35<00:38,  6.38s/it] 75%|███████▌  | 15/20 [01:41<00:31,  6.38s/it] 80%|████████  | 16/20 [01:48<00:25,  6.37s/it] 85%|████████▌ | 17/20 [01:54<00:19,  6.36s/it] 90%|█████████ | 18/20 [02:00<00:12,  6.37s/it] 95%|█████████▌| 19/20 [02:07<00:06,  6.37s/it]100%|██████████| 20/20 [02:13<00:00,  6.36s/it]100%|██████████| 20/20 [02:13<00:00,  6.69s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:02<00:49,  2.59s/it] 10%|█         | 2/20 [00:04<00:38,  2.16s/it] 15%|█▌        | 3/20 [00:06<00:34,  2.02s/it] 20%|██        | 4/20 [00:08<00:31,  1.94s/it] 25%|██▌       | 5/20 [00:10<00:28,  1.92s/it] 30%|███       | 6/20 [00:11<00:26,  1.88s/it] 35%|███▌      | 7/20 [00:13<00:23,  1.81s/it] 40%|████      | 8/20 [00:15<00:21,  1.77s/it] 45%|████▌     | 9/20 [00:16<00:18,  1.72s/it] 50%|█████     | 10/20 [00:18<00:17,  1.71s/it] 55%|█████▌    | 11/20 [00:19<00:14,  1.65s/it] 60%|██████    | 12/20 [00:21<00:13,  1.68s/it] 65%|██████▌   | 13/20 [00:23<00:11,  1.64s/it] 70%|███████   | 14/20 [00:24<00:09,  1.64s/it] 75%|███████▌  | 15/20 [00:26<00:07,  1.55s/it] 80%|████████  | 16/20 [00:27<00:06,  1.54s/it] 85%|████████▌ | 17/20 [00:29<00:04,  1.50s/it] 90%|█████████ | 18/20 [00:30<00:02,  1.48s/it] 95%|█████████▌| 19/20 [00:32<00:01,  1.46s/it]100%|██████████| 20/20 [00:33<00:00,  1.42s/it]100%|██████████| 20/20 [00:33<00:00,  1.67s/it]
+TESTING DONE
+ConvNext_Tiny_512_50x_heightmap_scratch_unfrozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 8
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:09<03:06,  9.79s/it] 10%|█         | 2/20 [00:16<02:20,  7.82s/it] 15%|█▌        | 3/20 [00:22<02:01,  7.13s/it] 20%|██        | 4/20 [00:28<01:49,  6.83s/it] 25%|██▌       | 5/20 [00:35<01:39,  6.63s/it] 30%|███       | 6/20 [00:41<01:31,  6.53s/it] 35%|███▌      | 7/20 [00:47<01:24,  6.49s/it] 40%|████      | 8/20 [00:54<01:17,  6.45s/it] 45%|████▌     | 9/20 [01:00<01:10,  6.44s/it] 50%|█████     | 10/20 [01:07<01:04,  6.42s/it] 55%|█████▌    | 11/20 [01:13<00:57,  6.40s/it] 60%|██████    | 12/20 [01:19<00:51,  6.39s/it] 65%|██████▌   | 13/20 [01:26<00:44,  6.37s/it] 70%|███████   | 14/20 [01:32<00:38,  6.37s/it] 75%|███████▌  | 15/20 [01:38<00:31,  6.37s/it] 80%|████████  | 16/20 [01:45<00:25,  6.43s/it] 85%|████████▌ | 17/20 [01:51<00:19,  6.40s/it] 90%|█████████ | 18/20 [01:58<00:12,  6.41s/it] 95%|█████████▌| 19/20 [02:04<00:06,  6.40s/it]100%|██████████| 20/20 [02:10<00:00,  6.39s/it]100%|██████████| 20/20 [02:10<00:00,  6.55s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:03<01:05,  3.46s/it] 10%|█         | 2/20 [00:05<00:45,  2.54s/it] 15%|█▌        | 3/20 [00:07<00:36,  2.17s/it] 20%|██        | 4/20 [00:08<00:31,  1.95s/it] 25%|██▌       | 5/20 [00:10<00:27,  1.85s/it] 30%|███       | 6/20 [00:11<00:24,  1.76s/it] 35%|███▌      | 7/20 [00:13<00:23,  1.78s/it] 40%|████      | 8/20 [00:15<00:20,  1.73s/it] 45%|████▌     | 9/20 [00:17<00:18,  1.70s/it] 50%|█████     | 10/20 [00:18<00:16,  1.68s/it] 55%|█████▌    | 11/20 [00:20<00:14,  1.63s/it] 60%|██████    | 12/20 [00:21<00:12,  1.60s/it] 65%|██████▌   | 13/20 [00:23<00:10,  1.56s/it] 70%|███████   | 14/20 [00:24<00:09,  1.52s/it] 75%|███████▌  | 15/20 [00:26<00:07,  1.51s/it] 80%|████████  | 16/20 [00:27<00:05,  1.46s/it] 85%|████████▌ | 17/20 [00:28<00:04,  1.42s/it] 90%|█████████ | 18/20 [00:30<00:02,  1.43s/it] 95%|█████████▌| 19/20 [00:31<00:01,  1.39s/it]100%|██████████| 20/20 [00:32<00:00,  1.37s/it]100%|██████████| 20/20 [00:32<00:00,  1.64s/it]
+TESTING DONE
+ConvNext_Tiny_512_20x+50x_texture_pretrained_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x+50x_texture_pretrained_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x+50x_texture_pretrained_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x+50x_texture_pretrained_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x+50x_texture_scratch_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x+50x_texture_scratch_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x+50x_texture_scratch_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x+50x_texture_scratch_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x+50x_heightmap_pretrained_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x+50x_heightmap_pretrained_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x+50x_heightmap_pretrained_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x+50x_heightmap_pretrained_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x+50x_heightmap_scratch_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x+50x_heightmap_scratch_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x+50x_heightmap_scratch_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_512_20x+50x_heightmap_scratch_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_20x_texture_pretrained_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_20x_texture_pretrained_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_20x_texture_pretrained_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_20x_texture_pretrained_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_20x_texture_scratch_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_20x_texture_scratch_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_20x_texture_scratch_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_20x_texture_scratch_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_20x_heightmap_pretrained_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_20x_heightmap_pretrained_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_20x_heightmap_pretrained_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_20x_heightmap_pretrained_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_20x_heightmap_scratch_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_20x_heightmap_scratch_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_20x_heightmap_scratch_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_20x_heightmap_scratch_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_50x_texture_pretrained_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_50x_texture_pretrained_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_50x_texture_pretrained_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_50x_texture_pretrained_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_50x_texture_scratch_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_50x_texture_scratch_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_50x_texture_scratch_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_50x_texture_scratch_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_50x_heightmap_pretrained_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_50x_heightmap_pretrained_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_50x_heightmap_pretrained_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_50x_heightmap_pretrained_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_50x_heightmap_scratch_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_50x_heightmap_scratch_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_50x_heightmap_scratch_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_50x_heightmap_scratch_unfrozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_20x+50x_texture_pretrained_frozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_20x+50x_texture_pretrained_frozen_novote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_20x+50x_texture_pretrained_unfrozen_vote STARTED
+CHECKPOINT FOUND
+TERMINATING TRAINING
+ConvNext_Tiny_865_20x+50x_texture_pretrained_unfrozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:12<01:49, 12.19s/it] 20%|██        | 2/10 [00:16<00:58,  7.37s/it] 30%|███       | 3/10 [00:19<00:39,  5.70s/it] 40%|████      | 4/10 [00:23<00:29,  4.91s/it] 50%|█████     | 5/10 [00:27<00:22,  4.48s/it] 60%|██████    | 6/10 [00:30<00:16,  4.21s/it] 70%|███████   | 7/10 [00:34<00:12,  4.07s/it] 80%|████████  | 8/10 [00:38<00:07,  3.95s/it] 90%|█████████ | 9/10 [00:42<00:03,  3.86s/it]100%|██████████| 10/10 [00:45<00:00,  3.81s/it]100%|██████████| 10/10 [00:45<00:00,  4.58s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:05<00:46,  5.12s/it] 20%|██        | 2/10 [00:06<00:23,  2.97s/it] 30%|███       | 3/10 [00:07<00:15,  2.24s/it] 40%|████      | 4/10 [00:09<00:11,  1.94s/it] 50%|█████     | 5/10 [00:10<00:08,  1.71s/it] 60%|██████    | 6/10 [00:12<00:06,  1.60s/it] 70%|███████   | 7/10 [00:13<00:04,  1.50s/it] 80%|████████  | 8/10 [00:14<00:02,  1.43s/it] 90%|█████████ | 9/10 [00:15<00:01,  1.39s/it]100%|██████████| 10/10 [00:17<00:00,  1.36s/it]100%|██████████| 10/10 [00:17<00:00,  1.73s/it]
+TESTING DONE
+ConvNext_Tiny_865_20x+50x_texture_scratch_frozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:07<02:25,  7.66s/it] 10%|█         | 2/20 [00:09<01:19,  4.44s/it] 15%|█▌        | 3/20 [00:12<00:57,  3.41s/it] 20%|██        | 4/20 [00:14<00:46,  2.93s/it] 25%|██▌       | 5/20 [00:16<00:39,  2.65s/it] 30%|███       | 6/20 [00:18<00:34,  2.49s/it] 35%|███▌      | 7/20 [00:20<00:31,  2.39s/it] 40%|████      | 8/20 [00:22<00:27,  2.30s/it] 45%|████▌     | 9/20 [00:25<00:24,  2.26s/it] 50%|█████     | 10/20 [00:27<00:22,  2.25s/it] 55%|█████▌    | 11/20 [00:29<00:20,  2.23s/it] 60%|██████    | 12/20 [00:31<00:17,  2.21s/it] 65%|██████▌   | 13/20 [00:33<00:15,  2.20s/it] 70%|███████   | 14/20 [00:35<00:13,  2.20s/it] 75%|███████▌  | 15/20 [00:38<00:10,  2.18s/it] 80%|████████  | 16/20 [00:40<00:08,  2.17s/it] 85%|████████▌ | 17/20 [00:42<00:06,  2.17s/it] 90%|█████████ | 18/20 [00:44<00:04,  2.18s/it] 95%|█████████▌| 19/20 [00:46<00:02,  2.19s/it]100%|██████████| 20/20 [00:49<00:00,  2.19s/it]100%|██████████| 20/20 [00:49<00:00,  2.45s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:34,  4.97s/it] 10%|█         | 2/20 [00:06<00:53,  3.00s/it] 15%|█▌        | 3/20 [00:08<00:39,  2.35s/it] 20%|██        | 4/20 [00:09<00:32,  2.03s/it] 25%|██▌       | 5/20 [00:11<00:28,  1.93s/it] 30%|███       | 6/20 [00:13<00:25,  1.85s/it] 35%|███▌      | 7/20 [00:14<00:22,  1.76s/it] 40%|████      | 8/20 [00:16<00:20,  1.71s/it] 45%|████▌     | 9/20 [00:17<00:18,  1.68s/it] 50%|█████     | 10/20 [00:19<00:15,  1.60s/it] 55%|█████▌    | 11/20 [00:20<00:14,  1.57s/it] 60%|██████    | 12/20 [00:22<00:12,  1.55s/it] 65%|██████▌   | 13/20 [00:23<00:10,  1.53s/it] 70%|███████   | 14/20 [00:25<00:08,  1.46s/it] 75%|███████▌  | 15/20 [00:26<00:07,  1.47s/it] 80%|████████  | 16/20 [00:27<00:05,  1.43s/it] 85%|████████▌ | 17/20 [00:29<00:04,  1.38s/it] 90%|█████████ | 18/20 [00:30<00:02,  1.36s/it] 95%|█████████▌| 19/20 [00:31<00:01,  1.37s/it]100%|██████████| 20/20 [00:33<00:00,  1.34s/it]100%|██████████| 20/20 [00:33<00:00,  1.66s/it]
+TESTING DONE
+ConvNext_Tiny_865_20x+50x_texture_scratch_frozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:08<02:37,  8.31s/it] 10%|█         | 2/20 [00:10<01:25,  4.73s/it] 15%|█▌        | 3/20 [00:12<01:00,  3.55s/it] 20%|██        | 4/20 [00:14<00:48,  3.00s/it] 25%|██▌       | 5/20 [00:17<00:40,  2.71s/it] 30%|███       | 6/20 [00:19<00:35,  2.53s/it] 35%|███▌      | 7/20 [00:21<00:31,  2.40s/it] 40%|████      | 8/20 [00:23<00:27,  2.33s/it] 45%|████▌     | 9/20 [00:25<00:25,  2.28s/it] 50%|█████     | 10/20 [00:27<00:22,  2.26s/it] 55%|█████▌    | 11/20 [00:30<00:20,  2.25s/it] 60%|██████    | 12/20 [00:32<00:17,  2.24s/it] 65%|██████▌   | 13/20 [00:34<00:15,  2.21s/it] 70%|███████   | 14/20 [00:36<00:13,  2.18s/it] 75%|███████▌  | 15/20 [00:38<00:10,  2.17s/it] 80%|████████  | 16/20 [00:40<00:08,  2.17s/it] 85%|████████▌ | 17/20 [00:43<00:06,  2.16s/it] 90%|█████████ | 18/20 [00:45<00:04,  2.16s/it] 95%|█████████▌| 19/20 [00:47<00:02,  2.17s/it]100%|██████████| 20/20 [00:49<00:00,  2.15s/it]100%|██████████| 20/20 [00:49<00:00,  2.48s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:05<01:35,  5.00s/it] 10%|█         | 2/20 [00:06<00:53,  2.99s/it] 15%|█▌        | 3/20 [00:08<00:41,  2.44s/it] 20%|██        | 4/20 [00:09<00:33,  2.09s/it] 25%|██▌       | 5/20 [00:11<00:28,  1.87s/it] 30%|███       | 6/20 [00:12<00:24,  1.75s/it] 35%|███▌      | 7/20 [00:14<00:21,  1.68s/it] 40%|████      | 8/20 [00:15<00:19,  1.63s/it] 45%|████▌     | 9/20 [00:17<00:17,  1.59s/it] 50%|█████     | 10/20 [00:18<00:14,  1.50s/it] 55%|█████▌    | 11/20 [00:20<00:13,  1.49s/it] 60%|██████    | 12/20 [00:21<00:11,  1.43s/it] 65%|██████▌   | 13/20 [00:22<00:09,  1.38s/it] 70%|███████   | 14/20 [00:24<00:08,  1.35s/it] 75%|███████▌  | 15/20 [00:25<00:06,  1.34s/it] 80%|████████  | 16/20 [00:26<00:05,  1.36s/it] 85%|████████▌ | 17/20 [00:28<00:03,  1.32s/it] 90%|█████████ | 18/20 [00:29<00:02,  1.32s/it] 95%|█████████▌| 19/20 [00:30<00:01,  1.30s/it]100%|██████████| 20/20 [00:31<00:00,  1.29s/it]100%|██████████| 20/20 [00:31<00:00,  1.59s/it]
+TESTING DONE
+ConvNext_Tiny_865_20x+50x_texture_scratch_unfrozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:10<03:26, 10.86s/it] 10%|█         | 2/20 [00:14<02:00,  6.71s/it] 15%|█▌        | 3/20 [00:18<01:31,  5.36s/it] 20%|██        | 4/20 [00:22<01:16,  4.77s/it] 25%|██▌       | 5/20 [00:26<01:06,  4.40s/it] 30%|███       | 6/20 [00:29<00:58,  4.19s/it] 35%|███▌      | 7/20 [00:33<00:52,  4.03s/it] 40%|████      | 8/20 [00:37<00:47,  3.94s/it] 45%|████▌     | 9/20 [00:41<00:42,  3.89s/it] 50%|█████     | 10/20 [00:44<00:38,  3.83s/it] 55%|█████▌    | 11/20 [00:48<00:34,  3.86s/it] 60%|██████    | 12/20 [00:52<00:30,  3.81s/it] 65%|██████▌   | 13/20 [00:56<00:26,  3.79s/it] 70%|███████   | 14/20 [00:59<00:22,  3.76s/it] 75%|███████▌  | 15/20 [01:03<00:18,  3.75s/it] 80%|████████  | 16/20 [01:07<00:14,  3.74s/it] 85%|████████▌ | 17/20 [01:10<00:11,  3.72s/it] 90%|█████████ | 18/20 [01:14<00:07,  3.72s/it] 95%|█████████▌| 19/20 [01:18<00:03,  3.74s/it]100%|██████████| 20/20 [01:22<00:00,  3.73s/it]100%|██████████| 20/20 [01:22<00:00,  4.11s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:33,  4.90s/it] 10%|█         | 2/20 [00:06<00:53,  2.95s/it] 15%|█▌        | 3/20 [00:08<00:39,  2.32s/it] 20%|██        | 4/20 [00:09<00:32,  2.05s/it] 25%|██▌       | 5/20 [00:11<00:29,  1.94s/it] 30%|███       | 6/20 [00:13<00:25,  1.82s/it] 35%|███▌      | 7/20 [00:14<00:23,  1.80s/it] 40%|████      | 8/20 [00:16<00:20,  1.71s/it] 45%|████▌     | 9/20 [00:18<00:19,  1.73s/it] 50%|█████     | 10/20 [00:19<00:16,  1.67s/it] 55%|█████▌    | 11/20 [00:21<00:14,  1.62s/it] 60%|██████    | 12/20 [00:22<00:12,  1.56s/it] 65%|██████▌   | 13/20 [00:23<00:10,  1.48s/it] 70%|███████   | 14/20 [00:25<00:08,  1.42s/it] 75%|███████▌  | 15/20 [00:26<00:06,  1.37s/it] 80%|████████  | 16/20 [00:27<00:05,  1.35s/it] 85%|████████▌ | 17/20 [00:28<00:03,  1.32s/it] 90%|█████████ | 18/20 [00:30<00:02,  1.32s/it] 95%|█████████▌| 19/20 [00:31<00:01,  1.30s/it]100%|██████████| 20/20 [00:32<00:00,  1.31s/it]100%|██████████| 20/20 [00:32<00:00,  1.64s/it]
+TESTING DONE
+ConvNext_Tiny_865_20x+50x_texture_scratch_unfrozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:10<03:21, 10.60s/it] 10%|█         | 2/20 [00:14<01:58,  6.58s/it] 15%|█▌        | 3/20 [00:18<01:29,  5.27s/it] 20%|██        | 4/20 [00:21<01:14,  4.66s/it] 25%|██▌       | 5/20 [00:25<01:05,  4.35s/it] 30%|███       | 6/20 [00:29<00:57,  4.13s/it] 35%|███▌      | 7/20 [00:32<00:51,  3.98s/it] 40%|████      | 8/20 [00:36<00:46,  3.90s/it] 45%|████▌     | 9/20 [00:40<00:42,  3.84s/it] 50%|█████     | 10/20 [00:44<00:38,  3.81s/it] 55%|█████▌    | 11/20 [00:47<00:34,  3.79s/it] 60%|██████    | 12/20 [00:51<00:30,  3.75s/it] 65%|██████▌   | 13/20 [00:55<00:26,  3.76s/it] 70%|███████   | 14/20 [00:59<00:22,  3.74s/it] 75%|███████▌  | 15/20 [01:02<00:18,  3.73s/it] 80%|████████  | 16/20 [01:06<00:14,  3.71s/it] 85%|████████▌ | 17/20 [01:10<00:11,  3.70s/it] 90%|█████████ | 18/20 [01:13<00:07,  3.69s/it] 95%|█████████▌| 19/20 [01:17<00:03,  3.70s/it]100%|██████████| 20/20 [01:21<00:00,  3.70s/it]100%|██████████| 20/20 [01:21<00:00,  4.06s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:34,  4.95s/it] 10%|█         | 2/20 [00:06<00:54,  3.03s/it] 15%|█▌        | 3/20 [00:08<00:42,  2.47s/it] 20%|██        | 4/20 [00:10<00:34,  2.17s/it] 25%|██▌       | 5/20 [00:11<00:30,  2.05s/it] 30%|███       | 6/20 [00:13<00:27,  1.94s/it] 35%|███▌      | 7/20 [00:15<00:23,  1.83s/it] 40%|████      | 8/20 [00:16<00:20,  1.75s/it] 45%|████▌     | 9/20 [00:18<00:18,  1.67s/it] 50%|█████     | 10/20 [00:20<00:16,  1.68s/it] 55%|█████▌    | 11/20 [00:21<00:14,  1.63s/it] 60%|██████    | 12/20 [00:23<00:12,  1.60s/it] 65%|██████▌   | 13/20 [00:24<00:10,  1.55s/it] 70%|███████   | 14/20 [00:26<00:09,  1.54s/it] 75%|███████▌  | 15/20 [00:27<00:07,  1.48s/it] 80%|████████  | 16/20 [00:28<00:05,  1.45s/it] 85%|████████▌ | 17/20 [00:30<00:04,  1.45s/it] 90%|█████████ | 18/20 [00:31<00:02,  1.41s/it] 95%|█████████▌| 19/20 [00:32<00:01,  1.39s/it]100%|██████████| 20/20 [00:34<00:00,  1.37s/it]100%|██████████| 20/20 [00:34<00:00,  1.71s/it]
+TESTING DONE
+ConvNext_Tiny_865_20x+50x_heightmap_pretrained_frozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:06<00:57,  6.38s/it] 20%|██        | 2/10 [00:08<00:32,  4.00s/it] 30%|███       | 3/10 [00:10<00:22,  3.18s/it] 40%|████      | 4/10 [00:13<00:16,  2.79s/it] 50%|█████     | 5/10 [00:15<00:12,  2.56s/it] 60%|██████    | 6/10 [00:17<00:09,  2.42s/it] 70%|███████   | 7/10 [00:19<00:07,  2.35s/it] 80%|████████  | 8/10 [00:21<00:04,  2.32s/it] 90%|█████████ | 9/10 [00:24<00:02,  2.30s/it]100%|██████████| 10/10 [00:26<00:00,  2.28s/it]100%|██████████| 10/10 [00:26<00:00,  2.64s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:42,  4.71s/it] 20%|██        | 2/10 [00:05<00:21,  2.69s/it] 30%|███       | 3/10 [00:07<00:14,  2.05s/it] 40%|████      | 4/10 [00:08<00:10,  1.83s/it] 50%|█████     | 5/10 [00:10<00:08,  1.65s/it] 60%|██████    | 6/10 [00:11<00:06,  1.52s/it] 70%|███████   | 7/10 [00:12<00:04,  1.44s/it] 80%|████████  | 8/10 [00:13<00:02,  1.40s/it] 90%|█████████ | 9/10 [00:15<00:01,  1.36s/it]100%|██████████| 10/10 [00:16<00:00,  1.34s/it]100%|██████████| 10/10 [00:16<00:00,  1.65s/it]
+TESTING DONE
+ConvNext_Tiny_865_20x+50x_heightmap_pretrained_frozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:06<00:57,  6.34s/it] 20%|██        | 2/10 [00:08<00:31,  3.92s/it] 30%|███       | 3/10 [00:10<00:21,  3.13s/it] 40%|████      | 4/10 [00:12<00:16,  2.77s/it] 50%|█████     | 5/10 [00:15<00:13,  2.60s/it] 60%|██████    | 6/10 [00:17<00:09,  2.47s/it] 70%|███████   | 7/10 [00:19<00:07,  2.40s/it] 80%|████████  | 8/10 [00:21<00:04,  2.33s/it] 90%|█████████ | 9/10 [00:24<00:02,  2.28s/it]100%|██████████| 10/10 [00:26<00:00,  2.25s/it]100%|██████████| 10/10 [00:26<00:00,  2.63s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:41,  4.63s/it] 20%|██        | 2/10 [00:06<00:21,  2.71s/it] 30%|███       | 3/10 [00:07<00:14,  2.07s/it] 40%|████      | 4/10 [00:08<00:10,  1.78s/it] 50%|█████     | 5/10 [00:10<00:08,  1.63s/it] 60%|██████    | 6/10 [00:11<00:06,  1.52s/it] 70%|███████   | 7/10 [00:12<00:04,  1.44s/it] 80%|████████  | 8/10 [00:13<00:02,  1.39s/it] 90%|█████████ | 9/10 [00:15<00:01,  1.35s/it]100%|██████████| 10/10 [00:16<00:00,  1.33s/it]100%|██████████| 10/10 [00:16<00:00,  1.64s/it]
+TESTING DONE
+ConvNext_Tiny_865_20x+50x_heightmap_pretrained_unfrozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:07<01:03,  7.10s/it] 20%|██        | 2/10 [00:10<00:40,  5.11s/it] 30%|███       | 3/10 [00:14<00:31,  4.48s/it] 40%|████      | 4/10 [00:18<00:25,  4.19s/it] 50%|█████     | 5/10 [00:21<00:20,  4.01s/it] 60%|██████    | 6/10 [00:25<00:15,  3.91s/it] 70%|███████   | 7/10 [00:29<00:11,  3.84s/it] 80%|████████  | 8/10 [00:33<00:07,  3.81s/it] 90%|█████████ | 9/10 [00:36<00:03,  3.77s/it]100%|██████████| 10/10 [00:40<00:00,  3.75s/it]100%|██████████| 10/10 [00:40<00:00,  4.05s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:41,  4.59s/it] 20%|██        | 2/10 [00:06<00:22,  2.79s/it] 30%|███       | 3/10 [00:07<00:15,  2.19s/it] 40%|████      | 4/10 [00:08<00:11,  1.86s/it] 50%|█████     | 5/10 [00:10<00:08,  1.70s/it] 60%|██████    | 6/10 [00:11<00:06,  1.60s/it] 70%|███████   | 7/10 [00:13<00:04,  1.50s/it] 80%|████████  | 8/10 [00:14<00:02,  1.44s/it] 90%|█████████ | 9/10 [00:15<00:01,  1.41s/it]100%|██████████| 10/10 [00:17<00:00,  1.37s/it]100%|██████████| 10/10 [00:17<00:00,  1.70s/it]
+TESTING DONE
+ConvNext_Tiny_865_20x+50x_heightmap_pretrained_unfrozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:08<01:13,  8.21s/it] 20%|██        | 2/10 [00:11<00:44,  5.55s/it] 30%|███       | 3/10 [00:15<00:32,  4.71s/it] 40%|████      | 4/10 [00:19<00:25,  4.32s/it] 50%|█████     | 5/10 [00:23<00:20,  4.09s/it] 60%|██████    | 6/10 [00:26<00:15,  3.96s/it] 70%|███████   | 7/10 [00:30<00:11,  3.87s/it] 80%|████████  | 8/10 [00:34<00:07,  3.84s/it] 90%|█████████ | 9/10 [00:37<00:03,  3.80s/it]100%|██████████| 10/10 [00:41<00:00,  3.76s/it]100%|██████████| 10/10 [00:41<00:00,  4.16s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:04<00:41,  4.58s/it] 20%|██        | 2/10 [00:06<00:22,  2.76s/it] 30%|███       | 3/10 [00:07<00:14,  2.10s/it] 40%|████      | 4/10 [00:08<00:10,  1.82s/it] 50%|█████     | 5/10 [00:10<00:08,  1.61s/it] 60%|██████    | 6/10 [00:11<00:05,  1.49s/it] 70%|███████   | 7/10 [00:12<00:04,  1.41s/it] 80%|████████  | 8/10 [00:13<00:02,  1.36s/it] 90%|█████████ | 9/10 [00:15<00:01,  1.32s/it]100%|██████████| 10/10 [00:16<00:00,  1.30s/it]100%|██████████| 10/10 [00:16<00:00,  1.63s/it]
+TESTING DONE
+ConvNext_Tiny_865_20x+50x_heightmap_scratch_frozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:05<01:51,  5.88s/it] 10%|█         | 2/20 [00:08<01:06,  3.70s/it] 15%|█▌        | 3/20 [00:10<00:51,  3.01s/it] 20%|██        | 4/20 [00:12<00:42,  2.67s/it] 25%|██▌       | 5/20 [00:14<00:37,  2.50s/it] 30%|███       | 6/20 [00:16<00:33,  2.38s/it] 35%|███▌      | 7/20 [00:18<00:30,  2.32s/it] 40%|████      | 8/20 [00:21<00:27,  2.26s/it] 45%|████▌     | 9/20 [00:23<00:24,  2.26s/it] 50%|█████     | 10/20 [00:25<00:22,  2.23s/it] 55%|█████▌    | 11/20 [00:27<00:20,  2.24s/it] 60%|██████    | 12/20 [00:29<00:17,  2.23s/it] 65%|██████▌   | 13/20 [00:32<00:15,  2.22s/it] 70%|███████   | 14/20 [00:34<00:13,  2.20s/it] 75%|███████▌  | 15/20 [00:36<00:10,  2.19s/it] 80%|████████  | 16/20 [00:38<00:08,  2.18s/it] 85%|████████▌ | 17/20 [00:40<00:06,  2.17s/it] 90%|█████████ | 18/20 [00:42<00:04,  2.17s/it] 95%|█████████▌| 19/20 [00:45<00:02,  2.19s/it]100%|██████████| 20/20 [00:47<00:00,  2.18s/it]100%|██████████| 20/20 [00:47<00:00,  2.37s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:05<01:36,  5.07s/it] 10%|█         | 2/20 [00:06<00:54,  3.02s/it] 15%|█▌        | 3/20 [00:08<00:39,  2.35s/it] 20%|██        | 4/20 [00:09<00:30,  1.94s/it] 25%|██▌       | 5/20 [00:11<00:27,  1.84s/it] 30%|███       | 6/20 [00:12<00:24,  1.74s/it] 35%|███▌      | 7/20 [00:14<00:21,  1.67s/it] 40%|████      | 8/20 [00:15<00:18,  1.57s/it] 45%|████▌     | 9/20 [00:16<00:16,  1.50s/it] 50%|█████     | 10/20 [00:18<00:14,  1.49s/it] 55%|█████▌    | 11/20 [00:19<00:13,  1.46s/it] 60%|██████    | 12/20 [00:21<00:11,  1.45s/it] 65%|██████▌   | 13/20 [00:22<00:09,  1.40s/it] 70%|███████   | 14/20 [00:23<00:08,  1.34s/it] 75%|███████▌  | 15/20 [00:24<00:06,  1.32s/it] 80%|████████  | 16/20 [00:26<00:05,  1.28s/it] 85%|████████▌ | 17/20 [00:27<00:03,  1.26s/it] 90%|█████████ | 18/20 [00:28<00:02,  1.24s/it] 95%|█████████▌| 19/20 [00:29<00:01,  1.24s/it]100%|██████████| 20/20 [00:31<00:00,  1.25s/it]100%|██████████| 20/20 [00:31<00:00,  1.56s/it]
+TESTING DONE
+ConvNext_Tiny_865_20x+50x_heightmap_scratch_frozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:06<02:11,  6.93s/it] 10%|█         | 2/20 [00:09<01:15,  4.17s/it] 15%|█▌        | 3/20 [00:11<00:55,  3.29s/it] 20%|██        | 4/20 [00:13<00:45,  2.87s/it] 25%|██▌       | 5/20 [00:15<00:39,  2.63s/it] 30%|███       | 6/20 [00:18<00:34,  2.48s/it] 35%|███▌      | 7/20 [00:20<00:31,  2.39s/it] 40%|████      | 8/20 [00:22<00:27,  2.32s/it] 45%|████▌     | 9/20 [00:24<00:24,  2.27s/it] 50%|█████     | 10/20 [00:26<00:22,  2.27s/it] 55%|█████▌    | 11/20 [00:29<00:20,  2.24s/it] 60%|██████    | 12/20 [00:31<00:17,  2.22s/it] 65%|██████▌   | 13/20 [00:33<00:15,  2.21s/it] 70%|███████   | 14/20 [00:35<00:13,  2.22s/it] 75%|███████▌  | 15/20 [00:37<00:10,  2.20s/it] 80%|████████  | 16/20 [00:39<00:08,  2.19s/it] 85%|████████▌ | 17/20 [00:42<00:06,  2.18s/it] 90%|█████████ | 18/20 [00:44<00:04,  2.19s/it] 95%|█████████▌| 19/20 [00:46<00:02,  2.19s/it]100%|██████████| 20/20 [00:48<00:00,  2.18s/it]100%|██████████| 20/20 [00:48<00:00,  2.43s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:34,  4.97s/it] 10%|█         | 2/20 [00:06<00:53,  2.97s/it] 15%|█▌        | 3/20 [00:08<00:40,  2.36s/it] 20%|██        | 4/20 [00:09<00:33,  2.11s/it] 25%|██▌       | 5/20 [00:11<00:28,  1.92s/it] 30%|███       | 6/20 [00:13<00:25,  1.84s/it] 35%|███▌      | 7/20 [00:14<00:22,  1.73s/it] 40%|████      | 8/20 [00:16<00:19,  1.66s/it] 45%|████▌     | 9/20 [00:17<00:17,  1.58s/it] 50%|█████     | 10/20 [00:19<00:15,  1.53s/it] 55%|█████▌    | 11/20 [00:20<00:13,  1.52s/it] 60%|██████    | 12/20 [00:21<00:12,  1.51s/it] 65%|██████▌   | 13/20 [00:23<00:10,  1.49s/it] 70%|███████   | 14/20 [00:24<00:08,  1.44s/it] 75%|███████▌  | 15/20 [00:26<00:07,  1.42s/it] 80%|████████  | 16/20 [00:27<00:05,  1.37s/it] 85%|████████▌ | 17/20 [00:28<00:04,  1.36s/it] 90%|█████████ | 18/20 [00:30<00:02,  1.38s/it] 95%|█████████▌| 19/20 [00:31<00:01,  1.35s/it]100%|██████████| 20/20 [00:32<00:00,  1.35s/it]100%|██████████| 20/20 [00:32<00:00,  1.64s/it]
+TESTING DONE
+ConvNext_Tiny_865_20x+50x_heightmap_scratch_unfrozen_vote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:09<02:55,  9.21s/it] 10%|█         | 2/20 [00:12<01:48,  6.01s/it] 15%|█▌        | 3/20 [00:16<01:24,  4.96s/it] 20%|██        | 4/20 [00:20<01:11,  4.46s/it] 25%|██▌       | 5/20 [00:24<01:03,  4.20s/it] 30%|███       | 6/20 [00:27<00:56,  4.02s/it] 35%|███▌      | 7/20 [00:31<00:50,  3.92s/it] 40%|████      | 8/20 [00:35<00:46,  3.85s/it] 45%|████▌     | 9/20 [00:38<00:41,  3.80s/it] 50%|█████     | 10/20 [00:42<00:37,  3.79s/it] 55%|█████▌    | 11/20 [00:46<00:33,  3.75s/it] 60%|██████    | 12/20 [00:50<00:29,  3.74s/it] 65%|██████▌   | 13/20 [00:53<00:26,  3.73s/it] 70%|███████   | 14/20 [00:57<00:22,  3.73s/it] 75%|███████▌  | 15/20 [01:01<00:18,  3.73s/it] 80%|████████  | 16/20 [01:04<00:14,  3.72s/it] 85%|████████▌ | 17/20 [01:08<00:11,  3.72s/it] 90%|█████████ | 18/20 [01:12<00:07,  3.74s/it] 95%|█████████▌| 19/20 [01:16<00:03,  3.75s/it]100%|██████████| 20/20 [01:19<00:00,  3.74s/it]100%|██████████| 20/20 [01:19<00:00,  3.99s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:05<01:40,  5.30s/it] 10%|█         | 2/20 [00:06<00:55,  3.07s/it] 15%|█▌        | 3/20 [00:08<00:40,  2.38s/it] 20%|██        | 4/20 [00:10<00:33,  2.11s/it] 25%|██▌       | 5/20 [00:11<00:30,  2.03s/it] 30%|███       | 6/20 [00:13<00:26,  1.90s/it] 35%|███▌      | 7/20 [00:15<00:23,  1.84s/it] 40%|████      | 8/20 [00:17<00:21,  1.80s/it] 45%|████▌     | 9/20 [00:18<00:18,  1.67s/it] 50%|█████     | 10/20 [00:20<00:16,  1.65s/it] 55%|█████▌    | 11/20 [00:21<00:14,  1.60s/it] 60%|██████    | 12/20 [00:23<00:13,  1.64s/it] 65%|██████▌   | 13/20 [00:24<00:11,  1.57s/it] 70%|███████   | 14/20 [00:26<00:09,  1.54s/it] 75%|███████▌  | 15/20 [00:27<00:07,  1.48s/it] 80%|████████  | 16/20 [00:28<00:05,  1.46s/it] 85%|████████▌ | 17/20 [00:30<00:04,  1.42s/it] 90%|█████████ | 18/20 [00:31<00:02,  1.39s/it] 95%|█████████▌| 19/20 [00:32<00:01,  1.41s/it]100%|██████████| 20/20 [00:34<00:00,  1.39s/it]100%|██████████| 20/20 [00:34<00:00,  1.72s/it]
+TESTING DONE
+ConvNext_Tiny_865_20x+50x_heightmap_scratch_unfrozen_novote STARTED
+DATA LOADED
+MODEL LOADED
+STEPS_PER_EPOCH: 3
+VALIDATION STEPS: 1
+SETUP DONE
+TRAINING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:09<03:06,  9.83s/it] 10%|█         | 2/20 [00:13<01:53,  6.30s/it] 15%|█▌        | 3/20 [00:17<01:26,  5.12s/it] 20%|██        | 4/20 [00:21<01:13,  4.57s/it] 25%|██▌       | 5/20 [00:24<01:03,  4.26s/it] 30%|███       | 6/20 [00:28<00:56,  4.07s/it] 35%|███▌      | 7/20 [00:32<00:51,  3.96s/it] 40%|████      | 8/20 [00:35<00:46,  3.87s/it] 45%|████▌     | 9/20 [00:39<00:41,  3.81s/it] 50%|█████     | 10/20 [00:43<00:37,  3.78s/it] 55%|█████▌    | 11/20 [00:47<00:33,  3.76s/it] 60%|██████    | 12/20 [00:50<00:29,  3.74s/it] 65%|██████▌   | 13/20 [00:54<00:26,  3.73s/it] 70%|███████   | 14/20 [00:58<00:22,  3.73s/it] 75%|███████▌  | 15/20 [01:01<00:18,  3.74s/it] 80%|████████  | 16/20 [01:05<00:14,  3.72s/it] 85%|████████▌ | 17/20 [01:09<00:11,  3.73s/it] 90%|█████████ | 18/20 [01:13<00:07,  3.71s/it] 95%|█████████▌| 19/20 [01:16<00:03,  3.71s/it]100%|██████████| 20/20 [01:20<00:00,  3.72s/it]100%|██████████| 20/20 [01:20<00:00,  4.02s/it]
+TRAINING DONE
+TESTING STARTED
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:04<01:34,  4.96s/it] 10%|█         | 2/20 [00:06<00:55,  3.10s/it] 15%|█▌        | 3/20 [00:08<00:41,  2.47s/it] 20%|██        | 4/20 [00:10<00:33,  2.12s/it] 25%|██▌       | 5/20 [00:11<00:28,  1.91s/it] 30%|███       | 6/20 [00:13<00:25,  1.84s/it] 35%|███▌      | 7/20 [00:14<00:22,  1.76s/it] 40%|████      | 8/20 [00:16<00:20,  1.67s/it] 45%|████▌     | 9/20 [00:17<00:18,  1.65s/it] 50%|█████     | 10/20 [00:19<00:16,  1.61s/it] 55%|█████▌    | 11/20 [00:20<00:13,  1.54s/it] 60%|██████    | 12/20 [00:22<00:12,  1.52s/it] 65%|██████▌   | 13/20 [00:23<00:10,  1.49s/it] 70%|███████   | 14/20 [00:25<00:08,  1.43s/it] 75%|███████▌  | 15/20 [00:26<00:06,  1.39s/it] 80%|████████  | 16/20 [00:27<00:05,  1.37s/it] 85%|████████▌ | 17/20 [00:28<00:04,  1.34s/it] 90%|█████████ | 18/20 [00:30<00:02,  1.34s/it] 95%|█████████▌| 19/20 [00:31<00:01,  1.32s/it]100%|██████████| 20/20 [00:32<00:00,  1.31s/it]100%|██████████| 20/20 [00:32<00:00,  1.64s/it]
+TESTING DONE
