@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="LUWA Dataset: Learning Lithic Use-Wear Analysis on Microscopic Images">
+  <meta name="keywords" content="Robot Learning, Robot Perception, Sensors & Vision,Robot State Estimation, Localization & Mapping">     
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>LUWA</title>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-PYVRSFMDRL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-PYVRSFMDRL');
+  </script> -->
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
+
+  <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> -->
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+  <script src="./static/js/copy2clipboard.js"></script>
+  <script type="text/javascript" async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+  <link rel="shortcut icon" type="image/x-icon" href="./static/images/ai4ce.png" />
+</head>
+<body>
+
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+  <div class="navbar-menu">
+    <div class="navbar-start" style="flex-grow: 1; justify-content: center;">
+      <a class="navbar-item" href="https://ai4ce.github.io/">
+      <span class="icon">
+          <i class="fas fa-home"></i>
+      </span>
+      </a>
+
+    </div>
+
+  </div>
+</nav>
+
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">
+            <!-- <img src="./static/images/logo.png" width="45"> -->
+            LUWA Dataset: Learning Lithic Use-Wear Analysis on Microscopic Images&nbsp;&nbsp;
+          </h1>
+          <!-- <h1 class="title is-1 publication-title">Learning Lithic Use-Wear Analysis on Microscopic Images</h1> -->
+          <div class="column is-full_width">
+            <h2 class="title is-3"><a href="https://cvpr.thecvf.com/">CVPR 2024</a></h2>
+          </div>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="https://jingz.github.io/">Jing Zhang</a><sup>*,1</sup>,</span>
+            <span class="author-block">
+              <a href="https://irvingf7.github.io/">Irving Fang</a><sup>*,1</sup>,</span>
+            <span class="author-block">
+              <a href="https://www.linkedin.com/in/hao-wu-8bbb7724a/">Hao Wu</a><sup>1</sup>,</span>
+            <span class="author-block">
+              <a href="https://www.linkedin.com/in/akshat-kaushik/">Akshat Kaushik</a><sup>1</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://as.nyu.edu/departments/anthropology/people/graduate-students/doctoral-students/alice-rodriguez.html">Alice Rodriguez</a><sup>1</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://www.linkedin.com/in/hanwen-zhao-2523a4104/">Hanwen Zhao</a><sup>1</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://juexzz.github.io/">Juexiao Zhang</a><sup>1</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://zhuozheng.top/">Zhuo Zheng</a><sup>2</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://wp.nyu.edu/faculty-iovita/">Radu Iovita</a><sup>1</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://scholar.google.com/citations?user=YeG8ZM0AAAAJ">Chen Feng</a><sup>&dagger;,1</sup>
+            </span>
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block"><sup>1</sup> New York University &nbsp; <sup>2</sup> Stanford University</span>
+          </div>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block"><sup>*</sup> Equal Contribution &nbsp; <sup>&dagger;</sup> Corresponding Author </span>
+          </div>
+
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <span class="link-block">
+                 <!-- add here later. -->
+                <a href="https://arxiv.org/abs/2403.13171"                
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <!-- add here later. -->
+               <!-- <a href=""                    
+                  class="external-link button is-normal is-rounded is-dark">
+                 <span class="icon">
+                     <i class="fas fa-camera"></i>
+                 </span>
+                 <span>Appendix</span>
+               </a> -->
+             </span>
+              <!-- Video Link. -->
+              <!-- <span class="link-block">
+                <a href="https://www.youtube.com/watch?v=MrKrnHhk8IA"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-youtube"></i>
+                  </span>
+                  <span>Video</span>
+                </a>
+              </span> -->
+              <!-- Code Link. -->
+              <span class="link-block">
+                <a href="https://github.com/ai4ce/LUWA"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-github"></i>
+                  </span>
+                  <span>Code</span>
+                  </a>
+              </span>
+              <!-- Dataset Link. -->
+              <span class="link-block">
+                <a href="https://huggingface.co/datasets/ai4ce/LUA_Dataset"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="far fa-images"></i>
+                  </span>
+                  <span>Data</span>
+                </a>
+              </span>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <!-- <video id="teaser" controls loop height="100%">
+        <source src="./static/video/Multimedia.mp4"
+                type="video/mp4">
+      </video> -->
+      <!-- <img class="rounded" src="./media/nice-slam/teaser.png" > -->
+      <!-- <br><br><br> -->
+      <!-- <h2 class="subtitle has-text-centered">
+      Project explanation
+      </h2> -->
+    <!-- <h2 class="subtitle has-text-centered">
+      (The <span style="color:#000000;">black</span> / <span style="color:#ff0000;">red</span> lines are the ground truth / predicted camera trajectory)
+    </h2> -->    
+    </div>
+  </div>
+</section>
+
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <video id="teaser" autoplay muted loop height="100%">
+        <source src="./static/videos/01_fig1.mp4"
+                type="video/mp4">
+      </video>
+      <!-- <img src="./static/images/kitti_map.jpg" height="300"> -->
+      
+      <!-- <img class="rounded" src="./static/videos/01_fig1.mp4" > -->
+      <br><br><br>
+        <h2 class="subtitle has-text-centered">
+          LUWA poses a unique computer vision challenge due to: its complex wear formation and irregular wear patterns, ambiguous sensing modalities and magnifications in microscopic imaging. Facing these challenges, the LUWA dataset encompasses both texture and heightmap with different magnifications, encouraging the exploration of image classification beyond common objects.
+        </h2>
+
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container is-max-desktop">
+        <!-- Paper video. -->
+        <!-- <div class="columns is-centered has-text-centered">
+          <div class="column is-four-fifths">
+            <h2 class="title is-3">Video</h2>
+            <div class="publication-video">
+              <iframe src="https://www.youtube.com/embed/V5hYTz5os0M?rel=0&amp;showinfo=0"
+                      frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </div>
+          </div>
+        </div> -->
+        <!--/ Paper video. -->
+      
+    <!-- <br> -->
+    <!-- Abstract. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+         <p>
+          Lithic Use-Wear Analysis (LUWA) using microscopic images is an underexplored vision-for-science research area. It seeks to distinguish the worked material, which is critical for understanding archaeological artifacts, material interactions, tool functionalities, and dental records. However, this challenging task goes beyond the well-studied image classification problem for common objects. It is affected by many confounders owing to the complex wear mechanism and microscopic imaging, which makes it difficult even for human experts to identify the worked material successfully. In this paper, we investigate the following three questions on this unique vision task for the first time:(i) How well can state-of-the-art pre-trained models (like DINOv2) generalize to the rarely seen domain? (i) How can few-shot learning be exploited for scarce microscopic images? (i) How do the ambiguous magnification and sensing modality influence the classification accuracy? To study these, we collaborated with archaeologists and built the first open-source and the largest LUWA dataset containing 23,130 microscopic images with different magnifications and sensing modalities. Extensive experiments show that existing pre-trained models notably outperform human experts but still leave a large gap for improvements. Most importantly, the LUWA dataset provides an underexplored opportunity for vision and learning communities and complements existing image classification problems on common objects.
+        </p>
+        </div>
+      </div>
+    </div>
+    <!-- Abstract. -->  
+    
+    <!-- Dataset. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Demonstration</h2>
+        <img src="./static/images/03_fig01.png" class="center"/>
+        <div class="content has-text-justified">
+         <p>
+          Image diversity of LUWA dataset and corresponding visual explanations for human and model decision-making processes. (i) LUWA dataset provides diverse microscopic images associated with spatial distributions (e.g. Regions 1 and 2), magnifications (e.g. Regions 2 and 4) and sensing modalities (texture in the first row and heightmap in the second row); (ii) We compared visual explanations in both human (in the third row) and model (in the fourth row) decision-making processes. Human experts labeled the most important region with red and the less important region with yellow when looking at details of microscopic images to distinguish the worked material. Similarly, Grad-CAM heatmaps use red for the highest importance, yellow for lower importance, and blue for the lowest importance. Interestingly, similar areas (e.g. Regions 1, 4 and 6) are labeled with higher importance for both humans and models.
+        </p>
+        </div>
+      </div>
+    </div>
+    <!-- Dataset. --> 
+          
+        
+          
+             
+          
+          
+
+          <section class="section" id="BibTeX">
+            <div class="container is-max-desktop content">
+              <h2 class="title">BibTeX</h2>
+              <pre><code>@misc{zhang2024luwa,
+            title         ={LUWA Dataset: Learning Lithic Use-Wear Analysis on Microscopic Images}, 
+            author        ={Jing Zhang and Irving Fang and Juexiao Zhang and Hao Wu and Akshat Kaushik and Alice Rodriguez and Hanwen Zhao and Zhuo Zheng and Radu Iovita and Chen Feng},
+            year          ={2024},
+            eprint        ={2403.13171},
+            archivePrefix ={arXiv},
+            primaryClass  ={cs.CV}
+            }</code></pre>
+            </div>
+          </section>
+          
+          
+          <section class="section" id="Acknowledgements">
+            <div class="container is-max-desktop content">
+              <h2 class="title">Acknowledgements</h2>
+              This work is supported by NSF Grant 2152565, and by NYU IT High-Performance Computing
+resources, services, and staff expertise. We gratefully acknowledge Sara Borsodi, Felix Devis Kisena, Kat Liu, Eugenia Ochoa, Vita Jackman Kuwabara, Alice Jiang, Meiyu Zhang, and Sriram Koushik for their valuable assistance in collecting the microscopic images.
+            </div>
+          </section>
+          
+          
+          <footer class="footer">
+            <div class="container">
+              <div class="columns is-centered">
+                <div class="column is-8">
+                  <div class="content">
+                    <p>
+                      This website is licensed under a <a rel="license"
+                                                          href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                      Commons Attribution-ShareAlike 4.0 International License</a>.
+                      This webpage template is from <a href="https://github.com/nerfies/nerfies.github.io">Nerfies</a>. 
+                      We sincerely thank <a href="https://keunhong.com/">Keunhong Park</a> for developing and open-sourcing this template.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </footer>
+          
+          </body>
+          </html>
