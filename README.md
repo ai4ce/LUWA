@@ -13,7 +13,9 @@ We utilized `PyTorch 2.1.1` to access some of its exclusive features such as `to
 
 
 ## Dataset
-Please visit our [Hugging Face repo](https://huggingface.co/datasets/ai4ce/LUWA/tree/main) to access the dataset. Please refer to `transfer_learning/data_utils/data_tribology.py` for how to process them. 
+Please visit our [Hugging Face repo](https://huggingface.co/datasets/ai4ce/LUWA/tree/main) to access the dataset. 
+
+Please refer to `transfer_learning/data_utils/data_tribology.py` for how to process them. 
 
 1. we use integers to label stone that has been worked again certain material as follows:
     | Material    | Integer |
