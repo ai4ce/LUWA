@@ -3,7 +3,7 @@
 [Jing Zhang](https://jingz6676.github.io//)\*, [Irving Fang](https://irvingf7.github.io/)\*,  [Hao Wu](https://www.linkedin.com/in/hao-wu-8bbb7724a/), [Akshat Kaushik](https://www.linkedin.com/in/akshat-kaushik/), [Alice Rodriguez](https://as.nyu.edu/departments/anthropology/people/graduate-students/doctoral-students/alice-rodriguez.html), [Hanwen Zhao](https://www.linkedin.com/in/hanwen-zhao-2523a4104/), [Juexiao Zhang](https://juexzz.github.io/), [Zhuo Zheng](https://zhuozheng.top/), [Radu Iovita](https://wp.nyu.edu/faculty-iovita/), [Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ)
 
 ## Project Website
-Please visit [our project website](https://ai4ce.github.io/EgoPAT3Dv2/) for more information, including an interactive demo with real artifacts.
+Please visit [our project website](https://ai4ce.github.io/LUWA/) for more information, including an interactive demo with real artifacts.
 
 
 ## Environment Setup
@@ -64,3 +64,16 @@ To reproduce the results in the *Fully-Supervised Image Classification* section 
 
 ## Few-Shot Image Classification
 in the *Few-Shot Image Classification* section of the paper, please refer to the `fewshot_learning` folder.
+
+## Citation
+If you find our work helpful in your research, please consider citing the following:
+```
+@InProceedings{Zhang_2024_CVPR,
+    author    = {Zhang, Jing and Fang, Irving and Wu, Hao and Kaushik, Akshat and Rodriguez, Alice and Zhao, Hanwen and Zhang, Juexiao and Zheng, Zhuo and Iovita, Radu and Feng, Chen},
+    title     = {LUWA Dataset: Learning Lithic Use-Wear Analysis on Microscopic Images},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {22563-22573}
+}
+```
