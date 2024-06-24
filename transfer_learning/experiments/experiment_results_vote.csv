@@ -1,0 +1,359 @@
+Model Name,Granularity,Magnification,Modality,Training Strategy,Accuracy
+ResNet152,512,20x,texture,From Scratch,48.89
+ResNet152,512,20x,texture,Need to delete,50.58
+ResNet152,512,20x,texture,Full-Parameter Fine-Tuning,33.02
+ResNet152,512,20x,texture,Linear Probing,36.72
+ResNet152,512,20x,heightmap,From Scratch,34.92
+ResNet152,512,20x,heightmap,Need to delete,28.47
+ResNet152,512,20x,heightmap,Full-Parameter Fine-Tuning,27.94
+ResNet152,512,20x,heightmap,Linear Probing,35.45
+ResNet152,512,20x+50x,texture,From Scratch,38.25
+ResNet152,512,20x+50x,texture,Need to delete,37.5
+ResNet152,512,20x+50x,texture,Full-Parameter Fine-Tuning,44.25
+ResNet152,512,20x+50x,texture,Linear Probing,58.5
+ResNet152,512,20x+50x,heightmap,From Scratch,47.79
+ResNet152,512,20x+50x,heightmap,Need to delete,38.24
+ResNet152,512,20x+50x,heightmap,Full-Parameter Fine-Tuning,44.12
+ResNet152,512,20x+50x,heightmap,Linear Probing,61.76
+ResNet152,512,50x,texture,From Scratch,30.77
+ResNet152,512,50x,texture,Need to delete,28.85
+ResNet152,512,50x,texture,Full-Parameter Fine-Tuning,28.85
+ResNet152,512,50x,texture,Linear Probing,51.92
+ResNet152,512,50x,heightmap,From Scratch,39.42
+ResNet152,512,50x,heightmap,Need to delete,31.73
+ResNet152,512,50x,heightmap,Full-Parameter Fine-Tuning,29.81
+ResNet152,512,50x,heightmap,Linear Probing,53.85
+ResNet152,256,20x,texture,From Scratch,45.84
+ResNet152,256,20x,texture,Need to delete,33.13
+ResNet152,256,20x,texture,Full-Parameter Fine-Tuning,55.82
+ResNet152,256,20x,texture,Linear Probing,38.22
+ResNet152,256,20x,heightmap,From Scratch,40.61
+ResNet152,256,20x,heightmap,Need to delete,32.9
+ResNet152,256,20x,heightmap,Full-Parameter Fine-Tuning,34.8
+ResNet152,256,20x,heightmap,Linear Probing,38.54
+ResNet152,256,20x+50x,texture,From Scratch,50.91
+ResNet152,256,20x+50x,texture,Need to delete,46.59
+ResNet152,256,20x+50x,texture,Full-Parameter Fine-Tuning,46.14
+ResNet152,256,20x+50x,texture,Linear Probing,54.77
+ResNet152,256,20x+50x,heightmap,From Scratch,55.91
+ResNet152,256,20x+50x,heightmap,Need to delete,41.36
+ResNet152,256,20x+50x,heightmap,Full-Parameter Fine-Tuning,59.32
+ResNet152,256,20x+50x,heightmap,Linear Probing,67.05
+ResNet152,256,50x,texture,From Scratch,45.19
+ResNet152,256,50x,texture,Need to delete,32.69
+ResNet152,256,50x,texture,Full-Parameter Fine-Tuning,46.15
+ResNet152,256,50x,texture,Linear Probing,57.69
+ResNet152,256,50x,heightmap,From Scratch,41.35
+ResNet152,256,50x,heightmap,Need to delete,27.88
+ResNet152,256,50x,heightmap,Full-Parameter Fine-Tuning,49.04
+ResNet152,256,50x,heightmap,Linear Probing,58.65
+ResNet152,865,20x,texture,From Scratch,29.11
+ResNet152,865,20x,texture,Need to delete,33.54
+ResNet152,865,20x,texture,Full-Parameter Fine-Tuning,27.85
+ResNet152,865,20x,texture,Linear Probing,25.32
+ResNet152,865,20x,heightmap,From Scratch,15.82
+ResNet152,865,20x,heightmap,Need to delete,29.11
+ResNet152,865,20x,heightmap,Full-Parameter Fine-Tuning,27.85
+ResNet152,865,20x,heightmap,Linear Probing,31.65
+ResNet152,865,20x+50x,texture,From Scratch,27.5
+ResNet152,865,20x+50x,texture,Need to delete,33.33
+ResNet152,865,20x+50x,texture,Full-Parameter Fine-Tuning,26.67
+ResNet152,865,20x+50x,texture,Linear Probing,35.83
+ResNet152,865,20x+50x,heightmap,From Scratch,27.5
+ResNet152,865,20x+50x,heightmap,Need to delete,27.5
+ResNet152,865,20x+50x,heightmap,Full-Parameter Fine-Tuning,26.67
+ResNet152,865,20x+50x,heightmap,Linear Probing,57.5
+ResNet152,865,50x,texture,From Scratch,29.81
+ResNet152,865,50x,texture,Need to delete,37.5
+ResNet152,865,50x,texture,Full-Parameter Fine-Tuning,24.04
+ResNet152,865,50x,texture,Linear Probing,40.38
+ResNet152,865,50x,heightmap,From Scratch,33.65
+ResNet152,865,50x,heightmap,Need to delete,24.04
+ResNet152,865,50x,heightmap,Full-Parameter Fine-Tuning,27.88
+ResNet152,865,50x,heightmap,Linear Probing,50.96
+DINOv2,512,20x,texture,Linear Probing,43.07
+DINOv2,512,20x,heightmap,Linear Probing,36.72
+DINOv2,512,20x+50x,texture,Linear Probing,52.94
+DINOv2,512,20x+50x,heightmap,Linear Probing,58.09
+DINOv2,512,50x,texture,Linear Probing,54.81
+DINOv2,512,50x,heightmap,Linear Probing,54.81
+DINOv2,256,20x,texture,Linear Probing,54.39
+DINOv2,256,20x,heightmap,Linear Probing,32.67
+DINOv2,256,20x+50x,texture,Linear Probing,66.82
+DINOv2,256,20x+50x,heightmap,Linear Probing,66.14
+DINOv2,256,50x,texture,Linear Probing,55.77
+DINOv2,256,50x,heightmap,Linear Probing,59.62
+DINOv2,865,20x,texture,Linear Probing,39.87
+DINOv2,865,20x,heightmap,Linear Probing,43.04
+DINOv2,865,20x+50x,texture,Linear Probing,56.67
+DINOv2,865,20x+50x,heightmap,Linear Probing,53.33
+DINOv2,865,50x,texture,Linear Probing,55.77
+DINOv2,865,50x,heightmap,Linear Probing,51.92
+ViTH,512,20x,texture,Full-Parameter Fine-Tuning,23.92
+ViTH,512,20x,texture,Linear Probing,35.45
+ViTH,512,20x,heightmap,Full-Parameter Fine-Tuning,27.72
+ViTH,512,20x,heightmap,Linear Probing,42.43
+ViTH,512,20x+50x,texture,Full-Parameter Fine-Tuning,37.5
+ViTH,512,20x+50x,texture,Linear Probing,57.35
+ViTH,512,20x+50x,heightmap,Full-Parameter Fine-Tuning,35.29
+ViTH,512,20x+50x,heightmap,Linear Probing,62.5
+ViTH,512,50x,texture,Full-Parameter Fine-Tuning,27.88
+ViTH,512,50x,texture,Linear Probing,53.85
+ViTH,512,50x,heightmap,Full-Parameter Fine-Tuning,27.88
+ViTH,512,50x,heightmap,Linear Probing,55.77
+ViTH,256,20x,texture,Full-Parameter Fine-Tuning,31.52
+ViTH,256,20x,texture,Linear Probing,39.26
+ViTH,256,20x,heightmap,Full-Parameter Fine-Tuning,30.26
+ViTH,256,20x,heightmap,Linear Probing,46.79
+ViTH,256,20x+50x,texture,Full-Parameter Fine-Tuning,42.05
+ViTH,256,20x+50x,texture,Linear Probing,57.27
+ViTH,256,20x+50x,heightmap,Full-Parameter Fine-Tuning,42.05
+ViTH,256,20x+50x,heightmap,Linear Probing,50.45
+ViTH,256,50x,texture,Full-Parameter Fine-Tuning,29.81
+ViTH,256,50x,texture,Linear Probing,53.85
+ViTH,256,50x,heightmap,Full-Parameter Fine-Tuning,4.81
+ViTH,256,50x,heightmap,Linear Probing,56.73
+ViTH,865,20x,texture,Linear Probing,32.28
+ViTH,865,20x,heightmap,Full-Parameter Fine-Tuning,27.85
+ViTH,865,20x,heightmap,Linear Probing,36.08
+ViTH,865,20x+50x,texture,Full-Parameter Fine-Tuning,35.83
+ViTH,865,20x+50x,texture,Linear Probing,49.17
+ViTH,865,20x+50x,heightmap,Full-Parameter Fine-Tuning,26.67
+ViTH,865,20x+50x,heightmap,Linear Probing,45.0
+ViTH,865,50x,texture,Full-Parameter Fine-Tuning,31.73
+ViTH,865,50x,texture,Linear Probing,50.96
+ViTH,865,50x,heightmap,Full-Parameter Fine-Tuning,27.88
+ViTH,865,50x,heightmap,Linear Probing,54.81
+ResNet50,512,20x,texture,From Scratch,32.91
+ResNet50,512,20x,texture,Need to delete,33.02
+ResNet50,512,20x,texture,Full-Parameter Fine-Tuning,33.02
+ResNet50,512,20x,texture,Linear Probing,35.45
+ResNet50,512,20x,heightmap,From Scratch,44.44
+ResNet50,512,20x,heightmap,Need to delete,27.94
+ResNet50,512,20x,heightmap,Full-Parameter Fine-Tuning,28.47
+ResNet50,512,20x,heightmap,Linear Probing,31.64
+ResNet50,512,20x+50x,texture,From Scratch,49.26
+ResNet50,512,20x+50x,texture,Need to delete,42.65
+ResNet50,512,20x+50x,texture,Full-Parameter Fine-Tuning,36.03
+ResNet50,512,20x+50x,texture,Linear Probing,51.47
+ResNet50,512,20x+50x,heightmap,From Scratch,55.15
+ResNet50,512,20x+50x,heightmap,Need to delete,35.29
+ResNet50,512,20x+50x,heightmap,Full-Parameter Fine-Tuning,48.53
+ResNet50,512,20x+50x,heightmap,Linear Probing,66.91
+ResNet50,512,50x,texture,From Scratch,29.81
+ResNet50,512,50x,texture,Need to delete,36.54
+ResNet50,512,50x,texture,Full-Parameter Fine-Tuning,19.23
+ResNet50,512,50x,texture,Linear Probing,53.85
+ResNet50,512,50x,heightmap,From Scratch,36.54
+ResNet50,512,50x,heightmap,Need to delete,35.58
+ResNet50,512,50x,heightmap,Full-Parameter Fine-Tuning,31.73
+ResNet50,512,50x,heightmap,Linear Probing,55.77
+ResNet50,256,20x,texture,From Scratch,33.39
+ResNet50,256,20x,texture,Need to delete,47.05
+ResNet50,256,20x,texture,Full-Parameter Fine-Tuning,40.41
+ResNet50,256,20x,texture,Linear Probing,38.57
+ResNet50,256,20x,heightmap,From Scratch,45.73
+ResNet50,256,20x,heightmap,Need to delete,38.94
+ResNet50,256,20x,heightmap,Full-Parameter Fine-Tuning,31.75
+ResNet50,256,20x,heightmap,Linear Probing,36.44
+ResNet50,256,20x+50x,texture,From Scratch,53.18
+ResNet50,256,20x+50x,texture,Need to delete,50.23
+ResNet50,256,20x+50x,texture,Full-Parameter Fine-Tuning,45.23
+ResNet50,256,20x+50x,texture,Linear Probing,55.23
+ResNet50,256,20x+50x,heightmap,From Scratch,58.64
+ResNet50,256,20x+50x,heightmap,Need to delete,44.09
+ResNet50,256,20x+50x,heightmap,Full-Parameter Fine-Tuning,52.27
+ResNet50,256,20x+50x,heightmap,Linear Probing,62.73
+ResNet50,256,50x,texture,From Scratch,50.0
+ResNet50,256,50x,texture,Need to delete,47.12
+ResNet50,256,50x,texture,Full-Parameter Fine-Tuning,50.0
+ResNet50,256,50x,texture,Linear Probing,54.81
+ResNet50,256,50x,heightmap,From Scratch,43.27
+ResNet50,256,50x,heightmap,Need to delete,41.35
+ResNet50,256,50x,heightmap,Full-Parameter Fine-Tuning,42.31
+ResNet50,256,50x,heightmap,Linear Probing,60.58
+ResNet50,865,20x,texture,From Scratch,34.81
+ResNet50,865,20x,texture,Need to delete,50.63
+ResNet50,865,20x,texture,Full-Parameter Fine-Tuning,27.85
+ResNet50,865,20x,texture,Linear Probing,24.05
+ResNet50,865,20x,heightmap,From Scratch,15.82
+ResNet50,865,20x,heightmap,Need to delete,27.85
+ResNet50,865,20x,heightmap,Full-Parameter Fine-Tuning,11.39
+ResNet50,865,20x,heightmap,Linear Probing,27.85
+ResNet50,865,20x+50x,texture,From Scratch,31.67
+ResNet50,865,20x+50x,texture,Need to delete,31.67
+ResNet50,865,20x+50x,texture,Full-Parameter Fine-Tuning,4.17
+ResNet50,865,20x+50x,texture,Linear Probing,35.0
+ResNet50,865,20x+50x,heightmap,From Scratch,26.67
+ResNet50,865,20x+50x,heightmap,Need to delete,27.5
+ResNet50,865,20x+50x,heightmap,Full-Parameter Fine-Tuning,27.5
+ResNet50,865,20x+50x,heightmap,Linear Probing,50.83
+ResNet50,865,50x,texture,From Scratch,39.42
+ResNet50,865,50x,texture,Need to delete,41.35
+ResNet50,865,50x,texture,Full-Parameter Fine-Tuning,24.04
+ResNet50,865,50x,texture,Linear Probing,33.65
+ResNet50,865,50x,heightmap,From Scratch,33.65
+ResNet50,865,50x,heightmap,Need to delete,27.88
+ResNet50,865,50x,heightmap,Full-Parameter Fine-Tuning,28.85
+ResNet50,865,50x,heightmap,Linear Probing,53.85
+ConvNextLarge,512,20x,texture,From Scratch,27.72
+ConvNextLarge,512,20x,texture,Need to delete,32.38
+ConvNextLarge,512,20x,texture,Full-Parameter Fine-Tuning,27.72
+ConvNextLarge,512,20x,texture,Linear Probing,45.61
+ConvNextLarge,512,20x,heightmap,From Scratch,27.72
+ConvNextLarge,512,20x,heightmap,Need to delete,34.92
+ConvNextLarge,512,20x,heightmap,Full-Parameter Fine-Tuning,27.72
+ConvNextLarge,512,20x,heightmap,Linear Probing,34.18
+ConvNextLarge,512,20x+50x,texture,From Scratch,49.26
+ConvNextLarge,512,20x+50x,texture,Need to delete,38.24
+ConvNextLarge,512,20x+50x,texture,Full-Parameter Fine-Tuning,35.29
+ConvNextLarge,512,20x+50x,texture,Linear Probing,55.88
+ConvNextLarge,512,20x+50x,heightmap,From Scratch,44.12
+ConvNextLarge,512,20x+50x,heightmap,Need to delete,36.76
+ConvNextLarge,512,20x+50x,heightmap,Full-Parameter Fine-Tuning,35.29
+ConvNextLarge,512,20x+50x,heightmap,Linear Probing,58.09
+ConvNextLarge,512,50x,texture,From Scratch,46.15
+ConvNextLarge,512,50x,texture,Need to delete,31.73
+ConvNextLarge,512,50x,texture,Full-Parameter Fine-Tuning,30.77
+ConvNextLarge,512,50x,texture,Linear Probing,52.88
+ConvNextLarge,512,50x,heightmap,From Scratch,27.88
+ConvNextLarge,512,50x,heightmap,Need to delete,31.73
+ConvNextLarge,512,50x,heightmap,Full-Parameter Fine-Tuning,8.65
+ConvNextLarge,512,50x,heightmap,Linear Probing,57.69
+ConvNextLarge,256,20x,texture,From Scratch,29.68
+ConvNextLarge,256,20x,texture,Need to delete,43.54
+ConvNextLarge,256,20x,texture,Full-Parameter Fine-Tuning,26.92
+ConvNextLarge,256,20x,texture,Linear Probing,40.64
+ConvNextLarge,256,20x,heightmap,From Scratch,30.14
+ConvNextLarge,256,20x,heightmap,Need to delete,29.34
+ConvNextLarge,256,20x,heightmap,Full-Parameter Fine-Tuning,30.14
+ConvNextLarge,256,20x,heightmap,Linear Probing,33.74
+ConvNextLarge,256,20x+50x,texture,From Scratch,42.05
+ConvNextLarge,256,20x+50x,texture,Need to delete,51.59
+ConvNextLarge,256,20x+50x,texture,Full-Parameter Fine-Tuning,40.0
+ConvNextLarge,256,20x+50x,texture,Linear Probing,66.82
+ConvNextLarge,256,20x+50x,heightmap,From Scratch,40.0
+ConvNextLarge,256,20x+50x,heightmap,Need to delete,43.41
+ConvNextLarge,256,20x+50x,heightmap,Full-Parameter Fine-Tuning,40.0
+ConvNextLarge,256,20x+50x,heightmap,Linear Probing,61.59
+ConvNextLarge,256,50x,texture,From Scratch,31.73
+ConvNextLarge,256,50x,texture,Need to delete,46.15
+ConvNextLarge,256,50x,texture,Full-Parameter Fine-Tuning,30.77
+ConvNextLarge,256,50x,texture,Linear Probing,54.81
+ConvNextLarge,256,50x,heightmap,From Scratch,50.0
+ConvNextLarge,256,50x,heightmap,Need to delete,32.69
+ConvNextLarge,256,50x,heightmap,Full-Parameter Fine-Tuning,4.81
+ConvNextLarge,256,50x,heightmap,Linear Probing,60.58
+ConvNextLarge,865,20x,texture,From Scratch,29.11
+ConvNextLarge,865,20x,texture,Need to delete,34.18
+ConvNextLarge,865,20x,texture,Full-Parameter Fine-Tuning,27.85
+ConvNextLarge,865,20x,texture,Linear Probing,48.1
+ConvNextLarge,865,20x,heightmap,From Scratch,27.85
+ConvNextLarge,865,20x,heightmap,Need to delete,28.48
+ConvNextLarge,865,20x,heightmap,Full-Parameter Fine-Tuning,27.85
+ConvNextLarge,865,20x,heightmap,Linear Probing,44.3
+ConvNextLarge,865,20x+50x,texture,From Scratch,40.83
+ConvNextLarge,865,20x+50x,texture,Need to delete,37.5
+ConvNextLarge,865,20x+50x,texture,Full-Parameter Fine-Tuning,29.17
+ConvNextLarge,865,20x+50x,heightmap,From Scratch,27.5
+ConvNextLarge,865,20x+50x,heightmap,Need to delete,32.5
+ConvNextLarge,865,20x+50x,heightmap,Full-Parameter Fine-Tuning,26.67
+ConvNextLarge,865,20x+50x,heightmap,Linear Probing,60.0
+ConvNextLarge,865,50x,texture,From Scratch,44.23
+ConvNextLarge,865,50x,texture,Need to delete,46.15
+ConvNextLarge,865,50x,texture,Full-Parameter Fine-Tuning,19.23
+ConvNextLarge,865,50x,texture,Linear Probing,53.85
+ConvNextLarge,865,50x,heightmap,From Scratch,34.62
+ConvNextLarge,865,50x,heightmap,Need to delete,27.88
+ConvNextLarge,865,50x,heightmap,Full-Parameter Fine-Tuning,27.88
+ConvNextLarge,865,50x,heightmap,Linear Probing,58.65
+FVs,512,20x,texture,N/A,35.45
+FVs,512,20x,heightmap,N/A,31.01
+FVs,512,20x+50x,texture,N/A,42.65
+FVs,512,20x+50x,heightmap,N/A,41.18
+FVs,512,50x,texture,N/A,46.15
+FVs,512,50x,heightmap,N/A,47.12
+FVs,256,20x,texture,N/A,35.12
+FVs,256,20x,heightmap,N/A,39.98
+FVs,256,20x+50x,texture,N/A,45.68
+FVs,256,20x+50x,heightmap,N/A,41.14
+FVs,256,50x,texture,N/A,47.12
+FVs,256,50x,heightmap,N/A,52.88
+FVs,865,20x,texture,N/A,39.24
+FVs,865,20x,heightmap,N/A,32.28
+FVs,865,20x+50x,texture,N/A,40.83
+FVs,865,20x+50x,heightmap,N/A,40.0
+FVs,865,50x,texture,N/A,46.15
+FVs,865,50x,heightmap,N/A,45.19
+ConvNextTiny,512,20x,texture,From Scratch,29.74
+ConvNextTiny,512,20x,texture,Need to delete,34.07
+ConvNextTiny,512,20x,texture,Full-Parameter Fine-Tuning,27.72
+ConvNextTiny,512,20x,texture,Linear Probing,40.53
+ConvNextTiny,512,20x,heightmap,From Scratch,45.71
+ConvNextTiny,512,20x,heightmap,Need to delete,24.02
+ConvNextTiny,512,20x,heightmap,Full-Parameter Fine-Tuning,27.72
+ConvNextTiny,512,20x,heightmap,Linear Probing,40.53
+ConvNextTiny,512,20x+50x,texture,From Scratch,36.75
+ConvNextTiny,512,20x+50x,texture,Need to delete,49.5
+ConvNextTiny,512,20x+50x,texture,Full-Parameter Fine-Tuning,35.29
+ConvNextTiny,512,20x+50x,texture,Linear Probing,58.09
+ConvNextTiny,512,20x+50x,heightmap,From Scratch,44.12
+ConvNextTiny,512,20x+50x,heightmap,Need to delete,44.25
+ConvNextTiny,512,20x+50x,heightmap,Full-Parameter Fine-Tuning,36.0
+ConvNextTiny,512,20x+50x,heightmap,Linear Probing,60.25
+ConvNextTiny,512,50x,texture,From Scratch,30.77
+ConvNextTiny,512,50x,texture,Need to delete,31.73
+ConvNextTiny,512,50x,texture,Full-Parameter Fine-Tuning,46.15
+ConvNextTiny,512,50x,texture,Linear Probing,54.81
+ConvNextTiny,512,50x,heightmap,From Scratch,19.23
+ConvNextTiny,512,50x,heightmap,Need to delete,32.69
+ConvNextTiny,512,50x,heightmap,Full-Parameter Fine-Tuning,27.88
+ConvNextTiny,512,50x,heightmap,Linear Probing,57.69
+ConvNextTiny,256,20x,texture,From Scratch,35.2
+ConvNextTiny,256,20x,texture,Need to delete,28.65
+ConvNextTiny,256,20x,texture,Full-Parameter Fine-Tuning,30.14
+ConvNextTiny,256,20x,texture,Linear Probing,38.88
+ConvNextTiny,256,20x,heightmap,From Scratch,40.61
+ConvNextTiny,256,20x,heightmap,Need to delete,28.07
+ConvNextTiny,256,20x,heightmap,Full-Parameter Fine-Tuning,30.14
+ConvNextTiny,256,20x,heightmap,Linear Probing,37.19
+ConvNextTiny,256,20x+50x,texture,From Scratch,44.09
+ConvNextTiny,256,20x+50x,texture,Need to delete,54.32
+ConvNextTiny,256,20x+50x,texture,Full-Parameter Fine-Tuning,40.0
+ConvNextTiny,256,20x+50x,texture,Linear Probing,62.27
+ConvNextTiny,256,20x+50x,heightmap,From Scratch,58.41
+ConvNextTiny,256,20x+50x,heightmap,Need to delete,43.41
+ConvNextTiny,256,20x+50x,heightmap,Full-Parameter Fine-Tuning,40.0
+ConvNextTiny,256,20x+50x,heightmap,Linear Probing,54.55
+ConvNextTiny,256,50x,texture,From Scratch,23.08
+ConvNextTiny,256,50x,texture,Need to delete,45.19
+ConvNextTiny,256,50x,texture,Full-Parameter Fine-Tuning,28.85
+ConvNextTiny,256,50x,texture,Linear Probing,56.73
+ConvNextTiny,256,50x,heightmap,From Scratch,35.58
+ConvNextTiny,256,50x,heightmap,Need to delete,23.08
+ConvNextTiny,256,50x,heightmap,Full-Parameter Fine-Tuning,4.81
+ConvNextTiny,256,50x,heightmap,Linear Probing,55.77
+ConvNextTiny,865,20x,texture,From Scratch,28.48
+ConvNextTiny,865,20x,texture,Need to delete,34.18
+ConvNextTiny,865,20x,texture,Full-Parameter Fine-Tuning,27.85
+ConvNextTiny,865,20x,texture,Linear Probing,43.04
+ConvNextTiny,865,20x,heightmap,From Scratch,27.85
+ConvNextTiny,865,20x,heightmap,Need to delete,31.01
+ConvNextTiny,865,20x,heightmap,Full-Parameter Fine-Tuning,27.85
+ConvNextTiny,865,20x,heightmap,Linear Probing,36.08
+ConvNextTiny,865,20x+50x,texture,From Scratch,40.83
+ConvNextTiny,865,20x+50x,texture,Need to delete,36.67
+ConvNextTiny,865,20x+50x,texture,Full-Parameter Fine-Tuning,28.33
+ConvNextTiny,865,20x+50x,texture,Linear Probing,56.67
+ConvNextTiny,865,20x+50x,heightmap,From Scratch,29.17
+ConvNextTiny,865,20x+50x,heightmap,Need to delete,29.17
+ConvNextTiny,865,20x+50x,heightmap,Full-Parameter Fine-Tuning,26.67
+ConvNextTiny,865,20x+50x,heightmap,Linear Probing,56.67
+ConvNextTiny,865,50x,texture,From Scratch,46.15
+ConvNextTiny,865,50x,texture,Need to delete,33.65
+ConvNextTiny,865,50x,texture,Full-Parameter Fine-Tuning,27.88
+ConvNextTiny,865,50x,texture,Linear Probing,53.85
+ConvNextTiny,865,50x,heightmap,From Scratch,26.92
+ConvNextTiny,865,50x,heightmap,Need to delete,29.81
+ConvNextTiny,865,50x,heightmap,Full-Parameter Fine-Tuning,27.88
+ConvNextTiny,865,50x,heightmap,Linear Probing,52.88

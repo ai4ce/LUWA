@@ -1,1 +1,0 @@
-from .ResNet import Bottleneck, ResNet

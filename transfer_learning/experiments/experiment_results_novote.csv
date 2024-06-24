@@ -1,0 +1,19 @@
+Model Name,Granularity,Magnification,Modality,Training Strategy,Accuracy
+FVs,512,20x,texture,N/A,35.45
+FVs,512,20x,heightmap,N/A,31.01
+FVs,512,20x+50x,texture,N/A,42.65
+FVs,512,20x+50x,heightmap,N/A,41.18
+FVs,512,50x,texture,N/A,46.15
+FVs,512,50x,heightmap,N/A,47.12
+FVs,256,20x,texture,N/A,35.12
+FVs,256,20x,heightmap,N/A,39.98
+FVs,256,20x+50x,texture,N/A,45.68
+FVs,256,20x+50x,heightmap,N/A,41.14
+FVs,256,50x,texture,N/A,47.12
+FVs,256,50x,heightmap,N/A,52.88
+FVs,865,20x,texture,N/A,39.24
+FVs,865,20x,heightmap,N/A,32.28
+FVs,865,20x+50x,texture,N/A,40.83
+FVs,865,20x+50x,heightmap,N/A,40.0
+FVs,865,50x,texture,N/A,46.15
+FVs,865,50x,heightmap,N/A,45.19
