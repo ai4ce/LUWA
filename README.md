@@ -2,9 +2,8 @@
 
 [Jing Zhang](https://jingz6676.github.io//)\*, [Irving Fang](https://irvingf7.github.io/)\*,  [Hao Wu](https://www.linkedin.com/in/hao-wu-8bbb7724a/), [Akshat Kaushik](https://www.linkedin.com/in/akshat-kaushik/), [Alice Rodriguez](https://as.nyu.edu/departments/anthropology/people/graduate-students/doctoral-students/alice-rodriguez.html), [Hanwen Zhao](https://www.linkedin.com/in/hanwen-zhao-2523a4104/), [Juexiao Zhang](https://juexzz.github.io/), [Zhuo Zheng](https://zhuozheng.top/), [Radu Iovita](https://wp.nyu.edu/faculty-iovita/), [Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ)
 
-![](./figs/figure1_v2.jpg)
 ## Project Website
-Please visit [our project website](https://ai4ce.github.io/EgoPAT3Dv2/) for more information.
+Please visit [our project website](https://ai4ce.github.io/EgoPAT3Dv2/) for more information, including an interactive demo with real artifacts.
 
 
 ## Environment Setup
@@ -14,8 +13,7 @@ We utilized `PyTorch 2.1.1` to access some of its exclusive features such as `to
 
 
 ## Dataset
-Please visit our [Hugging Face repo](https://huggingface.co/datasets/ai4ce/LUWA/tree/main) to access the dataset. Please refer to `transfer_learning
-/data_utils/data_tribology.py` for how to process them. 
+Please visit our [Hugging Face repo](https://huggingface.co/datasets/ai4ce/LUWA/tree/main) to access the dataset. Please refer to `transfer_learning/data_utils/data_tribology.py` for how to process them. 
 
 1. we use integers to label stone that has been worked again certain material as follows:
     | Material    | Integer |
