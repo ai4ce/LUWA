@@ -31,7 +31,8 @@ Please refer to `transfer_learning/data_utils/data_tribology.py` for how to proc
     | HORSETAIL   | 8     |
 
     Here, "BEFOREUSE" refers to a state where the stone is not polished with any material at all.
-2. In the dataset, $256, 512, 865$ refers to the resolution of the images. 
+2. In the dataset, $256, 512, 865$ refers to the resolution of the images.
+   
     a. The images were originally taken at the resolution of $865 \times 865$. This corresponds to the 1 granularity in the paper.
 
     b. $512$ corresponds to the 6 granularity in the paper.
