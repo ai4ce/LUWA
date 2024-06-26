@@ -32,8 +32,10 @@ Please refer to `transfer_learning/data_utils/data_tribology.py` for how to proc
 
     Here, "BEFOREUSE" refers to a state where the stone is not polished with any material at all.
 2. In the dataset, $256, 512, 865$ refers to the resolution of the images. 
-    a. The images were originally taken at the resolution of $865 \times 865$. This corresponds to the 1 granularity in the paper
+    a. The images were originally taken at the resolution of $865 \times 865$. This corresponds to the 1 granularity in the paper.
+
     b. $512$ corresponds to the 6 granularity in the paper.
+    
     c. $256$ corresponds to the 24 granularity in the paper.
 
 ## Fully-Supervised Image Classification
@@ -63,7 +65,7 @@ To reproduce the results in the *Fully-Supervised Image Classification* section 
 3. There are some helper functions located in `transfer_learning/experiments/collect_results.py` to gather the inference results in a more presentable and readable format. Although ironically the helper script itself is not super tidy.
 
 ## Few-Shot Image Classification
-in the *Few-Shot Image Classification* section of the paper, please refer to the `fewshot_learning` folder.
+To reproduce the results in the *Few-Shot Image Classification* section of the paper, please refer to the `fewshot_learning` folder.
 
 ## Citation
 If you find our work helpful in your research, please consider citing the following:
