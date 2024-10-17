@@ -69,9 +69,9 @@ To reproduce the results in the *Fully-Supervised Image Classification* section 
 To reproduce the results in the *Few-Shot Image Classification* section of the paper, please refer to the `fewshot_learning` folder.
 
 ## Crop Image
-zip_file_path: Path to your uploaded zip file.
-extracted_folder_path: The folder where the files will be extracted.
-output_zip_path: The location to save the compressed results after processing.
+1. zip_file_path: Path to your uploaded zip file.
+2. extracted_folder_path: The folder where the files will be extracted.
+3. output_zip_path: The location to save the compressed results after processing.
 
 ## Citation
 If you find our work helpful in your research, please consider citing the following:
