@@ -1,4 +1,4 @@
-# [LUWA Dataset: Learning Lithic Use-Wear Analysis on Microscopic Images](https://ai4ce.github.io/LUWA/).
+# [[CVPR 2024 Highlight] LUWA Dataset: Learning Lithic Use-Wear Analysis on Microscopic Images](https://ai4ce.github.io/LUWA/).
 
 [Jing Zhang](https://jingz6676.github.io//)\*, [Irving Fang](https://irvingf7.github.io/)\*,  [Hao Wu](https://www.linkedin.com/in/hao-wu-8bbb7724a/), [Akshat Kaushik](https://www.linkedin.com/in/akshat-kaushik/), [Alice Rodriguez](https://as.nyu.edu/departments/anthropology/people/graduate-students/doctoral-students/alice-rodriguez.html), [Hanwen Zhao](https://www.linkedin.com/in/hanwen-zhao-2523a4104/), [Juexiao Zhang](https://juexzz.github.io/), [Zhuo Zheng](https://zhuozheng.top/), [Radu Iovita](https://wp.nyu.edu/faculty-iovita/), [Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ)
 
