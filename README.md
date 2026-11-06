@@ -1,5 +1,7 @@
 # [[CVPR 2024 Highlight] LUWA Dataset: Learning Lithic Use-Wear Analysis on Microscopic Images](https://ai4ce.github.io/LUWA/).
 
+[Official Paper (CVPR 2024)](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_LUWA_Dataset_Learning_Lithic_Use-Wear_Analysis_on_Microscopic_Images_CVPR_2024_paper.html) · [Project Page](https://ai4ce.github.io/LUWA/) · [arXiv](https://arxiv.org/abs/2403.13171)
+
 [Jing Zhang](https://jingz6676.github.io//)\*, [Irving Fang](https://irvingf7.github.io/)\*,  [Hao Wu](https://www.linkedin.com/in/hao-wu-8bbb7724a/), [Akshat Kaushik](https://www.linkedin.com/in/akshat-kaushik/), [Alice Rodriguez](https://as.nyu.edu/departments/anthropology/people/graduate-students/doctoral-students/alice-rodriguez.html), [Hanwen Zhao](https://www.linkedin.com/in/hanwen-zhao-2523a4104/), [Juexiao Zhang](https://juexzz.github.io/), [Zhuo Zheng](https://zhuozheng.top/), [Radu Iovita](https://wp.nyu.edu/faculty-iovita/), [Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ)
 
 ## Project Website
@@ -82,6 +84,8 @@ If you find our work helpful in your research, please consider citing the follow
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
     month     = {June},
     year      = {2024},
-    pages     = {22563-22573}
+    pages     = {22563--22573},
+    doi       = {10.1109/CVPR52733.2024.02129},
+    url       = {https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_LUWA_Dataset_Learning_Lithic_Use-Wear_Analysis_on_Microscopic_Images_CVPR_2024_paper.html}
 }
 ```
